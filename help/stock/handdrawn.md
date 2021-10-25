@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 이미지에 수작업으로 그린 심미적 추가
-description: iPad용 Photoshop을 사용하여 이미지에 깊이와 치수를 추가하는 고유한 기술을 사용하여 창조적인 마케팅을 강화하십시오.
+title: Adobe에 손으로 그린 아트웍 추가 [!DNL Stock] 이미지
+description: Photoshop for iPad을 사용하여 이미지에 입체감을 더해주는 특별한 기법을 통해 크리에이티브 마케팅을 전개할 수 있습니다
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 이미지에 손으로 그린 심미적 추가
+# Adobe에 손으로 그린 아트웍 추가 [!DNL Stock] 이미지
 
-iPad용 Photoshop을 사용하여 이미지에 깊이와 차원을 추가하는 고유한 기술을 사용하여 창조적인 마케팅을 강화하십시오.
+iPad용 Photoshop을 사용하여 이미지에 입체감을 더해주는 특별한 기법으로 크리에이티브 마케팅을 전개해 보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

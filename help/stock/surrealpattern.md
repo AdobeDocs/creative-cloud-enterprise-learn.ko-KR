@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]을 사용하여 반 초현실적인 패턴 만들기
-description: Adobe [!DNL Stock]의 초현실적인 이미지를 바탕으로 완벽한 패턴 만들기
+title: Adobe을 사용하여 초현실적인 패턴 만들기 [!DNL Stock]
+description: Adobe의 초현실적인 이미지를 기반으로 매력적이고 매끄러운 패턴을 만들 수 있습니다 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]을(를) 사용하여 반 초현실적인 패턴 만들기
+# Adobe을 사용하여 초현실적인 패턴 만들기 [!DNL Stock]
 
-Adobe [!DNL Stock]의 초현실적인 이미지를 바탕으로 완벽한 패턴을 만듭니다.
+Adobe의 초현실적인 이미지를 기반으로 매력적이고 매끄러운 패턴을 만들 수 있습니다 [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

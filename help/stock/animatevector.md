@@ -1,6 +1,6 @@
 ---
-title: Photoshop에서 Adobe [!DNL Stock] 벡터 그림에 애니메이션 적용
-description: Adobe [!DNL Stock]용 편집 가능한 벡터를 사용하여 뉴스레터 그래픽에 애니메이션 적용
+title: Adobe 애니메이션 만들기 [!DNL Stock] Photoshop의 벡터 일러스트레이션
+description: Adobe을 위한 편집 가능한 벡터로 뉴스레터 그래픽에 애니메이션을 추가하세요 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Photoshop에서 Adobe [!DNL Stock] 벡터 그림 애니메이션 적용
+# Adobe 애니메이션 만들기 [!DNL Stock] Photoshop의 벡터 일러스트레이션
 
-Adobe [!DNL Stock]용 편집 가능한 벡터를 사용하여 뉴스레터 그래픽에 애니메이션을 적용합니다.
+Adobe을 위한 편집 가능한 벡터로 뉴스레터 그래픽에 애니메이션을 추가하세요 [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

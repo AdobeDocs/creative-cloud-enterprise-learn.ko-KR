@@ -1,7 +1,7 @@
 ---
-user-guide-title: 엔터프라이즈 자습서용 Creative 클라우드
+user-guide-title: 기업 Tutorials Creative Cloud
 breadcrumb-title: Creative Cloud for enterprise
-user-guide-description: 엔터프라이즈용 Creative Cloud에 초점을 맞춘 자습서와 빠른 참조 안내서를 봅니다.
+user-guide-description: 기업용 Creative Cloud에 중점을 둔 튜토리얼 및 빠른 참조 가이드를 확인하십시오.
 solution: Creative Cloud
 type: Tutorial
 source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
@@ -12,66 +12,66 @@ ht-degree: 8%
 ---
 
 
-# 엔터프라이즈 자습서용 Creative Cloud {#cce-learning-hub}
+# Creative Cloud for enterprise 튜토리얼 {#cce-learning-hub}
 
 + [개요](overview.md)
 + CCE {#cceoverview}
    + [개요](cce/overview-cce.md)
    + 튜토리얼 {#ccetutorials}
-      + [팀을 위한 Creative Cloud 라이브러리 만들기](cce/ccteamlibraries.md)
-      + [팀용 Creative Cloud Library와 브랜딩 자산 공유](cce/sharecclibraries.md)
-      + [Adobe [!DNL Stock] 와 iPad용 Photoshop을 사용하여 고유한 합성 만들기](cce/compositepsipad.md)
-      + [Photoshop으로 영화관 만들기](cce/cinemagraphps.md)
+      + [팀용 Creative Cloud 라이브러리 만들기](cce/ccteamlibraries.md)
+      + [팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유](cce/sharecclibraries.md)
+      + [Adobe을 사용하여 독특한 합성 이미지 만들기 [!DNL Stock] 및 iPad용 Photoshop](cce/compositepsipad.md)
+      + [Photoshop을 사용하여 시네마그래프 만들기](cce/cinemagraphps.md)
       + [그래픽 형식의 알파벳 수프 디코딩](cce/alphabetsoup.md)
-      + [iPad와 iPhone의 프레스코에서 손을 잡으세요](cce/frescoworkshop.md)
-   + [빠른 참조 가이드](quick-reference/overview-ref.md)
+      + [iPad 및 iPhone에서 Fresco 활용](cce/frescoworkshop.md)
+   + [빠른 참조 안내서](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
    + 튜토리얼 {#stocktutorials}
-      + [Adobe [!DNL Stock] 라이선스 기록 검색](stock/searchstock.md)
-      + [Adobe [!DNL Stock] 이미지에 수작업으로 그린 심미적 추가](stock/handdrawn.md)
-      + [마스크와 애니메이션이 포함된 입력 체계에 플레어를 추가합니다.](stock/flairtypography.md)
-      + [Photoshop에서 Adobe [!DNL Stock] 벡터 그림에 애니메이션 적용](stock/animatevector.md)
-      + [Adobe [!DNL Stock] 와 Spark Video를 사용하여 만든 비디오를 사용하여 연간 보고서 시작](stock/annualreport.md)
-      + [Adobe [!DNL Stock]의 사용자 지정 애니메이션으로 창의력을 발휘합니다.](stock/customanimations.md)
-      + [스토리에 맞게 Adobe [!DNL Stock] 이미지 색상 변경](stock/changecolors.md)
-      + [Adobe [!DNL Stock] 이미지를 사용하여 포스터의 3D 콜라주 만들기](stock/collage.md)
-      + [Adobe [!DNL Stock] 템플릿 및 Photoshop 스마트 오브젝트를 사용하여 굵은 레이블 만들기](stock/boldlabel.md)
-      + [Adobe [!DNL Stock]으로 회사 지침 정보 만들기](stock/infographic.md)
-      + [Adobe [!DNL Stock]을 사용하여 제품 기능 비교 차트 만들기](stock/featurecomparison.md)
-      + [Adobe [!DNL Stock]을 사용하여 반진짜 합성 만들기](stock/surrealcomposite.md)
-      + [Adobe [!DNL Stock]을 사용하여 반 초현실적인 패턴 만들기](stock/surrealpattern.md)
-      + [Adobe [!DNL Stock]을 사용하여 대화형 제품 구성 프로그램 만들기](stock/productconfigurator.md)
-      + [Adobe [!DNL Stock] 와 XD를 사용하여 대화형 관광 사진 만들기](stock/interactivetourismphoto.md)
-      + [Adobe [!DNL Stock] 와 Photoshop을 사용하여 전자 메일에 대한 애니메이션 만들기](stock/animationemail.md)
-      + [아름다운 그래디언트와 Adobe [!DNL Stock] 에셋을 사용하여 결합된 브랜드 이미지 만들기](stock/brandgradients.md)
-      + [Adobe [!DNL Stock] 이미지를 CSS와 결합하여 매력적인 웹 그래픽 만들기](stock/webgraphics.md)
-      + [Adobe [!DNL Stock]을 사용하여 빠르게 고무적인 무드 보드를 만듭니다.](stock/moodboard.md)
-      + [Adobe [!DNL Stock] 이미지를 사용하여 실제 사진 합성 만들기](stock/realisticcomposite.md)
-      + [Adobe [!DNL Stock] 와 XD를 사용하여 불러오는 화면 애니메이션 사용자 지정](stock/loadingscreen.md)
-      + [전문가처럼 보이도록 Adobe [!DNL Stock] 프리젠테이션 템플릿 사용자 정의](stock/presentationtemplate.md)
-      + [Adobe [!DNL Stock] 벡터 그림에서 색상 사용자 정의](stock/customizecolors.md)
+      + [검색 Adobe [!DNL Stock] 라이선스 내역](stock/searchstock.md)
+      + [Adobe에 손으로 그린 아트웍 추가 [!DNL Stock] 이미지](stock/handdrawn.md)
+      + [마스크와 애니메이션을 사용하여 타이포그래피에 멋스러움 더하기](stock/flairtypography.md)
+      + [Adobe 애니메이션 만들기 [!DNL Stock] Photoshop의 벡터 일러스트레이션](stock/animatevector.md)
+      + [Adobe으로 제작한 비디오로 연간 보고서 작성 [!DNL Stock] 및 Spark Video](stock/annualreport.md)
+      + [Adobe에 따라 개성 있는 애니메이션으로 창의력 발휘 [!DNL Stock]](stock/customanimations.md)
+      + [Adobe 변경 [!DNL Stock] 스토리에 어울리는 이미지 색상](stock/changecolors.md)
+      + [Adobe을 사용하여 포스터용 3D 콜라주 만들기 [!DNL Stock] 이미지](stock/collage.md)
+      + [Adobe을 사용하여 굵은 레이블 만들기 [!DNL Stock] 템플릿 및 Photoshop 고급 개체](stock/boldlabel.md)
+      + [Adobe을 사용하여 기업 가이드라인 인포그래픽 만들기 [!DNL Stock]](stock/infographic.md)
+      + [Adobe을 사용하여 제품 기능 비교 차트 만들기 [!DNL Stock]](stock/featurecomparison.md)
+      + [Adobe을 사용하여 초현실적인 합성 이미지 만들기 [!DNL Stock]](stock/surrealcomposite.md)
+      + [Adobe을 사용하여 초현실적인 패턴 만들기 [!DNL Stock]](stock/surrealpattern.md)
+      + [Adobe을 사용하여 인터랙티브한 상품 구성 앱 만들기 [!DNL Stock]](stock/productconfigurator.md)
+      + [Adobe을 사용하여 인터랙티브한 관광 사진 만들기 [!DNL Stock] 및 XD](stock/interactivetourismphoto.md)
+      + [Adobe이 포함된 이메일용 애니메이션 만들기 [!DNL Stock] 및 Photoshop](stock/animationemail.md)
+      + [멋진 그레이디언트와 Adobe으로 일관된 브랜드 이미지 만들기 [!DNL Stock] assets](stock/brandgradients.md)
+      + [Adobe을 결합하여 매력적인 웹 그래픽 제작 [!DNL Stock] CSS를 사용한 이미지](stock/webgraphics.md)
+      + [Adobe을 사용하여 신속하게 무드보드 만들기 [!DNL Stock]](stock/moodboard.md)
+      + [Adobe을 사용하여 리얼한 합성 사진 만들기 [!DNL Stock] 이미지](stock/realisticcomposite.md)
+      + [Adobe을 사용하여 로딩 화면 애니메이션 사용자 정의 [!DNL Stock] 및 XD](stock/loadingscreen.md)
+      + [Adobe 사용자 정의 [!DNL Stock] 전문가 수준의 프레젠테이션 템플릿](stock/presentationtemplate.md)
+      + [Adobe의 색상 사용자 정의 [!DNL Stock] 벡터 일러스트레이션](stock/customizecolors.md)
 + XD {#xdoverview}
    + [개요](xd/overview-xd.md)
    + 튜토리얼 {#xdtutorials}
-   + [Adobe XD에서 [!UICONTROL Components]를 편안하게 사용](xd/components.md)
+   + [편안하게 [!UICONTROL 구성 요소] Adobe XD](xd/components.md)
 + 3D 및 VR {#3doverview}
    + [개요](3di/overview-3di.md)
    + 튜토리얼 {#3dtutorials}
-      + [CGI에서 3D 조명을 마스터하기 위한 팁 및 기술](3di/mastering3dlighting.md)
-      + [3D 렌더링 및 합성을 사용하여 포토리얼리즘 가상 사진 만들기](3di/photorealistic.md)
-      + [Adobe [!DNL Dimension] 와 Adobe [!DNL Stock]을 사용하여 3D 모델 사용자 지정 및 브랜드](3di/3ddimensionstock.md)
+      + [CGI에서 3D 조명 마스터를 위한 팁 및 기술](3di/mastering3dlighting.md)
+      + [3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기](3di/photorealistic.md)
+      + [3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 및 Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + 비디오 {#videooverview}
    + [튜토리얼](dva/overview-dva.md)
-+ {#deploy} 배포 및 관리
++ 배포 및 관리 {#deploy}
    + [개요](deploy/overview-deploy.md)
    + [일련 번호 만료](deploy/cceserial.md)
    + [지정된 사용자 라이선싱](deploy/nameduserlicensing.md)
-+ 최대 2020 {#max2020}
++ MAX 2020 {#max2020}
    + [개요](max2020/overview-max.md)
    + 튜토리얼 {#tutorials}
       + [개요](max2020/maxtutorials.md)
-      + 데스크톱 제품 {#desktop-products}
+      + 데스크탑 제품 {#desktop-products}
          + [Acrobat 및 서명](max2020/acrobat-sign.md)
          + [[!DNL Dimension]](max2020/dimension.md)
          + [Illustrator](max2020/illustrator.md)
@@ -87,9 +87,9 @@ ht-degree: 8%
       + 통합 {#integrations}
          + [AEM](max2020/aem.md)
          + [Creative Cloud 데스크탑 앱](max2020/creativeclouddesktopapp.md)
-         + [참조 라이브러리](max2020/cclibraries.md)
-         + [InDesign 서버](max2020/indesignserver.md)
+         + [CC Libraries](max2020/cclibraries.md)
+         + [InDesign Server](max2020/indesignserver.md)
          + [[!DNL Stock]](max2020/stock.md)
-         + [엔터프라이즈 관리](max2020/enterprise.md)
-      + 실무 프로젝트 {#project}
-         + [직접 얼굴 마스크 만들기](max2020/handsonproject.md)
+         + [기업 관리](max2020/enterprise.md)
+      + 실습 프로젝트 {#project}
+         + [나만의 얼굴 마스크 만들기](max2020/handsonproject.md)

@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 와 Spark Video를 사용하여 만든 비디오를 사용하여 연간 보고서 시작
-description: Adobe [!DNL Stock] 와 Spark Video를 사용하여 연간 보고서를 작성하십시오.
+title: Adobe으로 제작한 비디오로 연간 보고서 작성 [!DNL Stock] 및 Spark Video
+description: Adobe을 통해 스토리 있는 연간 보고서 만들기 [!DNL Stock] 및 Spark Video
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 및 Spark Video를 사용하여 만든 비디오를 사용하여 연간 보고서 시작
+# Adobe으로 제작한 비디오로 연간 보고서 작성 [!DNL Stock] 및 Spark Video
 
-Adobe [!DNL Stock] 및 Spark Video를 사용하여 연간 보고서를 작성하십시오.
+Adobe을 통해 스토리 있는 연간 보고서 만들기 [!DNL Stock] 및 Spark Video
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

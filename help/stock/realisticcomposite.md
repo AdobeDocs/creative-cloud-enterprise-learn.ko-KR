@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 이미지를 사용하여 실제 사진 합성 만들기
-description: Adobe [!DNL Stock] 의 멋진 사진 두 장을 결합하여 소셜 게시물에 사람들을 끌어오세요.
+title: Adobe을 사용하여 리얼한 합성 사진 만들기 [!DNL Stock] 이미지
+description: 탁월한 두 Adobe [!DNL Stock] 소셜 게시물에 사람들을 끌어들이는 사진
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 이미지를 사용하여 실제 사진 합성 만들기
+# Adobe을 사용하여 리얼한 합성 사진 만들기 [!DNL Stock] 이미지
 
-Adobe [!DNL Stock] 사진 두 장을 함께 사용하여 소셜 게시물에 사람들을 끌어오세요.
+탁월한 두 Adobe [!DNL Stock] 소셜 게시물에 사람들을 끌어들이는 사진
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

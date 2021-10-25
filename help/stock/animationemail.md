@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 와 Photoshop을 사용하여 전자 메일에 대한 애니메이션 만들기
-description: Adobe [!DNL Stock] 와 Photoshop을 사용한 중지 동작 애니메이션으로 전자 메일 기능 강화
+title: Adobe이 포함된 이메일용 애니메이션 만들기 [!DNL Stock] 및 Photoshop
+description: Adobe을 사용하여 스톱 액션 애니메이션으로 이메일을 강화할 수 있습니다. [!DNL Stock] 및 Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 및 Photoshop을 사용하여 전자 메일에 대한 애니메이션 만들기
+# Adobe이 포함된 이메일용 애니메이션 만들기 [!DNL Stock] 및 Photoshop
 
-Adobe [!DNL Stock] 및 Photoshop을 사용하여 중지 동작 애니메이션으로 전자 메일을 강화하십시오.
+Adobe을 사용하여 스톱 액션 애니메이션으로 이메일을 강화할 수 있습니다. [!DNL Stock] 및 Photoshop
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

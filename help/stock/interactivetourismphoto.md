@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 와 XD를 사용하여 대화형 관광 사진 만들기
-description: Adobe [!DNL Stock]  및 XD를 사용하여 웹 사이트 프로토타입 내에서 대화형 사진을 빠르게 만듭니다.
+title: Adobe을 사용하여 인터랙티브한 관광 사진 만들기 [!DNL Stock] 및 XD
+description: Adobe을 사용하여 웹 사이트 프로토타입에서 인터랙티브한 사진을 빠르게 만들 수 있습니다 [!DNL Stock] 및 XD
 role: User
 level: Beginner, Intermediate
 thumbnail: 331820.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 및 XD를 사용하여 대화형 관광 사진 만들기
+# Adobe을 사용하여 인터랙티브한 관광 사진 만들기 [!DNL Stock] 및 XD
 
-Adobe [!DNL Stock] 및 XD를 사용하여 웹 사이트 프로토타입에 대화형 사진을 빠르게 만듭니다.
+Adobe을 사용하여 웹 사이트 프로토타입에서 인터랙티브한 사진을 빠르게 만들 수 있습니다 [!DNL Stock] 및 XD
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

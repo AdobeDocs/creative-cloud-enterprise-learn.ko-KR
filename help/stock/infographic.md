@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]으로 회사 지침 정보 만들기
-description: Adobe [!DNL Stock] 의 다양한 자산을 결합하여 시각적으로 매력적인 infostgraphics 형식으로 지침을 전달합니다.
+title: Adobe을 사용하여 기업 가이드라인 인포그래픽 만들기 [!DNL Stock]
+description: Adobe에서 다양한 에셋 결합 [!DNL Stock] 시각적으로 매력적인 인포그래픽 형태로 지침을 전달하려면
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]으로 회사 지침 정보 만들기
+# Adobe을 사용하여 기업 가이드라인 인포그래픽 만들기 [!DNL Stock]
 
-Adobe [!DNL Stock]의 다양한 자산을 결합하여 시각적으로 매력적인 infostgraphics 형식으로 지침을 전달합니다.
+Adobe에서 다양한 에셋 결합 [!DNL Stock] 시각적으로 알기 쉬운 인포그래픽 형태로 지침을 전달하려는 경우
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

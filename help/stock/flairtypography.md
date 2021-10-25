@@ -1,6 +1,6 @@
 ---
-title: 마스크와 애니메이션이 포함된 입력 체계에 플레어를 추가합니다.
-description: Adobe [!DNL Stock] 의 요소와 After Effects의 애니메이션 스타일로 텍스트를 생생하게 표현합니다.
+title: 마스크와 애니메이션을 사용하여 타이포그래피에 멋스러움 더하기
+description: Adobe 요소를 사용하여 텍스트를 생동감 있게 표현 [!DNL Stock] 및 After Effects 애니메이션 스타일
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 마스크와 애니메이션이 포함된 입력 체계에 플레어를 추가합니다.
+# 마스크와 애니메이션을 사용하여 타이포그래피에 멋스러움 더하기
 
-Adobe [!DNL Stock]의 요소와 After Effects의 애니메이션 스타일로 텍스트를 생생하게 표현합니다.
+Adobe 요소를 사용하여 텍스트를 생동감 있게 표현 [!DNL Stock] 및 After Effects의 애니메이션 스타일도 포함됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

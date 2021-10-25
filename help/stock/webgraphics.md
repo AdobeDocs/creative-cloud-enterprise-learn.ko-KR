@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 이미지를 CSS와 결합하여 매력적인 웹 그래픽 만들기
-description: 광고 캠페인 전반에 색상과 그라디언트를 결합하여 다양한 이미지를 사용하여 브랜드 통합을 만듭니다.
+title: Adobe을 결합하여 매력적인 웹 그래픽 제작 [!DNL Stock] CSS를 사용한 이미지
+description: 광고 캠페인에서 색상과 그라디언트를 결합하여 다양한 이미지로 브랜드 일관성을 유지하세요
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 이미지를 CSS와 결합하여 매력적인 웹 그래픽 만들기
+# Adobe을 결합하여 매력적인 웹 그래픽 제작 [!DNL Stock] CSS를 사용한 이미지
 
-광고 캠페인에 색상과 그라디언트를 결합하여 다양한 이미지를 사용하여 브랜드 통합을 만듭니다.
+광고 캠페인에서 색상과 그라디언트를 결합하여 다양한 이미지로 브랜드 일관성을 유지하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

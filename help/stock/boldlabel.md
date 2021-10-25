@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 템플릿 및 Photoshop 스마트 오브젝트를 사용하여 굵은 레이블 만들기
-description: Adobe [!DNL Stock]의 현실적인 패키징 템플릿을 사용하여 사용자 정의 디자인을 디자인 및 시각화
+title: Adobe을 사용하여 굵은 레이블 만들기 [!DNL Stock] 템플릿 및 Photoshop 고급 개체
+description: Adobe의 리얼한 패키지 템플릿을 사용하여 개성 있는 디자인을 만들어 보세요 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] 템플릿 및 Photoshop 스마트 오브젝트를 사용하여 굵은 레이블 만들기
+# Adobe을 사용하여 굵은 레이블 만들기 [!DNL Stock] 템플릿 및 Photoshop 고급 개체
 
-Adobe [!DNL Stock]의 현실적인 패키징 템플릿을 사용하여 사용자 정의 디자인을 디자인 및 시각화    .
+Adobe의 리얼한 패키지 템플릿을 사용하여 개성 있는 디자인을 만들어 보세요 [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

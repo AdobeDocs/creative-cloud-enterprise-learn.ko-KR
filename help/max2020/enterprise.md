@@ -1,6 +1,6 @@
 ---
-title: 엔터프라이즈 관리
-description: 조직 전체에서 Adobe 자격 및 자산 관리
+title: 기업 관리
+description: 조직 전체에서 Adobe 권한 및 에셋 관리
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -11,13 +11,13 @@ ht-degree: 3%
 
 ---
 
-# 엔터프라이즈 관리
+# 기업 관리
 
-![자습서 영웅 이미지](../assets/hero_cce.jpg)
+![튜토리얼 메인 이미지](../assets/hero_cce.jpg)
 
-조직 전체에서 Adobe 자격 및 자산을 관리합니다.
+조직 전체에서 Adobe 권한 및 에셋 관리
 
-## 엔터프라이즈 관리 자습서 찾아보기
+## 엔터프라이즈 관리 Tutorials 찾아보기
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ ht-degree: 3%
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Adobe Fonts의 200여 제품군을 살펴보고 Adobe Fonts 서비스의 사용 편의성</em>
+    <em>거의 200개에 달하는 Adobe Fonts 제품군 및 Adobe Fonts 서비스의 사용 편이성을 살펴보세요</em>
     <br>
   </td>
   <td>
@@ -44,25 +44,25 @@ ht-degree: 3%
 </tr>
 </table>
 
-## Adobe 글꼴(5:20) {#tutorial1}
+## Adobe Fonts(5:20) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/328226?hidetitle=true)
 
 **설명:**
 
-Adobe Fonts의 200여 제품군과 Adobe Fonts 서비스의 사용 편이성을 살펴봅니다.
+거의 200개에 달하는 Adobe Fonts의 유용한 기능과 Adobe Fonts 서비스의 사용 편이성을 살펴보세요.
 
-이 자습서에서는 다음 방법을 배웁니다.
-* 강력한 검색 인터페이스를 사용하여 올바른 글꼴을 빠르고 쉽게 찾을 수 있습니다.
-* 네이티브 Creative Cloud 통합을 사용하여 시간과 비용 절감
-* Adobe Admin 콘솔에서 모든 글꼴을 한 곳에서 관리
+이 튜토리얼에서는 다음과 같은 방법을 살펴봅니다.
+* 강력한 탐색 인터페이스를 사용하여 빠르고 손쉽게 적합한 글꼴을 찾을 수 있습니다
+* 기본 Creative Cloud 통합을 통해 시간 및 비용 절감
+* Adobe Admin Console에서 한 곳에서 모든 글꼴 관리
 
-**제공 대상:**
+**프레젠테이션:**
 
-Todd Burke, 주요 솔루션 컨설턴트(디지털 미디어)
+Todd Burke, 수석 솔루션 컨설턴트(디지털 미디어)
 
 **엔터프라이즈 관리 리소스:**
 
-[Adobe 글꼴 사용 설명서](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fonts 사용 안내서](https://helpx.adobe.com/fonts/user-guide.html)
 
-[엔터프라이즈 관리 가이드](https://helpx.adobe.com/enterprise/admin-guide.html)
+[기업 관리 안내서](https://helpx.adobe.com/enterprise/admin-guide.html)

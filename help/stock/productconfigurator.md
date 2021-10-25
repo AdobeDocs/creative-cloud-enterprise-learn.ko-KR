@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]을 사용하여 대화형 제품 구성 프로그램 만들기
-description: Adobe [!DNL Stock] 의 대화형 작업, 애니메이션 및 편집 가능한 아트웍의 강력한 기능을 사용하여 시각적 방법으로 재무 정보를 제시할 수 있습니다.
+title: Adobe을 사용하여 인터랙티브한 상품 구성 앱 만들기 [!DNL Stock]
+description: Adobe에서 강력한 인터랙션, 애니메이션, 편집 가능한 아트웍 사용 [!DNL Stock] 금융 정보를 시각적으로 제시하다
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]을(를) 사용하여 대화형 제품 구성 프로그램 만들기
+# Adobe을 사용하여 인터랙티브한 상품 구성 앱 만들기 [!DNL Stock]
 
-Adobe [!DNL Stock]의 대화형 작업, 애니메이션 및 편집 가능한 아트웍의 강력한 기능을 사용하여 시각적 방법으로 재무 정보를 제공합니다.
+Adobe에서 강력한 인터랙션, 애니메이션, 편집 가능한 아트웍 사용 [!DNL Stock] 재무 정보를 시각적으로 제시합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

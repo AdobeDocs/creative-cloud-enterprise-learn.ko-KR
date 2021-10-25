@@ -1,6 +1,6 @@
 ---
 title: 튜토리얼
-description: 엔터프라이즈 학습 허브용 Creative Cloud 시작
+description: Enterprise Learning Hub Creative Cloud 시작
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
@@ -11,11 +11,11 @@ ht-degree: 10%
 
 ---
 
-# 엔터프라이즈 자습서용 Creative 클라우드
+# 기업 Tutorials Creative Cloud
 
-![Creative Cloud Hero 이미지](assets/hero_cce.jpg)
+![Creative Cloud 메인 이미지](assets/hero_cce.jpg)
 
-엔터프라이즈 학습 허브용 Creative Cloud에 오신 것을 환영합니다. 기업을 위한 Creative Cloud에 초점을 맞춘 다양한 학습 경험을 확인할 수 있습니다. Dell의 자습서, 웹 세미나 및 사용 사례는 엔터프라이즈 제품을 위한 Creative Cloud에서 초보자와 관리자 모두를 빠르게 실행할 수 있도록 설계되었습니다.
+Enterprise Learning Hub Creative Cloud에 오신 것을 환영합니다. 엔터프라이즈용 Creative Cloud에 중점을 둔 다양한 학습 경험을 찾을 수 있습니다. 튜토리얼, 웨비나 및 활용 사례는 입문자와 관리자 모두 엔터프라이즈 제품 Creative Cloud을 신속하게 수행할 수 있도록 고안되었습니다.
 
 ## 항목 찾아보기
 
@@ -28,7 +28,7 @@ ht-degree: 10%
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud for enterprise</strong></a>
     </div>
-    <em>엔터프라이즈 관점에서 최신 Creative Cloud 릴리즈의 새로운 기능에 대해 알아보십시오.</em>
+    <em>기업 관점에서 최신 Creative Cloud 릴리스의 새로운 기능 살펴보기</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ ht-degree: 10%
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>고품질 디지털 이미지, 그림, 비디오, 오디오, 템플릿 등</em>
+    <em>고품질 디지털 이미지, 일러스트레이션, 비디오, 오디오, 템플릿 등</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ ht-degree: 10%
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>사용자 환경 설계, 프로토타입 및 공유</em>
+    <em>사용자 경험 디자인, 프로토타이핑 및 공유</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ ht-degree: 10%
     <div>
    <a href="3di/overview-3di.md"><strong>Adobe 3D 및 VR</strong></a>
     </div>
-    <em>브랜딩, 제품 샷 및 패키지 디자인을 위한 사진 현실감 있는 3D 이미지 만들기</em>
+    <em>브랜드, 제품 이미지 및 패키지 디자인을 위한 사실적인 3D 이미지 제작</em>
     <br>
   </td>
   <td>
@@ -70,17 +70,17 @@ ht-degree: 10%
     <div>
    <a href="dva/overview-dva.md"><strong>Adobe 비디오</strong></a>
     </div>
-    <em>비디오 편집, 모션 그래픽, 시각 효과, 애니메이션 등을 위한 Adobe 소프트웨어 및 앱을 통해 아이디어를 현실로 끌어오세요.</em>
+    <em>비디오 편집, 모션 그래픽, 시각 효과, 애니메이션 작업 시 Adobe 소프트웨어와 앱을 사용하면 창의적인 아이디어에 생명력을 불어넣을 수 있습니다</em>
     <br>
   </td>
   <td>
     <a href="max2020/overview-max.md">
-      <img alt="MAX 2020 — 엔터프라이즈 세션" src="assets/MAX.jpg" />
+      <img alt="MAX 2020 — Enterprise 세션" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — 엔터프라이즈 세션</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 — Enterprise 세션</strong></a>
     </div>
-    <em>MAX 2020 엔터프라이즈 세션에 대한 모든 정보</em>
+    <em>MAX 2020 기업 세션에 대한 모든 정보</em>
     <br>
   </td>
 </tr>

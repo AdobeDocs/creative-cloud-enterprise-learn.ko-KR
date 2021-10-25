@@ -1,6 +1,6 @@
 ---
-title: 스토리에 맞게 Adobe [!DNL Stock] 이미지 색상 변경
-description: 멋진 이미지를 사용하여 메시지를 지원하는 작업을 더욱 어렵게 하십시오. Adobe [!DNL Stock] 에서 고유한 사진을 찾은 다음 필요에 맞게 Adobe Photoshop에서 색상을 조정합니다.
+title: Adobe 변경 [!DNL Stock] 스토리에 어울리는 이미지 색상
+description: 멋진 이미지를 만들면 메시지에 더욱 도움이 됩니다. Adobe에서 독특한 사진 찾기 [!DNL Stock] 필요에 맞게 Adobe Photoshop의 색상을 조정할 수 있습니다
 role: User
 level: Beginner, Intermediate
 thumbnail: 331810.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 스토리에 맞게 Adobe [!DNL Stock] 이미지의 색상 변경
+# Adobe 변경 [!DNL Stock] 스토리에 어울리는 이미지 색상
 
-멋진 이미지를 사용하여 메시지를 지원하는 작업을 더욱 어렵게 하십시오. Adobe [!DNL Stock]에서 고유한 사진을 찾은 다음 필요에 맞게 Adobe Photoshop에서 색상을 조정합니다.
+멋진 이미지를 만들면 메시지에 더욱 도움이 됩니다. Adobe에서 독특한 사진 찾기 [!DNL Stock] Adobe Photoshop에서 요구에 맞게 색상을 조정합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

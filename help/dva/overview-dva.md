@@ -1,76 +1,76 @@
 ---
 title: Adobe 비디오 자습서
-description: Adobe DVA 제품에 대한 최신 정보를 제공하는 자습서
+description: Adobe DVA 제품을 빠르게 사용하는 데 도움이 되는 Tutorials
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
 # Adobe 비디오 자습서
 
-![Creative Cloud Hero 이미지](../assets/CCEbanner-DVA.png)
+![Creative Cloud 메인 이미지](../assets/CCEbanner-DVA.png)
 
-비디오 편집, 동작 그래픽, 시각 효과, 애니메이션 등을 위한 Adobe 소프트웨어 및 앱을 통해 아이디어를 현실로 끌어오세요.
+비디오 편집, 모션 그래픽, 시각 효과, 애니메이션 작업 시 Adobe 소프트웨어와 앱을 사용하면 창의적인 아이디어에 생명력을 불어넣을 수 있습니다.
 
-## Adobe 비디오 자습서를 보려면 클릭하십시오.
+## Adobe 비디오 자습서를 보려면 클릭
 
 <table>
 <tr>
  <td>
    <a href="assets/AfterEffectsforPhotography.pdf">
-      <img alt="사진용 After Effects" src="assets/AfterEffectsforPhotography.jpg" />
+      <img alt="After Effects for Photography" src="assets/AfterEffectsforPhotography.jpg" />
    </a>
     <div>
-   <a href="assets/AfterEffectsforPhotography.pdf"><strong>사진용 After Effects(PDF)</strong></a>
+   <a href="assets/AfterEffectsforPhotography.pdf"><strong>After Effects for Photography(PDF)</strong></a>
     </div>
-    <em>After Effects의 놀라운 효과를 사용하여 사진을 강화하는 방법을 알아봅니다.</em>
+    <em>After Effects에서 멋진 효과를 사용하여 사진을 향상시키는 방법을 살펴보세요</em>
     <br>
   </td>
   <td>
    <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf">
-      <img alt="극장각: 사진과 비디오 사이의 매혹적인 장소" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
+      <img alt="시네마그래프: 사진과 동영상 사이의 매혹적인 위치" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
    </a>
     <div>
-   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf"><strong>극장각: 사진과 비디오 사이의 매혹적인 장소(PDF)</strong></a>
+   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf"><strong>시네마그래프: 사진과 비디오 사이의 매혹적인 위치(PDF)</strong></a>
     </div>
-    <em>영화관에 대해 자세히 알아보기 — 사진과 비디오 사이에 존재하는 눈길을 사로잡는 잡종</em>
+    <em>사진과 비디오 사이 의 어딘가에 있는 시네마그래프에 대해 자세히 알아보십시오</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf">
-      <img alt="After Effects를 사용하여 Adobe [!DNL Stock] 사진에서 그림 만들기" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Adobe에서 일러스트레이션 만들기 [!DNL Stock] After Effects을 사용한 사진" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>After Effects를 사용하여 Adobe [!DNL Stock] 사진에서 그림 만들기(PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>Adobe에서 일러스트레이션 만들기 [!DNL Stock] After Effects이 있는 사진(PDF)</strong></a>
     </div>
-    <em>Adobe [!DNL Stock] 사진에서 고유한 스타일화된 그림을 만들려면 After Effects의 [색조/채도] 및 [레벨]을 [만화] 효과와 결합합니다.</em>
+    <em>After Effects에서 색조/채도 및 레벨을 카툰 효과와 결합하여 Adobe에서 독특한 스타일의 일러스트레이션을 만들 수 있습니다 [!DNL Stock] photo</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf">
-      <img alt="Adobe Premiere에서 동작 그래픽 템플릿을 사용하여 애니메이션 제목 만들기 [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
+      <img alt="Adobe Premiere에서 모션 그래픽 템플릿을 사용하여 생동감 있는 타이틀 만들기 [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>Adobe Premiere에서 모션 그래픽 템플릿을 사용하여 애니메이션 제목 만들기 [!DNL Rush](PDF)</strong></a>
+   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>Adobe Premiere에서 모션 그래픽 템플릿을 사용하여 생동감 있는 타이틀 만들기 [!DNL Rush] (PDF)</strong></a>
     </div>
-    <em>스토리에 맞는 전문 디자인의 Motion Graphics 템플릿을 추가하거나 개인 브랜드와 어울리는 비디오를 더욱 놀라운 모습으로 만들어 보세요.</em>
+    <em>스토리에 맞게 또는 나만의 브랜드와 어울리도록 전문적으로 디자인된 모션 그래픽 템플릿을 추가하여 멋진 동영상을 만들 수 있습니다</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf">
-      <img alt="After Effects를 사용하여 아름다운 Kaleidoscope 패턴 만들기" src="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.jpg" />
+      <img alt="After Effects을 사용하여 아름다운 만화경 패턴 만들기" src="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf"><strong>After Effects PDF로 아름다운 Kaleidoscope 패턴 만들기)</strong></a>
+   <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf"><strong>After Effects PDF으로 아름다운 만화경 패턴 만들기)</strong></a>
     </div>
-    <em>Adobe After Effects에서 CC Kaleida 효과를 사용하여 임의의 이미지에서 무한한 수의 패턴과 텍스처를 만듭니다.</em>
+    <em>Adobe After Effects에서 CC Kaleida 효과를 사용하여 모든 이미지에서 수많은 패턴과 텍스처를 만들 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -78,63 +78,63 @@ ht-degree: 0%
       <img alt="After Effects에서 키잉을 사용하여 사진에서 복잡한 투명도 만들기" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf"><strong>After Effects에서 키잉을 사용하여 사진에서 복잡한 투명도 만들기(PDF)</strong></a>
+   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf"><strong>After Effects(PDF)의 키잉을 사용하여 사진에서 복잡한 투명도 만들기</strong></a>
     </div>
-    <em>키잉은 비디오에 많이 사용되며 디자인 프로젝트에 사진이 필요할 때 큰 도움이 될 수도 있습니다</em>
+    <em>키잉은 비디오에 많이 사용되며, 디자인 프로젝트에 사진이 필요한 경우에도 큰 도움이 됩니다</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf">
-      <img alt="After Effects를 이용한 사진촬영을 위한 눈부신 빛 효과" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
+      <img alt="After Effects으로 사진을 위한 매력적인 빛 효과" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf"><strong>After Effects를 사용한 사진용 눈부신 조명 효과(PDF)</strong></a>
+   <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf"><strong>After Effects을 사용한 사진을 위한 눈부신 조명 효과(PDF)</strong></a>
     </div>
-    <em>Adobe After Effects의 조명 효과는 사진의 모양을 크게 변경할 수 있습니다</em>
+    <em>Adobe After Effects의 조명 효과는 사진의 분위기를 극적으로 바꿀 수 있습니다</em>
     <br>
   </td>
   <td>
    <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf">
-      <img alt="After Effects에서 VR 사진(360도 사진) 편집" src="assets/EditingVRPhotography360photoswithAfterEffects.jpg" />
+      <img alt="After Effects으로 VR 사진 편집(360도 사진)" src="assets/EditingVRPhotography360photoswithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf"><strong>After Effects에서 VR 사진(360도 사진) 편집(PDF)</strong></a>
+   <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf"><strong>After Effects(PDF)으로 VR 사진(360도 사진) 편집</strong></a>
     </div>
-    <em>더 몰입감 있는 대화형 게임과 경험은 그다지 흔하지 않지만, 360도 사진은 이미 여기에 있습니다</em>
+    <em>몰입형 인터랙티브 게임과 경험이 보편화된 것은 아니지만 이미 360도 사진이 여기에서 선보이고 있습니다</em>
     <br>
   </td>
   <td>
    <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf">
-      <img alt="Adobe Audition에서 스팟 복구 브러쉬를 사용하여 원치 않는 오디오 내용 빠르게 제거" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
+      <img alt="Adobe Audition에서 스팟 복구 브러시를 사용하여 불필요한 오디오 콘텐츠를 빠르게 제거" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
    </a>
     <div>
-   <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf"><strong>Adobe Audition에서 스팟 복구 브러쉬를 사용하여 원하지 않는 오디오 내용 빠르게 제거(PDF)</strong></a>
+   <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf"><strong>Adobe Audition(PDF)에서 스팟 복구 브러시를 사용하여 불필요한 오디오 콘텐츠를 빠르게 제거</strong></a>
     </div>
-    <em>Adobe Photoshop 스팟 복구 브러쉬를 사용하면 Adobe Audition의 오디오 파일에서 산만하게 들리는 소리를 제거할 수 있다는 사실을 알고 계십니까?</em>
+    <em>Adobe Photoshop 스팟 복구 브러시로 Adobe Audition의 오디오 파일에서 불필요한 사운드를 제거하는 방법을 알고 계십니까?</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf">
-      <img alt="Spark 페이지에서 Spark 비디오 쇼케이스" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
+      <img alt="Spark Page에서 Spark Video 소개" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
    </a>
     <div>
-   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf"><strong>Spark 페이지에서 Spark 비디오 쇼케이스(PDF)</strong></a>
+   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf"><strong>Spark Page(PDF)에서 Spark Video 소개</strong></a>
     </div>
-    <em>Adobe Spark 페이지에서는 Spark Video를 사용하여 만든 비디오를 비롯하여 다양한 소스에서 비디오를 로드할 수 있습니다.</em>
+    <em>Adobe Spark Page을 사용하면 Spark Video으로 제작한 비디오를 포함하여 다양한 소스에서 비디오를 로드할 수 있습니다.</em>
     <br>
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Adobe Premiere에서 음악, 대화 또는 내레이션을 자동 덕킹과 원활하게 결합 [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Adobe Premiere에서 자동 더킹을 사용하여 음악, 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Adobe Premiere에서 음악 및 대화 또는 내레이션을 자동 덕킹과 원활하게 결합 [!DNL Rush] Adobe(PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Adobe Premiere에서 자동 더킹을 사용하여 음악, 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush] Adobe(PDF)</strong></a>
     </div>
-    <em>Adobe Premiere [!DNL Rush]는 사용이 간편한 앱에서 고급 비디오 편집 기능을 제공하므로 누구나 몇 분 만에 고품질 비디오를 만들 수 있습니다.</em>
+    <em>Adobe Premiere [!DNL Rush] 사용이 간편한 앱에서 고급 동영상 편집 기능을 제공하므로 누구나 전문가 수준의 동영상을 신속하게 제작할 수 있습니다</em>
     <br>
   </td>
 </tr>

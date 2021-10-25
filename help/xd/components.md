@@ -1,6 +1,6 @@
 ---
-title: Adobe XD에서 [!UICONTROL Components]를 편안하게 사용
-description: '[!UICONTROL 구성 요소]를 사용하여 설계 워크플로우에 속도와 일관성을 모두 적용할 수 있는 탁월한 유연성을 제공하는 방법 알아보기'
+title: 편안하게 [!UICONTROL 구성 요소] Adobe XD
+description: 사용법 학습 [!UICONTROL 구성 요소] 디자인 작업 과정에 속도와 일관성을 모두 적용할 수 있는 전례 없는 유연성을 제공합니다.
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe XD에서 [!UICONTROL Components]를 편안하게 사용
+# 편안하게 [!UICONTROL 구성 요소] Adobe XD
 
-[!UICONTROL 구성 요소]를 사용하여 디자인 워크플로우에 속도와 일관성을 모두 적용할 수 있는 탁월한 유연성을 제공하는 방법을 알아봅니다.
+사용법 학습 [!UICONTROL 구성 요소] 디자인 워크플로우에 속도와 일관성을 모두 적용할 수 있는 탁월한 유연성을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-이 자습서의 PDF를 다운로드하려면 PDF 파일 아이콘을 클릭합니다.
+PDF 파일 아이콘을 클릭하여 이 튜토리얼의 PDF을 다운로드합니다.
 
 [![PDF 파일 아이콘](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)
