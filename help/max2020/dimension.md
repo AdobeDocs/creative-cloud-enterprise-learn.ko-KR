@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Dimension]'
-description: '[!DNL Dimension] 시각적인 브랜드 요소, 일러스트레이션, 제품 목업, 패키징 디자인을 비롯한 다양한 크리에이티브 작업을 수월하게 할 수 있습니다'
+title: '"[!DNL Dimension]"'
+description: '"[!DNL Dimension] 시각적인 브랜드 요소, 일러스트레이션, 제품 목업, 패키징 디자인을 비롯한 다양한 크리에이티브 작업을 수월하게 진행할 수 있습니다."'
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

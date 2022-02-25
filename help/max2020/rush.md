@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Rush]'
+title: '"[!DNL Rush]"'
 description: Premiere [!DNL Rush] 온라인 콘텐츠를 보다 손쉽게 제작하고 공유할 수 있는 최초의 올인원 크로스 디바이스 동영상 편집 앱입니다
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Adobe의 비디오와 오디오를 사용하여 스토리 전달 [!DNL Stock]. A
 이 튜토리얼에서는 다음과 같은 방법을 살펴봅니다.
 * 데스크탑, 태블릿, 스마트폰에서 원활하게 동영상 편집
 * 자동 리프레임 AI 기술 기능을 사용하여 가로, 세로, 정사각형 및 세로 폼 팩터에 피사체를 중앙에 배치합니다
-* 모션 그래픽 템플릿(MoGRTS)을 사용하면 전문적인 모양과 쉽게 사용자 정의 가능한 제목과 하단 제목을 사용할 수 있습니다
+* 모션 그래픽 템플릿(MoGRTS)을 사용하면 전문적인 모양과 쉽게 사용자 정의할 수 있는 제목과 하단 제목을 사용할 수 있습니다
 * 손쉽게 소셜 미디어 채널로 내보내기 및 게시
 * 열기 [!DNL Rush] Adobe Premiere Pro의 프로젝트
 
