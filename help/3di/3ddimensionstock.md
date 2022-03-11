@@ -1,12 +1,12 @@
 ---
 title: 3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 및 Adobe [!DNL Stock]
-description: 3D 모델 사용자 정의 및 브랜딩 [!DNL [!DNL Dimension]] 재질, 환경 속성, 조명, 사진을 사용하여 모든 디자인 프로젝트를 위한 사실적인 이미지 만들기
+description: '[!DNL에서 3D 모델 사용자 지정 및 브랜딩 [!DNL Dimension]] 재질, 환경 속성, 조명, 사진을 사용하여 모든 디자인 프로젝트를 위한 사실적인 이미지 만들기'
 role: User
 level: Beginner, Intermediate
 exl-id: 27eb25b1-f0ef-478d-b36f-bcbf8be616b0
 source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

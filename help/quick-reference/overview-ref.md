@@ -238,7 +238,7 @@ ht-degree: 0%
       <img alt="Let's XD - 디자인, 프로토타이핑 및 팀에 전달 방법을 참조하십시오." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let's XD - 디자인, 프로토타이핑 및 팀에게 전달(PDF) 방법을 참조하십시오.</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let's XD - 디자인, 프로토타이핑 및 팀에 전달(PDF) 방법을 참조하십시오.</strong></a>
     </div>
     <em>구성 요소를 사용하면 디자인 작업 과정에 속도와 일관성을 모두 적용할 수 있는 전례 없는 유연성을 얻을 수 있습니다</em>
     <br>
@@ -282,10 +282,10 @@ ht-degree: 0%
   </td>
    <td>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf">
-      <img alt="Adobe의 모션으로 시선을 사로잡기 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe의 동작으로 시선 집중 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Adobe의 모션으로 시선을 사로잡기 [!DNL Stock] (PDF)</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Adobe의 동작으로 시선 집중 [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>[!DNL Capture] Adobe 동영상과 사진을 결합하여 모든 화면에서 시청자의 관심 유도 [!DNL Stock]</em>
     <br>
@@ -368,7 +368,7 @@ ht-degree: 0%
   </td>
    <td>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="XD, Illustrator 및 CSS를 사용한 반응형 애니메이션 SVG" src="../assets/acrobat_PDF_96.png" />
+      <img alt="XD, Illustrator, CSS를 사용한 반응형 애니메이션 SVG" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>XD, Illustrator 및 CSS를 사용한 반응형 및 애니메이션 SVG(PDF)</strong></a>
