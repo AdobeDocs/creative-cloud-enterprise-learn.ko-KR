@@ -4,7 +4,7 @@ description: Adobe [!DNL Capture] 휴대폰 및 태블릿을 디자인 컬렉션
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] 휴대폰 및 태블릿을 디자인 컬렉션 도구로 �
     <div>
    <a href="capture.md#tutorial1"><strong>주변 어디에서나 영감 캡처</strong></a>
     </div>
-    <em>Adobe 캡처에서 강력한 선택 및 색상 편집 툴을 사용하여 기업의 브랜드 요구에 맞게 이미지를 크게 변경할 수 있습니다</em>
+    <em>Adobe Capture의 강력한 선택 및 색상 편집 툴을 사용하여 기업의 브랜드 요구에 맞게 이미지를 변경할 수 있습니다</em>
     <br>
   </td>
   <td>
