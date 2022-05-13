@@ -4,9 +4,9 @@ description: Adobe DVA 제품을 빠르게 사용하는 데 도움이 되는 Tut
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Adobe Premiere에서 자동 더킹을 사용하여 음악, 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Adobe Premiere에서 자동 더킹을 사용하여 음악, 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Adobe Premiere에서 자동 더킹을 사용하여 음악, 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush] Adobe(PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Adobe Premiere에서 자동 더킹을 사용하여 음악, 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] 사용이 간편한 앱에서 고급 동영상 편집 기능을 제공하므로 누구나 전문가 수준의 동영상을 신속하게 제작할 수 있습니다</em>
     <br>
