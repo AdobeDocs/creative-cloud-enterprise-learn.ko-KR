@@ -4,9 +4,9 @@ description: Adobe Adobe® InDesign® 서버 소프트웨어는 InDesign의 디�
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![튜토리얼 메인 이미지](../assets/InDesignServer.jpg)
 
-Adobe Adobe® InDesign® 서버 소프트웨어는 InDesign의 디자인, 레이아웃 및 타이포그래피 기능을 활용하는 강력하고 확장 가능한 엔진을 제공하여 프로그래밍 방식으로 매력적인 자동화 문서를 만들 수 있도록 합니다.
+Adobe InDesign® Server 소프트웨어는 InDesign의 디자인, 레이아웃 및 타이포그래피 기능을 활용하는 강력하고 확장 가능한 엔진을 제공하므로 프로그래밍 방식으로 매력적인 자동화 문서를 만들 수 있습니다.
 
 ## 제품 Tutorials 찾아보기
 
