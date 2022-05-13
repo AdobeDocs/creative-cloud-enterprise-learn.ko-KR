@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] for enterprise를 통해 크리에이티브 팀�
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![튜토리얼 메인 이미지](../assets/Stock.jpg)
 
 크리에이터는 관심을 끌고 고정시켜줄 새롭고 시각적으로 매력적인 콘텐츠를 빠르게 전달해야 하는 부담감을 안고 있습니다. Adobe [!DNL Stock] for enterprise를 통해 크리에이티브 팀은 일상적으로 사용하는 Adobe 크리에이티브 앱에서 2억 개 이상의 이미지, 비디오, 템플릿, 일러스트레이션, 오디오 파일 및 3D 에셋을 이용할 수 있습니다.
 

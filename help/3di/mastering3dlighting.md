@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D 조명, 600 글로벌 MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ ht-degree: 0%
 
 이 개요가 다양한 상황에서 3D 조명 마스터의 중요성을 설명했으면 합니다. 보다 매력적인 결과를 만들 준비가 되어 있어야 합니다.
 
-좋은 조명! 다운로드 [최신 릴리스](https://creativecloud.adobe.com/apps/download/)[!DNL Dimension]) Dimension을 제공합니다.
+좋은 조명! 다운로드 [최신 릴리스](https://creativecloud.adobe.com/apps/download/Dimension) 얻을 수 있는 이점

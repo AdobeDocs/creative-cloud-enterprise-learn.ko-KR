@@ -4,16 +4,16 @@ description: Adobe을 빠르게 시작하는 데 도움이 되는 Tutorials [!DN
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] 튜토리얼
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud 메인 이미지](../assets/Stock.jpg)
 
 크리에이터는 관심을 끌고 캡처하는 매력적인 새로운 콘텐츠를 빠르게 전달해야 하는 부담감을 안고 있습니다. Adobe [!DNL Stock] for enterprise를 통해 크리에이티브 팀은 일상적으로 사용하는 Adobe 크리에이티브 앱에서 2억 개 이상의 이미지, 비디오, 템플릿, 일러스트레이션, 오디오 파일 및 3D 에셋을 이용할 수 있습니다.
 
