@@ -4,9 +4,9 @@ description: NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를 부여하면 IT 관리자는 Admin Console을 사용하여 Adobe 도구를 쉽게 배포 및 관리할 수 있으며, 최종 사용자에게 전 직원이 원격으로 근무하더라도 세계 최고 수준의 크리에이티브 및 생산성 앱과 Adobe 클라우드 서비스를 이용할 수 있습니다.
 
-조직이 NUL을 사용하지 않고 여전히 Adobe 제품에 대해 일련화된 배포를 사용하는 경우 일련 번호가 곧 만료될 수 있습니다. 서비스 중단을 방지하려면 NUL로 마이그레이션하기 전에 미리 계획하는 것이 [일련 번호 만료](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+조직이 NUL을 사용하지 않고 여전히 Adobe 제품에 대해 일련화된 배포를 사용하는 경우 일련 번호가 곧 만료될 수 있습니다. 서비스 중단을 방지하려면 일련 번호가 만료되기 전에 NUL로 마이그레이션을 계획하는 것이 중요합니다.
 
 ## 지정된 사용자 라이선싱 정보
 
