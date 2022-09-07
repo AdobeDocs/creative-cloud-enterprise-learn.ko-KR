@@ -4,10 +4,10 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ ht-degree: 1%
    <a href="assets/AcrobatforContentCreators.pdf"><strong>컨텐츠 작성자를 위한 Acrobat(PDF)</strong></a>
     </div>
     <em>크리에이티브 워크플로우를 간소화하는 데 도움이 되는 Acrobat 툴을 살펴보세요</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ ht-degree: 1%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Spark Page에 글라이드쇼 추가(PDF)</strong></a>
     </div>
-    <em>Adobe Express은 웹 스토리에 생기를 불어넣는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
+    <em>Adobe Spark은 웹 스토리를 생동감 있게 표현해주는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 브랜드 만들기</strong></a>
     </div>
-    <em>Adobe Express을 통해 간편하게 브랜드 정의</em>
+    <em>Adobe Spark을 사용하면 브랜드를 손쉽게 정의할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ ht-degree: 1%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Express은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
+    <em>Adobe Spark은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ ht-degree: 1%
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="그래픽 형식의 알파벳 수프 디코딩" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ ht-degree: 1%
     <em>이 단계별 워크숍 비디오 튜토리얼에서는 Adobe의 비디오를 결합하여 살아있는 사진을 만듭니다 [!DNL Stock] Photoshop의 유용한 마스크 기법</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Photoshop 및 After Effects을 사용하여 사진에 멋진 조명 추가" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ ht-degree: 1%
     </div>
     <em>Adobe After Effects에서 조명 버스트 효과를 사용하여 사진을 극적으로 개선하는 방법 알아보기</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Photoshop 및 Adobe을 사용하여 신속하게 시네마그래프 만들기 [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ ht-degree: 1%
     <em>Adobe에서 원활하게 반복되는 비디오 검색 [!DNL Stock] Photoshop에서 시선을 사로잡는 시네마그래프를 빠르게 조합하기 위해</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Photoshop을 사용하여 살아있는 사진 만들기 — 1부" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ ht-degree: 1%
     <em>Adobe Photoshop을 사용하면 짧은 동영상을 모든 소셜 플랫폼에서 시선을 사로잡는 살아있는 사진으로 빠르게 변환할 수 있습니다</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Photoshop을 사용하여 살아있는 사진 만들기 — 2부" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ ht-degree: 1%
     <em>이 실습에서는 Photoshop과 After Effects을 결합하여 모든 매체에서 사용하기에 적합한 놀라운 이미지와 효과를 만듭니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Adobe Photoshop 액션을 사용하여 빠르게 Instagram 사진 브랜딩" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ ht-degree: 1%
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Photoshop으로 스마트하고 효율적으로 작업" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ ht-degree: 1%
     <em>Photoshop을 변경하면 많은 시간이 소요될 수 있지만 반드시 변경할 필요는 없습니다</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="누구나 Adobe Creative Cloud으로 창의력 발휘" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ ht-degree: 1%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>그린 스크린은 비디오만을 위한 것이 아닙니다(PDF).</strong></a>
     </div>
     <em>사진 스튜디오에서 그린 스크린을 사용하고 After Effects을 사용하여 Photoshop에서 사진 사용을 준비할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ ht-degree: 1%
     <em>Adobe Portfolio을 사용하여 최고의 작품을 공유하는 것은 성공을 공유하고 새로운 크리에이티브 인재를 끌어들이는 효과적인 방법입니다</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Adobe Portfolio에 Lightroom 및 Behance 연결" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ ht-degree: 1%
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Adobe Portfolio(PDF)에서 최고의 작업 표시</strong></a>
     </div>
     <em>Adobe Portfolio을 사용하면 전 세계의 잠재적 직원 및 클라이언트와 작업을 업로드, 구성 및 공유할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ ht-degree: 1%
     <em>Creative Cloud 라이브러리는 디자이너가 크리에이티브 팀 전체에 걸쳐 브랜드 에셋을 공유할 수 있도록 하는 내장 브랜드 시스템을 제공합니다</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ ht-degree: 1%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유(PDF)</strong></a>
     </div>
     <em>Illustrator에서 스마트하고 효율적으로 작업</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ ht-degree: 1%
     <em>OpenType 형식을 사용하면 글꼴에 최대 65,536개의 글리프를 포함할 수 있습니다</em>
     <br>
   </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ ht-degree: 1%
     <em>강력한 InDesign 기능을 활용하여 HTML 및 웹 그래픽을 출력할 수 있다는 사실을 알고 계십니까?</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="대화형 PDF: InDesign의 책갈피 및 연결된 목차" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ ht-degree: 1%
     <em>InDesign의 목차 기능을 사용하여 독자가 PDF 파일에서 정보를 빠르게 찾을 수 있도록 하는 책갈피와 하이퍼링크를 모두 생성하는 방법에 대해 알아봅니다</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="대화형 PDF: InDesign의 그래픽 하이퍼링크 및 중첩된 마스터 페이지" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ ht-degree: 1%
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>대화형 PDF: InDesign(PDF)의 그래픽 하이퍼링크 및 중첩된 마스터 페이지</strong></a>
     </div>
     <em>마스터 페이지와 하이퍼링크를 적용하면 모든 페이지에서 탐색 시스템을 빠르게 관리할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ ht-degree: 1%
     <em>Illustrator은 아트워크의 심볼, 그룹, ID 및 정확한 벡터 정의를 만드는 기능을 포함하여 SVG 형식에 대한 탁월한 지원을 제공합니다</em>
     <br>
   </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ ht-degree: 1%
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>실제 환경에서 제품 시각화(PDF)</strong></a>
     </div>
     <em>제품이 실제로 어떻게 보이는지 확인하려면 Adobe [!DNL Dimension] 은(는)</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
