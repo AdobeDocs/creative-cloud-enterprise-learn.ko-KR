@@ -4,10 +4,10 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ ht-degree: 0%
 
 
 ## 제품 자습서를 보려면 클릭
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="콘텐츠 제작자를 위한 Acrobat" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>컨텐츠 작성자를 위한 Acrobat(PDF)</strong></a>
+    </div>
+    <em>크리에이티브 워크플로우를 간소화하는 데 도움이 되는 Acrobat 툴을 살펴보세요</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud for enterprise
 
@@ -53,7 +70,7 @@ ht-degree: 0%
 </table>
 
 
-### Spark
+### Adobe Express(이전의 Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ ht-degree: 0%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Spark Page에 글라이드쇼 추가(PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page은 웹 스토리를 생동감 있게 표현해주는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
+    <em>Adobe Express은 웹 스토리에 생기를 불어넣는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 브랜드 만들기</strong></a>
     </div>
-    <em>Adobe Spark을 사용하면 브랜드를 손쉽게 정의할 수 있습니다</em>
+    <em>Adobe Express을 통해 간편하게 브랜드 정의</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ ht-degree: 0%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
+    <em>Adobe Express은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
     <br>
   </td>
 </tr>
