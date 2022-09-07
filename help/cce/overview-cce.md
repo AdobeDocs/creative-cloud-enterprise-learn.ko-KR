@@ -4,9 +4,9 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ ht-degree: 0%
     <em>Photoshop에서 동작을 사용하여 지루함을 없애고 시간을 많이 절약하세요</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Photoshop으로 스마트하고 효율적으로 작업" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ ht-degree: 0%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>그린 스크린은 비디오만을 위한 것이 아닙니다(PDF).</strong></a>
     </div>
     <em>사진 스튜디오에서 그린 스크린을 사용하고 After Effects을 사용하여 Photoshop에서 사진 사용을 준비할 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ ht-degree: 0%
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>길들이기 유형 불안(PDF)</strong></a>
+    </div>
+    <em>Creative Cloud에서 전문적으로 디자인된 20,000개 이상의 글꼴에 액세스하고 사용하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Creative Cloud을 사용하여 멋진 타이포그래피 만들기" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ ht-degree: 0%
     <em>OpenType 형식을 사용하면 글꼴에 최대 65,536개의 글리프를 포함할 수 있습니다</em>
     <br>
   </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
