@@ -4,9 +4,9 @@ description: Adobe을 빠르게 시작하는 데 도움이 되는 Tutorials [!DN
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud 메인 이미지](../assets/Stock.jpg)
 
-크리에이터는 관심을 끌고 캡처하는 매력적인 새로운 콘텐츠를 빠르게 전달해야 하는 부담감을 안고 있습니다. Adobe [!DNL Stock] for enterprise를 통해 크리에이티브 팀은 일상적으로 사용하는 Adobe 크리에이티브 앱에서 2억 개 이상의 이미지, 비디오, 템플릿, 일러스트레이션, 오디오 파일 및 3D 에셋을 이용할 수 있습니다.
-
+크리에이터는 매력적인 시각적 콘텐츠를 빠르게 전달해야 하는 부담감을 안고 있습니다. Adobe Stock을 통해 크리에이티브 팀은 매일 사용하는 Creative Cloud 앱에서 3억 개가 넘는 로열티 프리 이미지, 비디오, 오디오 파일, 템플릿, 일러스트레이션, 3D 에셋을 이용할 수 있습니다. Creative Cloud Pro Edition을 통해 Adobe Stock 표준 에셋을 무제한으로 이용할 수 있습니다. stock.adobe.com에서 최신 컬렉션 살펴보기
 
 ## Adobe을 보려면 클릭 [!DNL Stock] 자습서
 
@@ -88,10 +87,10 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Adobe 변경 [!DNL Stock] 스토리에 어울리는 이미지 색상" src="assets/changecolors.jpg" />
+         <img alt="Adobe 변경 [!DNL Stock] 스토리에 맞는 이미지 색상" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Adobe 변경 [!DNL Stock] 스토리에 어울리는 이미지 색상</strong></a>
+      <a href="changecolors.md"><strong>Adobe 변경 [!DNL Stock] 스토리에 맞는 이미지 색상</strong></a>
       </div>
       <em>Adobe에서 독특한 사진 찾기 [!DNL Stock] 필요에 맞게 Adobe Photoshop의 색상을 조정할 수 있습니다</em>
       <br>
