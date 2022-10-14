@@ -4,7 +4,7 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>길들이기 유형 불안(PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>길들이기 유형 불안(PDF)</strong></a>
     </div>
     <em>Creative Cloud에서 전문적으로 디자인된 20,000개 이상의 글꼴에 액세스하고 사용하는 방법에 대해 알아봅니다</em>
     <br>
