@@ -4,9 +4,9 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,39 @@ ht-degree: 0%
 기업 크리에이티브 팀은 분산된 팀과 협업하고 확장 가능한 프로세스를 설정하며 기업 시스템과 지침을 준수해야 합니다. 이 빠른 참조 안내서는 Creative Cloud의 새로운 기능을 배우는 데 도움이 됩니다.
 
 
-## 빠른 참조 안내서 PDF을 다운로드하려면 클릭
+## 빠른 참조 안내서(알파벳 순서로 나열된 제품)의 PDF을 다운로드하려면 클릭하십시오.
+
+### Adobe Express(이전의 Adobe Spark)
+
+<table>
+<tr>
+ <td>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf">
+      <img alt="Spark에서 웹 페이지 제작, 편집 및 공유" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Spark(PDF)에서 웹 페이지 만들기, 편집 및 공유</strong></a>
+    </div>
+    <em>Adobe Spark의 간단하고 직관적인 툴과 Adobe의 멋진 이미지를 사용하여 웹 페이지에 사용할 인터랙티브한 라이트박스 지원 사진 격자를 만들 수 있습니다 [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud for enterprise
 
@@ -54,7 +86,6 @@ ht-degree: 0%
     <em>모바일 디바이스에서 Lightroom의 놀라운 기능을 사용하여 이미지를 돋보이게 만들어 보십시오</em>
     <br>
   </td>
-</tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
       <img alt="Creative Cloud을 사용하여 브로셔 레이아웃 스케치, 구성 및 완성" src="../assets/acrobat_PDF_96.png" />
@@ -65,32 +96,95 @@ ht-degree: 0%
     <em>Adobe Comp을 사용하여 모바일 디바이스에서 인쇄, 웹, 모바일 또는 소셜에 대한 레이아웃 아이디어를 빠르게 살펴보세요</em>
     <br>
   </td>
+</tr>
+</table>
+
+### 글꼴
+
+<table>
+<tr>
   <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
+      <img alt="Creative Cloud을 사용하여 멋진 타이포그래피 만들기" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>제한 없이 간편하게 Adobe Fonts 사용(PDF)</strong></a>
+    </div>
+    <em>[!DNL Capture] Adobe을 사용하는 실제 환경에서 흥미로운 글꼴 사용 [!DNL Capture] 그런 다음 Adobe Fonts 및 Creative Cloud 라이브러리를 사용하여 유사한 글꼴을 식별하고 활성화하고 저장합니다</em>
+    <br>
+  </td>
+   <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-
-### Adobe Express(이전의 Adobe Spark)
+### Fresco
 
 <table>
 <tr>
  <td>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf">
-      <img alt="Spark에서 웹 페이지 제작, 편집 및 공유" src="../assets/acrobat_PDF_96.png" />
+   <a href="Frescoworkshop.pdf">
+      <img alt="iPad(및 iPhone)에서 Fresco 시도" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Spark(PDF)에서 웹 페이지 만들기, 편집 및 공유</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>iPad(및 iPhone)(PDF)에서 Fresco 시도</strong></a>
     </div>
-    <em>Adobe Spark의 간단하고 직관적인 툴과 Adobe의 멋진 이미지를 사용하여 웹 페이지에 사용할 인터랙티브한 라이트박스 지원 사진 격자를 만들 수 있습니다 [!DNL Stock]</em>
+    <em>15분 분량의 실습 워크숍을 통해 Adobe Fresco의 디지털 드로잉 및 페인팅의 새로운 세계를 탐험해 보십시오</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Illustrator
+
+<table>
+<tr>
+   <td>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
+      <img alt="iPad용 Illustrator에서 이미지 및 모양을 사용하여 합성 이미지 만들기" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>iPad(PDF)용 Illustrator에서 이미지 및 모양을 사용하여 합성 이미지 만들기</strong></a>
+    </div>
+    <em>Illustrator에서는 텍스트에 스타일을 지정할 때와 거의 같은 방식으로 아트웍에 스타일을 지정할 수 있습니다</em>
+    <br>
+  </td>
+   <td>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
+      <img alt="XD, Illustrator, CSS를 사용한 반응형 애니메이션 SVG" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>XD, Illustrator 및 CSS를 사용한 반응형 및 애니메이션 SVG(PDF)</strong></a>
+    </div>
+    <em>몇 줄의 CSS만으로 SVG 파일에 애니메이션을 추가할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -140,8 +234,6 @@ ht-degree: 0%
     <em>Adobe의 비디오를 결합하여 생생한 사진 만들기 [!DNL Stock] Photoshop에서 유용한 마스크 기법 동작에 전략적인 반복 지점을 사용하여 이미지에 생동감 부여</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="Photoshop + After Effects으로 놀라운 그래픽 제작" src="../assets/acrobat_PDF_96.png" />
@@ -152,6 +244,8 @@ ht-degree: 0%
     <em>After Effects에서 일반적인 비디오 기법을 사용하여 디자인에서 독특한 합성 사진을 만들기 위해 사진에서 배경색을 빠르게 제거할 수 있습니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="iPad에서 Photoshop 살펴보기" src="../assets/acrobat_PDF_96.png" />
@@ -167,93 +261,17 @@ ht-degree: 0%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="Frescoworkshop.pdf">
-      <img alt="iPad(및 iPhone)에서 Fresco 시도" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="Frescoworkshop.pdf"><strong>iPad(및 iPhone)(PDF)에서 Fresco 시도</strong></a>
-    </div>
-    <em>15분 분량의 실습 워크숍을 통해 Adobe Fresco의 디지털 드로잉 및 페인팅의 새로운 세계를 탐험해 보십시오</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### XD
-
-<table>
-<tr>
-   <td>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD: 고급 음성 프로토타이핑" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: 고급 음성 프로토타이핑(PDF)</strong></a>
-    </div>
-    <em>사용자의 클릭, 터치 및 오디오 입력에 반응할 수 있는 인터랙티브 프로토타입을 만들 수 있습니다</em>
-    <br>
-  </td>
-   <td>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="공동 편집: Adobe XD을 사용한 실시간 디자인 공동 작업" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>공동 편집: Adobe XD을 사용한 실시간 디자인 공동 작업(PDF)</strong></a>
-    </div>
-    <em>Adobe XD 및 Creative Cloud에 내장된 간편한 공유 툴을 사용하여 동료, 클라이언트 및 개발자와 인터랙티브한 프로토타입을 공동 작업하는 방법을 살펴보세요</em>
-    <br>
-  </td>
-  <td>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
-      <img alt="Creative Cloud을 사용하여 인터랙티브한 프로젝트 디자인 및 프로토타이핑" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Creative Cloud(PDF)을 사용하여 인터랙티브 프로젝트 디자인 및 프로토타이핑</strong></a>
-    </div>
-    <em>Adobe XD에 다양한 Adobe 에셋을 결합하여 인터랙티브하고 생동감 있는 사용자 경험을 빠르게 만들 수 있습니다 [!DNL Stock]</em>
-    <br>
-  </td>
- </tr>
- <tr>
-  <td>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="Let's XD - 디자인, 프로토타이핑 및 팀에 전달 방법을 참조하십시오." src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let's XD - 디자인, 프로토타이핑 및 팀에 전달(PDF) 방법을 참조하십시오.</strong></a>
-    </div>
-    <em>구성 요소를 사용하면 디자인 작업 과정에 속도와 일관성을 모두 적용할 수 있는 전례 없는 유연성을 얻을 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### [!DNL Stock]
@@ -290,8 +308,6 @@ ht-degree: 0%
     <em>[!DNL Capture] Adobe 동영상과 사진을 결합하여 모든 화면에서 시청자의 관심 유도 [!DNL Stock]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
       <img alt="Adobe을 통해 데이터 공개 [!DNL Stock] 모션 그래픽 템플릿" src="../assets/acrobat_PDF_96.png" />
@@ -302,6 +318,8 @@ ht-degree: 0%
     <em>Adobe의 모션 그래픽 템플릿을 사용하여 모션 및 디자인을 추가하여 보다 영향력 있는 방식으로 데이터를 나타낼 수 있습니다 [!DNL Stock]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf">
       <img alt="실제 환경에서 디자인 작업 시연" src="../assets/acrobat_PDF_96.png" />
@@ -319,61 +337,12 @@ ht-degree: 0%
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Adobe이 있는 전자 메일에서 애니메이션 만들기 팁 [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Photoshop에서 정적 이미지와 비디오를 결합하여 다양한 고객 이메일 애플리케이션에 적합한 생동감 있는 매력적인 캠페인 GIF을 만들어 보세요</em>
-    <br>
-  </td>
-</tr>
-</table>
-
-### 글꼴
-
-<table>
-<tr>
-  <td>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="Creative Cloud을 사용하여 멋진 타이포그래피 만들기" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>제한 없이 간편하게 Adobe Fonts 사용(PDF)</strong></a>
-    </div>
-    <em>[!DNL Capture] Adobe을 사용하는 실제 환경에서 흥미로운 글꼴 사용 [!DNL Capture] 그런 다음 Adobe Fonts 및 Creative Cloud 라이브러리를 사용하여 유사한 글꼴을 식별하고 활성화하고 저장합니다</em>
-    <br>
-  </td>
-   <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
+    <em>Photoshop에서 정적 이미지와 동영상을 결합하여 다양한 고객 이메일 애플리케이션에 적합한 생동감 있는 매력적인 캠페인 GIF을 만들어 보세요</em>
     <br>
   </td>
   <td>
     <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table>
-<tr>
-   <td>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="iPad용 Illustrator에서 이미지 및 모양을 사용하여 합성 이미지 만들기" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>iPad(PDF)용 Illustrator에서 이미지 및 모양을 사용하여 합성 이미지 만들기</strong></a>
-    </div>
-    <em>Illustrator에서는 텍스트에 스타일을 지정할 때와 거의 같은 방식으로 아트웍에 스타일을 지정할 수 있습니다</em>
-    <br>
-  </td>
-   <td>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="XD, Illustrator, CSS를 사용한 반응형 애니메이션 SVG" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>XD, Illustrator 및 CSS를 사용한 반응형 및 애니메이션 SVG(PDF)</strong></a>
-    </div>
-    <em>몇 줄의 CSS만으로 SVG 파일에 애니메이션을 추가할 수 있습니다</em>
     <br>
   </td>
   <td>
@@ -406,6 +375,11 @@ ht-degree: 0%
    <a href="SkiptheShootGettheShot.pdf"><strong>촬영 건너뛰기 — 촬영 받기(PDF)</strong></a>
     </div>
     <em>3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 재질, 환경 속성, 조명, 사진을 사용하여 모든 디자인 프로젝트를 위한 사실적인 이미지 만들기</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -450,7 +424,6 @@ ht-degree: 0%
     <em>Premiere Pro에서 동영상과 그래픽을 결합하여 소셜 미디어에서 매력적인 스토리를 전달할 수 있습니다</em>
     <br>
   </td>
-<tr>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf">
       <img alt="Creative Cloud으로 사진 촬영, 편집, 게시" src="../assets/acrobat_PDF_96.png" />
@@ -461,15 +434,52 @@ ht-degree: 0%
     <em>Premiere에서 손쉽게 사용할 수 있는 편집 툴과 모션 그래픽 템플릿을 사용하여 비디오와 모션 그래픽을 결합하여 소셜 미디어용 매력적인 스토리를 만들 수 있습니다 [!DNL Rush]</em>
     <br>
   </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
+</table>
+
+### XD
+
+<table>
+<tr>
+   <td>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
+      <img alt="Adobe XD: 고급 음성 프로토타이핑" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: 고급 음성 프로토타이핑(PDF)</strong></a>
+    </div>
+    <em>사용자의 클릭, 터치 및 오디오 입력에 반응할 수 있는 인터랙티브 프로토타입을 만들 수 있습니다</em>
+    <br>
+  </td>
+   <td>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
+      <img alt="공동 편집: Adobe XD을 사용한 실시간 디자인 공동 작업" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>공동 편집: Adobe XD을 사용한 실시간 디자인 공동 작업(PDF)</strong></a>
+    </div>
+    <em>Adobe XD 및 Creative Cloud에 내장된 간편한 공유 툴을 사용하여 동료, 클라이언트 및 개발자와 인터랙티브한 프로토타입을 공동 작업하는 방법을 살펴보세요</em>
+    <br>
+  </td>
+  <td>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
+      <img alt="Creative Cloud을 사용하여 인터랙티브한 프로젝트 디자인 및 프로토타이핑" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Creative Cloud(PDF)을 사용하여 인터랙티브 프로젝트 디자인 및 프로토타이핑</strong></a>
+    </div>
+    <em>Adobe XD에 다양한 Adobe 에셋을 결합하여 인터랙티브하고 생동감 있는 사용자 경험을 빠르게 만들 수 있습니다 [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
+      <img alt="Let's XD - 디자인, 프로토타이핑 및 팀에 전달 방법을 참조하십시오." src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>XD 사용 - 디자인, 프로토타이핑 및 팀에 전달(PDF) 방법을 참조하십시오.</strong></a>
+    </div>
+    <em>구성 요소를 사용하면 디자인 작업 과정에 속도와 일관성을 모두 적용할 수 있는 전례 없는 유연성을 얻을 수 있습니다</em>
+    <br>
+  </td>
+ </tr>
 </table>

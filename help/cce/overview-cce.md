@@ -1,12 +1,12 @@
 ---
-title: Creative Cloud for enterprise 튜토리얼
+title: 기업 Tutorials Creative Cloud
 description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도움이 되는 Tutorials
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
+source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1423'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 기업 크리에이티브 팀은 분산된 팀과 협업하고 확장 가능한 프로세스를 설정하며 기업 시스템과 지침을 준수해야 합니다. 이 튜토리얼은 기업의 관점에서 Creative Cloud의 새로운 기능을 배우는 데 도움이 됩니다.
 
 
-## 제품 자습서를 보려면 클릭
+## 제품 자습서를 보려면 클릭(알파벳 순서로 나열됨)
 
 ### Adobe Acrobat
 
@@ -47,6 +47,137 @@ ht-degree: 0%
   <td>
     <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Adobe Express(이전의 Adobe Spark)
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
+      <img alt="Spark Page에 글라이드쇼 추가" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+   </a>
+    <div>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Spark Page에 글라이드쇼 추가(PDF)</strong></a>
+    </div>
+    <em>Adobe Spark은 웹 스토리를 생동감 있게 표현해주는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Adobe Spark에서 브랜드 만들기" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 브랜드 만들기</strong></a>
+    </div>
+    <em>Adobe Spark을 사용하면 브랜드를 손쉽게 정의할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
+      <img alt="새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
+   </a>
+    <div>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Adobe Portfolio
+
+<table  style="table-layout:fixed">
+<tr>
+   <td>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
+      <img alt="Adobe Portfolio 시작하기" src="assets/GettingStartedWithAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Adobe Portfolio 시작하기(PDF)</strong></a>
+    </div>
+    <em>Adobe Portfolio을 사용하여 최고의 작품을 공유하는 것은 성공을 공유하고 새로운 크리에이티브 인재를 끌어들이는 효과적인 방법입니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
+      <img alt="Adobe Portfolio에 Lightroom 및 Behance 연결" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Adobe Portfolio에 Lightroom 및 Behance 연결(PDF)</strong></a>
+    </div>
+    <em>포트폴리오의 페이지로 Behance 프로젝트 사용</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
+      <img alt="Adobe Portfolio에서 작품 감상" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Adobe Portfolio(PDF)에서 최고의 작업 표시</strong></a>
+    </div>
+    <em>Adobe Portfolio을 사용하면 전 세계의 잠재적 직원 및 클라이언트와 작업을 업로드, 구성 및 공유할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+ </tr>
+ </table>
+
+### CC Libraries
+
+<table  style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="ccteamlibraries.md">
+      <img alt="팀용 Creative Cloud 라이브러리 만들기" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="ccteamlibraries.md"><strong>팀용 Creative Cloud 라이브러리 만들기</strong></a>
+    </div>
+    <em>팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀 내에서 에셋을 공유하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="sharecclibraries.md">
+      <img alt="팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유" src="assets/ShareLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="sharecclibraries.md"><strong>팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유</strong></a>
+    </div>
+    <em>팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀의 브랜딩 에셋을 만들고, 사용하고, 공유하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
+      <img alt="Creative Cloud 라이브러리를 사용하여 브랜드 에셋 제작, 추가, 공유" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Creative Cloud 라이브러리(PDF)을 사용하여 브랜드 에셋 제작, 추가, 공유</strong></a>
+    </div>
+    <em>Creative Cloud 라이브러리는 디자이너가 크리에이티브 팀 전체에 걸쳐 브랜드 에셋을 공유할 수 있도록 하는 내장 브랜드 시스템을 제공합니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
+      <img alt="Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+   </a>
+    <div>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유(PDF)</strong></a>
+    </div>
+    <em>Illustrator에서 스마트하고 효율적으로 작업</em>
     <br>
   </td>
 </tr>
@@ -89,43 +220,226 @@ ht-degree: 0%
 </tr>
 </table>
 
+### [!DNL Dimension]
 
-### Adobe Express(이전의 Adobe Spark)
-
-<table style="table-layout:fixed">
+<table  style="table-layout:fixed">
 <tr>
- <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Spark Page에 글라이드쇼 추가" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+   <td>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
+      <img alt="사실적인 환경에서 제품 시각화" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Spark Page에 글라이드쇼 추가(PDF)</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>실제 환경에서 제품 시각화(PDF)</strong></a>
     </div>
-    <em>Adobe Spark은 웹 스토리를 생동감 있게 표현해주는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Adobe Spark에서 브랜드 만들기" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 브랜드 만들기</strong></a>
-    </div>
-    <em>Adobe Spark을 사용하면 브랜드를 손쉽게 정의할 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
+    <em>제품이 실제로 어떻게 보이는지 확인하려면 Adobe [!DNL Dimension] 은(는)</em>
     <br>
   </td>
   <td>
     <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Fresco
+
+<table>
+<tr>
+ <td>
+   <a href="frescoworkshop.md">
+      <img alt="iPad(및 iPhone)에서 Fresco 시도" src="assets/Fresco.png" />
+   </a>
+    <div>
+   <a href="frescoworkshop.md"><strong>iPad(및 iPhone)에서 Fresco 시도</strong></a>
+    </div>
+    <em>15분 분량의 실습 워크숍을 통해 Adobe Fresco의 디지털 드로잉 및 페인팅의 새로운 세계를 탐험해 보십시오</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### 글꼴
+
+<table  style="table-layout:fixed">
+<tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>길들이기 유형 불안(PDF)</strong></a>
+    </div>
+    <em>Creative Cloud에서 전문적으로 디자인된 20,000개 이상의 글꼴에 액세스하고 사용하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
+      <img alt="Creative Cloud을 사용하여 멋진 타이포그래피 만들기" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creative Cloud을 사용하여 멋진 타이포그래피 만들기(PDF)</strong></a>
+    </div>
+    <em>자주 사용하는 디자인 툴에서 제공되는 최첨단 타이포그래피 컨트롤의 이점을 살펴봅니다</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
+      <img alt="Creative Cloud으로 글꼴 검색" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Creative Cloud(PDF)으로 글꼴 검색</strong></a>
+    </div>
+    <em>프로젝트에 적합한 글꼴을 찾는 것이 부담스러운 경우가 있습니다. 다양한 Creative Cloud 앱 및 서비스를 통해 적합한 글꼴을 찾는 것이 이제 재미있고 영감을 줍니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
+      <img alt="OpenType 글꼴에서 숨겨진 보석 사용" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
+   </a>
+    <div>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>OpenType 글꼴에서 숨겨진 보석 불러오기(PDF)</strong></a>
+    </div>
+    <em>OpenType 형식을 사용하면 글꼴에 최대 65,536개의 글리프를 포함할 수 있습니다</em>
+    <br>
+  </td>
+</table>
+
+### Illustrator
+
+<table  style="table-layout:fixed">
+<tr>
+   <td>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
+      <img alt="Illustrator의 그래픽 스타일 살펴보기" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
+   </a>
+    <div>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Illustrator의 그래픽 스타일 알아보기(PDF)</strong></a>
+    </div>
+    <em>Illustrator에서는 텍스트에 스타일을 지정할 때와 거의 같은 방식으로 아트웍에 스타일을 지정할 수 있습니다</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
+      <img alt="Adobe Illustrator CC으로 스마트하고 효율적으로 작업" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
+   </a>
+    <div>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Adobe Illustrator CC(PDF)으로 스마트하고 효율적으로 작업</strong></a>
+    </div>
+    <em>Illustrator에서 벡터 드로잉 속도 높이기</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
+      <img alt="Illustrator 심볼 + 레이어 = 반응형 SVG을 위한 완벽한 구조!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
+   </a>
+    <div>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator 심볼 + 레이어 = 반응형 SVG을 위한 완벽한 구조! (PDF)</strong></a>
+    </div>
+    <em>Illustrator은 아트워크의 심볼, 그룹, ID 및 정확한 벡터 정의를 만드는 기능을 포함하여 SVG 형식에 대한 탁월한 지원을 제공합니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### InDesign
+
+<table  style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
+      <img alt="InDesign에서 대화형 PDF 만들기" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>InDesign(PDF)에서 대화형 PDF 만들기</strong></a>
+    </div>
+    <em>InDesign에는 문서의 내용에 서식을 지정하고, 스타일을 지정하고, 내용을 관리하고 추적하는 데 도움이 되는 많은 기능이 포함되어 있습니다</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
+      <img alt="Adobe Acrobat 및 InDesign을 사용하여 디자인 피드백을 손쉽게 수집하고 통합" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Adobe Acrobat 및 InDesign(PDF)을 사용하여 디자인 피드백을 쉽게 수집하고 통합</strong></a>
+    </div>
+    <em>이해 관계자가 Acrobat을 사용하여 상세한 댓글과 주석을 추가한 다음 해당 마크업을 Adobe InDesign으로 다시 빠르게 가져와 레이아웃 컨텍스트에서 볼 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/StyleWebContentwithInDesign.pdf">
+      <img alt="Adobe InDesign CC을 사용하여 웹 내용 스타일 지정" src="assets/StyleWebContentwithInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Adobe InDesign CC으로 웹 내용 스타일 지정(PDF)</strong></a>
+    </div>
+    <em>강력한 InDesign 기능을 활용하여 HTML 및 웹 그래픽을 출력할 수 있다는 사실을 알고 계십니까?</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
+      <img alt="대화형 PDF: InDesign의 책갈피 및 연결된 목차" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>대화형 PDF: InDesign(PDF)에서 책갈피 및 연결된 목차</strong></a>
+    </div>
+    <em>InDesign의 목차 기능을 사용하여 독자가 PDF 파일에서 정보를 빠르게 찾을 수 있도록 하는 책갈피와 하이퍼링크를 모두 생성하는 방법에 대해 알아봅니다</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
+      <img alt="대화형 PDF: InDesign의 그래픽 하이퍼링크 및 중첩된 마스터 페이지" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>대화형 PDF: InDesign(PDF)의 그래픽 하이퍼링크 및 중첩된 마스터 페이지</strong></a>
+    </div>
+    <em>마스터 페이지와 하이퍼링크를 적용하면 모든 페이지에서 탐색 시스템을 빠르게 관리할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -237,7 +551,7 @@ ht-degree: 0%
     <div>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Photoshop(PDF)으로 스마트하고 효율적으로 작업</strong></a>
     </div>
-    <em>Photoshop을 변경하면 많은 시간이 소요될 수 있지만 반드시 변경할 필요는 없습니다</em>
+    <em>Photoshop을 변경하면 많은 시간이 소요될 수 있지만 그럴 필요가 없습니다</em>
     <br>
   </td>
   <td>
@@ -261,320 +575,4 @@ ht-degree: 0%
     <br>
   </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="frescoworkshop.md">
-      <img alt="iPad(및 iPhone)에서 Fresco 시도" src="assets/Fresco.png" />
-   </a>
-    <div>
-   <a href="frescoworkshop.md"><strong>iPad(및 iPhone)에서 Fresco 시도</strong></a>
-    </div>
-    <em>15분 분량의 실습 워크숍을 통해 Adobe Fresco의 디지털 드로잉 및 페인팅의 새로운 세계를 탐험해 보십시오</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Portfolio
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
-      <img alt="Adobe Portfolio 시작하기" src="assets/GettingStartedWithAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Adobe Portfolio 시작하기(PDF)</strong></a>
-    </div>
-    <em>Adobe Portfolio을 사용하여 최고의 작품을 공유하는 것은 성공을 공유하고 새로운 크리에이티브 인재를 끌어들이는 효과적인 방법입니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
-      <img alt="Adobe Portfolio에 Lightroom 및 Behance 연결" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Adobe Portfolio에 Lightroom 및 Behance 연결(PDF)</strong></a>
-    </div>
-    <em>포트폴리오의 페이지로 Behance 프로젝트 사용</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
-      <img alt="Adobe Portfolio에서 작품 감상" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Adobe Portfolio(PDF)에서 최고의 작업 표시</strong></a>
-    </div>
-    <em>Adobe Portfolio을 사용하면 전 세계의 잠재적 직원 및 클라이언트와 작업을 업로드, 구성 및 공유할 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
- </tr>
- </table>
-
-
-### CC Libraries
-
-<table  style="table-layout:fixed">
-<tr>
-  <td>
-   <a href="ccteamlibraries.md">
-      <img alt="팀용 Creative Cloud 라이브러리 만들기" src="assets/CCTeamLibraries_1280.jpg" />
-   </a>
-   <div>
-   <a href="ccteamlibraries.md"><strong>팀용 Creative Cloud 라이브러리 만들기</strong></a>
-    </div>
-    <em>팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀 내에서 에셋을 공유하는 방법에 대해 알아봅니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="sharecclibraries.md">
-      <img alt="팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유" src="assets/ShareLibraries_1280.jpg" />
-   </a>
-   <div>
-   <a href="sharecclibraries.md"><strong>팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유</strong></a>
-    </div>
-    <em>팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀의 브랜딩 에셋을 만들고, 사용하고, 공유하는 방법에 대해 알아봅니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Creative Cloud 라이브러리를 사용하여 브랜드 에셋 제작, 추가, 공유" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Creative Cloud 라이브러리(PDF)을 사용하여 브랜드 에셋 제작, 추가, 공유</strong></a>
-    </div>
-    <em>Creative Cloud 라이브러리는 디자이너가 크리에이티브 팀 전체에 걸쳐 브랜드 에셋을 공유할 수 있도록 하는 내장 브랜드 시스템을 제공합니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
-   </a>
-    <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유(PDF)</strong></a>
-    </div>
-    <em>Illustrator에서 스마트하고 효율적으로 작업</em>
-    <br>
-  </td>
-</tr>
-</table>
-
-### 글꼴
-
-<table  style="table-layout:fixed">
-<tr>
-<td>
-   <a href="assets/TamingTypeAnxiety.pdf">
-      <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.jpg" />
-   </a>
-    <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>길들이기 유형 불안(PDF)</strong></a>
-    </div>
-    <em>Creative Cloud에서 전문적으로 디자인된 20,000개 이상의 글꼴에 액세스하고 사용하는 방법에 대해 알아봅니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
-      <img alt="Creative Cloud을 사용하여 멋진 타이포그래피 만들기" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creative Cloud을 사용하여 멋진 타이포그래피 만들기(PDF)</strong></a>
-    </div>
-    <em>자주 사용하는 디자인 툴에서 제공되는 최첨단 타이포그래피 컨트롤의 이점을 살펴봅니다</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
-      <img alt="Creative Cloud으로 글꼴 검색" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Creative Cloud(PDF)으로 글꼴 검색</strong></a>
-    </div>
-    <em>프로젝트에 적합한 글꼴을 찾는 것이 부담스러운 경우가 있습니다. 다양한 Creative Cloud 앱 및 서비스를 통해 적합한 글꼴을 찾는 것이 이제 재미있고 영감을 줍니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
-      <img alt="OpenType 글꼴에서 숨겨진 보석 사용" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
-   </a>
-    <div>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>OpenType 글꼴에서 숨겨진 보석 불러오기(PDF)</strong></a>
-    </div>
-    <em>OpenType 형식을 사용하면 글꼴에 최대 65,536개의 글리프를 포함할 수 있습니다</em>
-    <br>
-  </td>
-</table>
-
-### InDesign
-
-<table  style="table-layout:fixed">
-<tr>
-  <td>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
-      <img alt="InDesign에서 대화형 PDF 만들기" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>InDesign(PDF)에서 대화형 PDF 만들기</strong></a>
-    </div>
-    <em>InDesign에는 문서의 내용에 서식을 지정하고, 스타일을 지정하고, 내용을 관리하고 추적하는 데 도움이 되는 많은 기능이 포함되어 있습니다</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="Adobe Acrobat 및 InDesign을 사용하여 디자인 피드백을 손쉽게 수집하고 통합" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Adobe Acrobat 및 InDesign(PDF)을 사용하여 디자인 피드백을 쉽게 수집하고 통합</strong></a>
-    </div>
-    <em>이해 관계자가 Acrobat을 사용하여 상세한 댓글과 주석을 추가한 다음 해당 마크업을 Adobe InDesign으로 다시 빠르게 가져와 레이아웃 컨텍스트에서 볼 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/StyleWebContentwithInDesign.pdf">
-      <img alt="Adobe InDesign CC을 사용하여 웹 내용 스타일 지정" src="assets/StyleWebContentwithInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Adobe InDesign CC으로 웹 내용 스타일 지정(PDF)</strong></a>
-    </div>
-    <em>강력한 InDesign 기능을 활용하여 HTML 및 웹 그래픽을 출력할 수 있다는 사실을 알고 계십니까?</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="대화형 PDF: InDesign의 책갈피 및 연결된 목차" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>대화형 PDF: InDesign(PDF)에서 책갈피 및 연결된 목차</strong></a>
-    </div>
-    <em>InDesign의 목차 기능을 사용하여 독자가 PDF 파일에서 정보를 빠르게 찾을 수 있도록 하는 책갈피와 하이퍼링크를 모두 생성하는 방법에 대해 알아봅니다</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="대화형 PDF: InDesign의 그래픽 하이퍼링크 및 중첩된 마스터 페이지" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>대화형 PDF: InDesign(PDF)의 그래픽 하이퍼링크 및 중첩된 마스터 페이지</strong></a>
-    </div>
-    <em>마스터 페이지와 하이퍼링크를 적용하면 모든 페이지에서 탐색 시스템을 빠르게 관리할 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
-      <img alt="Illustrator의 그래픽 스타일 살펴보기" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
-   </a>
-    <div>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Illustrator의 그래픽 스타일 알아보기(PDF)</strong></a>
-    </div>
-    <em>Illustrator에서는 텍스트에 스타일을 지정할 때와 거의 같은 방식으로 아트웍에 스타일을 지정할 수 있습니다</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
-      <img alt="Adobe Illustrator CC으로 스마트하고 효율적으로 작업" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
-   </a>
-    <div>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Adobe Illustrator CC(PDF)으로 스마트하고 효율적으로 작업</strong></a>
-    </div>
-    <em>Illustrator에서 벡터 드로잉 속도 높이기</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
-      <img alt="Illustrator 심볼 + 레이어 = 반응형 SVG을 위한 완벽한 구조!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
-   </a>
-    <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator 심볼 + 레이어 = 반응형 SVG을 위한 완벽한 구조! (PDF)</strong></a>
-    </div>
-    <em>Illustrator은 아트워크의 심볼, 그룹, ID 및 정확한 벡터 정의를 만드는 기능을 포함하여 SVG 형식에 대한 탁월한 지원을 제공합니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### [!DNL Dimension]
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
-      <img alt="사실적인 환경에서 제품 시각화" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
-   </a>
-    <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>실제 환경에서 제품 시각화(PDF)</strong></a>
-    </div>
-    <em>제품이 실제로 어떻게 보이는지 확인하려면 Adobe [!DNL Dimension] 은(는)</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
