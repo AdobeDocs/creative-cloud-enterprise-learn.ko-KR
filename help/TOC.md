@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 튜토리얼 및 빠른 참조 가이드를 확인하십시오.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 8%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [개요](cce/overview-cce.md)
    + 튜토리얼 {#ccetutorials}
       + [콘텐츠 제작자를 위한 Acrobat](cce/acrobat-content-creators.md)
+      + [CC Libraries를 사용하여 CC 작업 과정 개선](cce/cc-workflows-cc-libraries.md)
       + [팀용 Creative Cloud 라이브러리 만들기](cce/ccteamlibraries.md)
       + [팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유](cce/sharecclibraries.md)
       + [Adobe을 사용하여 독특한 합성 이미지 만들기 [!DNL Stock] 및 iPad용 Photoshop](cce/compositepsipad.md)

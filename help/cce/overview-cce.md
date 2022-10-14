@@ -4,9 +4,9 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="콘텐츠 제작자를 위한 Acrobat" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>컨텐츠 작성자를 위한 Acrobat(PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>컨텐츠 작성자를 위한 Acrobat(PDF)</strong></a>
     </div>
     <em>크리에이티브 워크플로우를 간소화하는 데 도움이 되는 Acrobat 툴을 살펴보세요</em>
     <br>
@@ -141,6 +141,16 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="CC Libraries를 사용하여 CC 작업 과정 개선" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC Libraries를 사용하여 CC 작업 과정 개선</strong></a>
+    </div>
+    <em>Creative Cloud 라이브러리로 디자인 요소를 함께 유지하여 디자이너와 팀의 프로젝트 일관성을 유지하는 방법을 살펴보세요</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="팀용 Creative Cloud 라이브러리 만들기" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ ht-degree: 0%
     <em>Creative Cloud 라이브러리는 디자이너가 크리에이티브 팀 전체에 걸쳐 브랜드 에셋을 공유할 수 있도록 하는 내장 브랜드 시스템을 제공합니다</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ ht-degree: 0%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Creative Cloud 라이브러리와 Illustrator의 텍스트 스타일 공유(PDF)</strong></a>
     </div>
     <em>Illustrator에서 스마트하고 효율적으로 작업</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
