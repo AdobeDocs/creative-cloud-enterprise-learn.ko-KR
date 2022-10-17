@@ -4,9 +4,9 @@ description: Adobe을 빠르게 시작하는 데 도움이 되는 Tutorials [!DN
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ ht-degree: 0%
     <em>멋진 일러스트레이션으로 프로젝트에 세련미를 더할 수 있습니다. Adobe에서 원하는 벡터 찾기 [!DNL Stock]를 선택하고 Adobe Illustrator을 사용하여 프로젝트의 팔레트에 색상을 일치시킵니다</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Adobe을 사용하여 스틸 이미지에 모션 추가 [!DNL Stock] 및 Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ ht-degree: 0%
       <em>서로 다른 두 이미지를 결합하여 디자인 프로젝트에 완전히 새로운 장면을 만들 수 있습니다. Adobe [!DNL Stock] 간편하게 Adobe Photoshop 사용</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Photoshop CC 및 Adobe을 사용하여 할로윈 시네마그래프 만들기 [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ ht-degree: 0%
       <em>Adobe Photoshop에서 비디오, 일러스트레이션 및 사진을 합성하여 시네마그래프 만들기</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Adobe을 통해 데이터 생동감 발휘 [!DNL Stock] 및 Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ ht-degree: 0%
       <em>다음 단계에 따라 사실적인 Adobe으로 작품을 전시하십시오 [!DNL Stock] Adobe Photoshop을 사용한 템플릿</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Adobe에서 디테일 살리기 [!DNL Stock] Lightroom for mobile의 이미지" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ ht-degree: 0%
       <em>모바일 디바이스에서 강력한 Lightroom을 사용하여 이미지를 돋보이게 만드는 방법을 살펴보세요</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Adobe을 통해 실제 환경에서 포스터 디자인 시각화 [!DNL Stock] 및 Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>

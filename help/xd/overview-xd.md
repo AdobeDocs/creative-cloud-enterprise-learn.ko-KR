@@ -4,9 +4,9 @@ description: Adobe XD을 빠르게 사용하는 데 도움이 되는 Tutorials
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -91,8 +91,6 @@ Adobe XD은 웹 사이트, 앱, 음성 인터페이스, 게임 및 기타 유형
     <em>Adobe XD은 기존 워크플로와 연동되는 놀라운 인터랙티브 디자인 툴을 제공하므로 인터랙티브한 디자인 비전을 한 차원 끌어올릴 수 있습니다</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="XD를 사용하여 모바일 웹 환경 디자인" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -103,6 +101,8 @@ Adobe XD은 웹 사이트, 앱, 음성 인터페이스, 게임 및 기타 유형
     <em>Adobe XD을 사용하여 Russell Brown MAX Madness 모바일 웹 갤러리의 디자인 프로세스를 심층적으로 살펴볼 수 있습니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Adobe XD을 사용하여 모바일 웹 경험 프로토타이핑" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -131,6 +131,11 @@ Adobe XD은 웹 사이트, 앱, 음성 인터페이스, 게임 및 기타 유형
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Adobe XD으로 MAX 광란의 장면 비하인드 (PDF)</strong></a>
     </div>
     <em>최적화된 모바일 웹 경험을 전달하면 사용자의 기대에 부응할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
