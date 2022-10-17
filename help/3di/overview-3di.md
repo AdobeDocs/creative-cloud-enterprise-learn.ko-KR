@@ -4,9 +4,9 @@ description: Adobe 3D 및 VR을 빠르게 시작하는 데 도움이 되는 Tuto
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud 메인 이미지](../assets/Dimenio.jpg)
 
-고품질 모델, 재질 및 조명을 사용하여 매력적인 3D 콘텐츠를 빠르게 만들 수 있습니다. [!DNL Dimension] 시각적인 브랜드 요소, 일러스트레이션, 제품 목업, 패키징 디자인을 비롯한 다양한 크리에이티브 작업을 수월하게 할 수 있습니다.
-
-## Adobe 3D 및 VR 튜토리얼을 보려면 클릭하십시오.
+고품질 모델, 재질 및 조명을 사용하여 매력적인 3D 콘텐츠를 빠르게 만들 수 있습니다. [!DNL Dimension] 시각적인 브랜드 요소, 일러스트레이션, 제품 목업, 패키징 디자인을 비롯한 다양한 크리에이티브 작업을 수월하게 할 수 있습니다. 튜토리얼을 볼 이미지를 선택합니다.
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ ht-degree: 0%
     <em>제품이 실제로 어떻게 보이는지 확인하려면 Adobe [!DNL Dimension] 은(는)</em>
     <br>
   </td>
-</tr>
-   <tr>
- <td>
+  <td>
    <a href="mastering3dlighting.md">
       <img alt="CGI에서 3D 조명 마스터를 위한 팁 및 기술" src="assets/Mastering3dlighting_1.gif" />
    </a>
@@ -63,6 +59,8 @@ ht-degree: 0%
     <em>3D 조명 및 컴퓨터에서 생성된 장면을 완전히 바꿀 수 있는 다양한 조명 조건을 만드는 방법과 개체가 조명 안에서 표시되는 방식에 대해 알아봅니다</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기" src="assets/Photorealistic_TOC.png" />
@@ -81,6 +79,16 @@ ht-degree: 0%
    <a href="3ddimensionstock.md"><strong>3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 및 Adobe [!DNL Stock]</strong></a>
     </div>
     <em>3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 재질, 환경 속성, 조명, 사진을 사용하여 모든 디자인 프로젝트를 위한 사실적인 이미지 만들기</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -4,7 +4,7 @@ description: Adobe DVA 제품을 빠르게 사용하는 데 도움이 되는 Tut
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud 메인 이미지](../assets/CCEbanner-DVA.png)
 
-비디오 편집, 모션 그래픽, 시각 효과, 애니메이션 작업 시 Adobe 소프트웨어와 앱을 사용하면 창의적인 아이디어에 생명력을 불어넣을 수 있습니다.
-
-## Adobe 비디오 자습서를 보려면 클릭
+비디오 편집, 모션 그래픽, 시각 효과, 애니메이션 작업 시 Adobe 소프트웨어와 앱을 사용하면 창의적인 아이디어에 생명력을 불어넣을 수 있습니다. 튜토리얼을 볼 이미지를 선택합니다.
 
 <table>
 <tr>
