@@ -4,7 +4,7 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative Cloud 메인 이미지](../assets/CCEbanner.png)
 
 기업 크리에이티브 팀은 분산된 팀과 협업하고 확장 가능한 프로세스를 설정하며 기업 시스템과 지침을 준수해야 합니다. 이 튜토리얼은 기업의 관점에서 Creative Cloud의 새로운 기능을 배우는 데 도움이 됩니다.
-
 
 ## 제품 자습서를 보려면 클릭(알파벳 순서로 나열됨)
 
@@ -316,11 +315,11 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>길들이기 유형 불안(PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>길들이기 유형 불안(PDF)</strong></a>
     </div>
     <em>Creative Cloud에서 전문적으로 디자인된 20,000개 이상의 글꼴에 액세스하고 사용하는 방법에 대해 알아봅니다</em>
     <br>

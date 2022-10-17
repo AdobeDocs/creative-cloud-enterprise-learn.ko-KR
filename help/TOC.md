@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # Creative Cloud for enterprise 튜토리얼 {#cce-learning-hub}
 
 + [개요](overview.md)
-+ CCE {#cceoverview}
++ Creative Cloud for enterprise {#cceoverview}
    + [개요](cce/overview-cce.md)
    + 튜토리얼 {#ccetutorials}
       + [콘텐츠 제작자를 위한 Acrobat](cce/acrobat-content-creators.md)
       + [CC Libraries를 사용하여 CC 작업 과정 개선](cce/cc-workflows-cc-libraries.md)
-      + [길들이기 식 불안](cce/Taming-font-anxiety.md)
+      + [길들이기 식 불안](cce/taming-type-anxiety.md)
       + [팀용 Creative Cloud 라이브러리 만들기](cce/ccteamlibraries.md)
       + [팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유](cce/sharecclibraries.md)
       + [Adobe을 사용하여 독특한 합성 이미지 만들기 [!DNL Stock] 및 iPad용 Photoshop](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [그래픽 형식의 알파벳 수프 디코딩](cce/alphabetsoup.md)
       + [iPad 및 iPhone에서 Fresco 활용](cce/frescoworkshop.md)
    + 빠른 참조 안내서 {#ccerefguides}
-   + [제품 목록](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [CCE 안내선](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
    + 튜토리얼 {#stocktutorials}
       + [검색 Adobe [!DNL Stock] 라이선스 내역](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [Adobe을 사용하여 로딩 화면 애니메이션 사용자 정의 [!DNL Stock] 및 XD](stock/loadingscreen.md)
       + [Adobe 사용자 정의 [!DNL Stock] 전문가 수준의 프레젠테이션 템플릿](stock/presentationtemplate.md)
       + [Adobe의 색상 사용자 정의 [!DNL Stock] 벡터 일러스트레이션](stock/customizecolors.md)
-+ 3D 및 VR {#3doverview}
++ Adobe 3D 및 VR {#3doverview}
    + [개요](3di/overview-3di.md)
    + 튜토리얼 {#3dtutorials}
       + [CGI에서 3D 조명 마스터를 위한 팁 및 기술](3di/mastering3dlighting.md)
       + [3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기](3di/photorealistic.md)
       + [3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 및 Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ 비디오 {#videooverview}
++ Adobe 비디오 {#videooverview}
    + [개요](dva/overview-dva.md)
    + 튜토리얼 {#videotutorials}
       + [Frame.io를 사용한 비디오 검토](dva/video-review-frame-io.md)
-   + 빠른 참조 안내서 {#stockrefguides}
-      + [Stock 가이드](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + 빠른 참조 안내서 {#videorefguides}
+      + [비디오 안내선](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [개요](xd/overview-xd.md)
    + 튜토리얼 {#xdtutorials}
    + [편안하게 [!UICONTROL 구성 요소] Adobe XD](xd/components.md)
