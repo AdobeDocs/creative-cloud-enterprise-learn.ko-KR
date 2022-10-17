@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [그래픽 형식의 알파벳 수프 디코딩](cce/alphabetsoup.md)
       + [iPad 및 iPhone에서 Fresco 활용](cce/frescoworkshop.md)
    + 빠른 참조 안내서 {#ccerefguides}
-   + [CCE 안내선](quick-reference/overview-ref.md)
+      + [CCE 안내선](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
    + 튜토리얼 {#stocktutorials}
