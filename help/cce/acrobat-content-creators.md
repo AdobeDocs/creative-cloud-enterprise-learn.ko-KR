@@ -4,9 +4,9 @@ description: 크리에이티브 워크플로우를 간소화하는 Adobe Acrobat
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: 05689444c056feb01a147579150b20ce4b8e0f20
+source-git-commit: e64a8848737b8fa2d8105b652368f9aa78063bed
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ PDF 제작자는 콘텐츠를 생성한 다음 Acrobat에서 해당 PDF 파일�
 
 <br> 
 
-[![자습서의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatforContentCreators.pdf target=&quot;_blank&quot;)
+[![자습서의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png)](assets/AcrobatforContentCreators.pdf)
