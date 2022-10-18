@@ -4,7 +4,7 @@ description: 크리에이티브 워크플로우를 간소화하는 Adobe Acrobat
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 PDF 제작자는 콘텐츠를 생성한 다음 Acrobat에서 해당 PDF 파일을 정기적으로 볼 수 있습니다. 하지만 Acrobat에는 일반적인 크리에이티브 워크플로우를 간소화하는 데 도움이 되는 다양한 툴이 포함되어 있습니다.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
