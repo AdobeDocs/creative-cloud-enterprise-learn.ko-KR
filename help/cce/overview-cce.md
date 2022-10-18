@@ -4,7 +4,7 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
       <img alt="콘텐츠 제작자를 위한 Acrobat" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="acrobat-content-creators.md"><strong>컨텐츠 작성자를 위한 Acrobat(PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>콘텐츠 제작자를 위한 Acrobat(PDF)</strong></a>
     </div>
     <em>크리에이티브 워크플로우를 간소화하는 데 도움이 되는 Acrobat 툴을 살펴보세요</em>
     <br>
