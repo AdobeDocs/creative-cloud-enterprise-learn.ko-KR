@@ -4,9 +4,9 @@ description: 크리에이티브 워크플로우를 간소화하는 Adobe Acrobat
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: 936b00591f8c4ede40f0ee3bbfc271f5124ff107
+source-git-commit: dc4bf89a784ccff15e68f71a41d5e27bc30fd61d
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,6 @@ ht-degree: 0%
 
 PDF 제작자는 콘텐츠를 생성한 다음 Acrobat에서 해당 PDF 파일을 정기적으로 볼 수 있습니다. 하지만 Acrobat에는 일반적인 크리에이티브 워크플로우를 간소화하는 데 도움이 되는 다양한 툴이 포함되어 있습니다.
 
-<table style="table-layout:auto">
-<tr>
- <td>
-   <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
-      <img alt="콘텐츠 제작자를 위한 Acrobat" src="assets/AcrobatforContentCreators_400.jpg" />
-   </a>
-  </td>
-  <td>
-   <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>콘텐츠 제작자를 위한 Acrobat(PDF)</strong></a>
-    <em>크리에이티브 워크플로우를 간소화하는 데 도움이 되는 Acrobat 툴을 살펴보세요</em>
-    <br>
-  </td>
-</tr>
-</table>
+[![자습서의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png)](&quot;assets/AcrobatforContentCreators.pdf&quot; &quot; target=&quot;_blank&quot;)
+**콘텐츠 제작자를 위한 Acrobat(PDF)**
+*크리에이티브 워크플로우를 간소화하는 데 도움이 되는 Acrobat 툴을 살펴보세요*
