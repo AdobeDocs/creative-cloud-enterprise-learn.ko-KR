@@ -4,7 +4,7 @@ description: Adobe Premiere Pro용 Frame.io 확장을 통해 타임라인을 종
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/Videoreviewwithframe.png){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}

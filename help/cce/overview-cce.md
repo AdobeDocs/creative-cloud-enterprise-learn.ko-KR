@@ -4,7 +4,7 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 079372e8ba0d139fc9b3fac171e8af62f580c483
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -141,7 +141,7 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="CC Libraries를 사용하여 CC 작업 과정 개선" src="assets/Improveccworkflowswithcclibraries.jpg" />
+      <img alt="CC Libraries를 사용하여 CC 작업 과정 개선" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>CC Libraries를 사용하여 CC 작업 과정 개선</strong></a>
@@ -316,7 +316,7 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.jpg" />
+      <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>길들이기 유형 불안(PDF)</strong></a>
