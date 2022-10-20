@@ -4,9 +4,9 @@ description: Adobe을 빠르게 시작하는 데 도움이 되는 Tutorials [!DN
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1240'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ ht-degree: 0%
 <table>
 <tr>
    <td>
+      <a href="stunning-digital-assets.md">
+         <img alt="멋진 디지털 에셋" src="assets/Stunningdigitalassets.png" />
+      </a>
+      <div>
+      <a href="stunning-digital-assets.md"><strong>멋진 디지털 에셋</strong></a>
+      </div>
+      <em>이 실습 튜토리얼에서는 Adobe Stock과 CC Libraries를 통합하여 인쇄물 및 화면을 위한 일관되고 전문적인 디자인 결과를 만드는 방법을 살펴봅니다</em>
+      <br>
+  </td>
+  <td>
       <a href="searchstock.md">
          <img alt="검색 Adobe [!DNL Stock] 라이선스 내역" src="assets/StockSearch_1280.jpg" />
       </a>
@@ -49,6 +59,8 @@ ht-degree: 0%
     <em>Adobe 요소를 사용하여 텍스트를 생동감 있게 표현 [!DNL Stock] 및 After Effects 애니메이션 스타일</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
       <a href="animatevector.md">
          <img alt="Adobe 애니메이션 만들기 [!DNL Stock] Photoshop의 벡터 일러스트레이션" src="assets/animatevector.jpg" />
@@ -59,9 +71,7 @@ ht-degree: 0%
       <em>Adobe을 위한 편집 가능한 벡터로 뉴스레터 그래픽에 애니메이션을 추가하세요 [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="annualreport.md">
          <img alt="Adobe으로 제작한 비디오로 연간 보고서 작성 [!DNL Stock] 및 Spark Video" src="assets/annualreport.jpg" />
       </a>
@@ -91,7 +101,9 @@ ht-degree: 0%
       <em>Adobe에서 독특한 사진 찾기 [!DNL Stock] 필요에 맞게 Adobe Photoshop의 색상을 조정할 수 있습니다</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="collage.md">
          <img alt="Adobe을 사용하여 포스터용 3D 콜라주 만들기 [!DNL Stock] 이미지" src="assets/collage.jpg" />
       </a>
@@ -101,8 +113,6 @@ ht-degree: 0%
       <em>Adobe Illustrator에서 Adobe의 이미지로 시선을 사로잡는 3D 효과를 연출하는 콜라주 디자인 [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
   <td>
       <a href="boldlabel.md">
          <img alt="Adobe을 사용하여 굵은 레이블 만들기 [!DNL Stock] 템플릿 및 Photoshop 고급 개체" src="assets/boldlabel.jpg" />
@@ -133,7 +143,9 @@ ht-degree: 0%
       <em>제품 가격 플랜을 비교하여 잠재 고객에게 필요한 정보를 한눈에 제공하는 그래픽을 만듭니다</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="surrealcomposite.md">
          <img alt="Adobe을 사용하여 초현실적인 합성 이미지 만들기 [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
@@ -143,8 +155,6 @@ ht-degree: 0%
       <em>색상, 동작 및 마스크 효과로 여러 이미지를 결합하여 인상적인 에디토리얼 이미지를 만들어 보세요</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="surrealpattern.md">
          <img alt="Adobe을 사용하여 초현실적인 패턴 만들기 [!DNL Stock]" src="assets/surrealpattern.jpg" />
@@ -175,7 +185,9 @@ ht-degree: 0%
       <em>Adobe을 사용하여 웹 사이트 프로토타입에서 인터랙티브한 사진을 빠르게 만들 수 있습니다 [!DNL Stock] 및 XD</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="animationemail.md">
          <img alt="Adobe이 포함된 이메일용 애니메이션 만들기 [!DNL Stock] 및 Photoshop" src="assets/animationemail.jpg" />
       </a>
@@ -185,9 +197,7 @@ ht-degree: 0%
       <em>Adobe을 사용하여 스톱 액션 애니메이션으로 이메일을 강화할 수 있습니다. [!DNL Stock] 및 Photoshop</em>
       <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
       <a href="brandgradients.md">
          <img alt="멋진 그레이디언트와 Adobe으로 일관된 브랜드 이미지 만들기 [!DNL Stock] assets" src="assets/brandgradients.jpg" />
       </a>
@@ -217,7 +227,9 @@ ht-degree: 0%
       <em>프로젝트 무드보드를 만들어 정보, 아이디어, 시각 요소 및 색상 팔레트를 팀/클라이언트에 전달합니다</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="realisticcomposite.md">
          <img alt="Adobe을 사용하여 리얼한 합성 사진 만들기 [!DNL Stock] 이미지" src="assets/realisticcomposite.jpg" />
       </a>
@@ -227,8 +239,6 @@ ht-degree: 0%
       <em>탁월한 두 Adobe [!DNL Stock] 소셜 게시물에 사람들을 끌어들이는 사진</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
    <a href="loadingscreen.md">
       <img alt="Adobe을 사용하여 로딩 화면 애니메이션 사용자 정의 [!DNL Stock] 및 XD" src="assets/loadingscreen.jpg" />
@@ -259,7 +269,9 @@ ht-degree: 0%
     <em>멋진 일러스트레이션으로 프로젝트에 세련미를 더할 수 있습니다. Adobe에서 원하는 벡터 찾기 [!DNL Stock]를 선택하고 Adobe Illustrator을 사용하여 프로젝트의 팔레트에 색상을 일치시킵니다</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Adobe을 사용하여 스틸 이미지에 모션 추가 [!DNL Stock] 및 Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -269,8 +281,6 @@ ht-degree: 0%
       <em>동영상을 스틸 이미지에 통합하여 모든 화면에서 시선을 사로잡으십시오</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
       <img alt="iPad 및 Adobe에서 Photoshop을 사용하여 합성 이미지 만들기 [!DNL Stock] 이미지" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
@@ -301,7 +311,9 @@ ht-degree: 0%
       <em>서로 다른 두 이미지를 결합하여 디자인 프로젝트에 완전히 새로운 장면을 만들 수 있습니다. Adobe [!DNL Stock] 간편하게 Adobe Photoshop 사용</em>
       <br>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Photoshop CC 및 Adobe을 사용하여 할로윈 시네마그래프 만들기 [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
@@ -311,8 +323,6 @@ ht-degree: 0%
       <em>Adobe Photoshop에서 비디오, 일러스트레이션 및 사진을 합성하여 시네마그래프 만들기</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Adobe을 통해 데이터 생동감 발휘 [!DNL Stock] 및 Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -343,7 +353,9 @@ ht-degree: 0%
       <em>다음 단계에 따라 사실적인 Adobe으로 작품을 전시하십시오 [!DNL Stock] Adobe Photoshop을 사용한 템플릿</em>
       <br>
   </td>
-  <td>
+ </tr> 
+ <tr>
+   <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Adobe에서 디테일 살리기 [!DNL Stock] Lightroom for mobile의 이미지" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -353,9 +365,7 @@ ht-degree: 0%
       <em>모바일 디바이스에서 강력한 Lightroom을 사용하여 이미지를 돋보이게 만드는 방법을 살펴보세요</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Adobe을 통해 실제 환경에서 포스터 디자인 시각화 [!DNL Stock] 및 Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -366,17 +376,7 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <img alt="스페이서" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

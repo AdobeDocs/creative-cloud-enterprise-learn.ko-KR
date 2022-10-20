@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 9%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 0%
 + [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
    + 튜토리얼 {#stocktutorials}
+      + [멋진 디지털 에셋](stock/stunning-digital-assets.md)
       + [검색 Adobe [!DNL Stock] 라이선스 내역](stock/searchstock.md)
       + [Adobe에 손으로 그린 아트웍 추가 [!DNL Stock] 이미지](stock/handdrawn.md)
       + [마스크와 애니메이션을 사용하여 타이포그래피에 멋스러움 더하기](stock/flairtypography.md)
