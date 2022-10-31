@@ -4,9 +4,9 @@ description: Adobe을 빠르게 시작하는 데 도움이 되는 Tutorials [!DN
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="멋진 디지털 에셋" src="assets/Stunningdigitalassets.png" />
+         <img alt="매력적인 디지털 에셋(PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>멋진 디지털 에셋</strong></a>
+      <a href="stunning-digital-assets.md"><strong>매력적인 디지털 에셋(PDF)</strong></a>
       </div>
       <em>이 실습 튜토리얼에서는 Adobe Stock과 CC Libraries를 통합하여 인쇄물 및 화면을 위한 일관되고 전문적인 디자인 결과를 만드는 방법을 살펴봅니다</em>
       <br>

@@ -4,9 +4,9 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -141,10 +141,10 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="CC Libraries를 사용하여 CC 작업 과정 개선" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="CC Libraries(PDF)을 사용하여 CC 작업 과정 개선" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>CC Libraries를 사용하여 CC 작업 과정 개선</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC Libraries(PDF)을 사용하여 CC 작업 과정 개선</strong></a>
     </div>
     <em>Creative Cloud 라이브러리로 디자인 요소를 함께 유지하여 디자이너와 팀의 프로젝트 일관성을 유지하는 방법을 살펴보세요</em>
     <br>
@@ -316,7 +316,7 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="길들이기 식 불안" src="assets/TamingTypeAnxiety.png" />
+      <img alt="길들이기 유형 불안(PDF)" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>길들이기 유형 불안(PDF)</strong></a>
