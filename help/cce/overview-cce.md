@@ -4,9 +4,9 @@ description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express: 탁월한 콘텐츠" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: 탁월한 콘텐츠</strong></a>
+    </div>
+    <em> Adobe Express을 사용하여 멋진 그래픽, 웹 페이지, 동영상 스토리를 신속하게 제작</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Adobe Spark에서 브랜드 만들기" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 브랜드 만들기</strong></a>
+    </div>
+    <em>Adobe Spark을 사용하면 브랜드를 손쉽게 정의할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="Spark Page에 글라이드쇼 추가" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ ht-degree: 0%
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>새로운 프로덕션 아티스트를 만나보십시오. Adobe Spark Post (PDF)</strong></a>
     </div>
     <em>Adobe Spark은 레이아웃을 만들고, 색상을 정의하고, 아트웍을 가져오고, 컴포지션 내의 요소를 정렬하는 과정을 학습합니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="공동 작업: 창의성의 미래" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>공동 작업: 창의성의 미래</strong></a>
+    </div>
+    <em>Adobe Creative Cloud 구독의 많은 혜택 중 무료로 이용할 수 있는 것은 Adobe Fonts에서 전문적으로 디자인되고 선별된 20,000개 이상의 글꼴입니다</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="손글씨부터 Creative Cloud을 통한 Illustrator" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ ht-degree: 0%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Creative Cloud(PDF)을 통해 Lightroom 웹에서 InDesign으로</strong></a>
     </div>
     <em>Creative Cloud 파일 및 라이브러리를 사용하여 카메라에서 최종 디자인으로 창의력을 발휘할 수 있습니다</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
