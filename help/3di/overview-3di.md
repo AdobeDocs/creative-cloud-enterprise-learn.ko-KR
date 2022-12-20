@@ -4,9 +4,9 @@ description: Adobe 3D 및 VR을 빠르게 시작하는 데 도움이 되는 Tuto
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ ht-degree: 0%
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="3D 디자인 및 렌더링" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>3D 디자인 및 렌더링</strong></a>
+    </div>
+    <em>콘텐츠를 가져오고, 장면을 정렬하고, 재질과 질감을 적용하고, 이미지 기반 조명과 물리적 조명을 조정하고, 다양한 해상도의 카메라를 저장하고, 사실적인 이미지를 렌더링할 수 있습니다</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="Adobe을 사용하여 사실적인 3D 목업 만들기 [!DNL Stock] 및 [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -49,6 +59,8 @@ ht-degree: 0%
     <em>제품이 실제로 어떻게 보이는지 확인하려면 Adobe [!DNL Dimension] 은(는)</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="CGI에서 3D 조명 마스터를 위한 팁 및 기술" src="assets/Mastering3dlighting_1.gif" />
@@ -59,8 +71,6 @@ ht-degree: 0%
     <em>3D 조명 및 컴퓨터에서 생성된 장면을 완전히 바꿀 수 있는 다양한 조명 조건을 만드는 방법과 개체가 조명 안에서 표시되는 방식에 대해 알아봅니다</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기" src="assets/Photorealistic_TOC.png" />
@@ -79,11 +89,6 @@ ht-degree: 0%
    <a href="3ddimensionstock.md"><strong>3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 및 Adobe [!DNL Stock]</strong></a>
     </div>
     <em>3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 재질, 환경 속성, 조명, 사진을 사용하여 모든 디자인 프로젝트를 위한 사실적인 이미지 만들기</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
