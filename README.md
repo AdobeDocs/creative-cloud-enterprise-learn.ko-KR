@@ -1,60 +1,60 @@
 ---
-source-git-commit: 9be3ea4800bbbafd7173eb56547930e486bb8d93
+source-git-commit: 52fd854fb4327ae1280d43b0412b9122f1cdf104
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
-# Contribute 문서
+# 기사 기여
 
-Dell은 문서 팀 외부의 Adobe 직원들뿐만 아니라 우리 커뮤니티의 기여를 환영합니다.
+당사는 커뮤니티뿐만 아니라 설명서 팀 외부의 Adobe 직원으로부터의 기부를 환영합니다.
 
-## Adobe Open Source 작동 코드
+## Adobe 오픈 소스 준수 사항
 
-이 프로젝트는 [Adobe Open Source Code of Commit](code-of-conduct.md) 또는 [.NET Foundation Code of Commit](https://dotnetfoundation.org/code-of-conduct)를 채택했습니다. 자세한 내용은 [기여](contributing.md) 문서를 참조하십시오.
+이 프로젝트는 [Adobe 오픈 소스 준수 사항](code-of-conduct.md) 또는 [.NET Foundation 준수 사항](https://dotnetfoundation.org/code-of-conduct). 자세한 내용은 [기여](contributing.md) 기술문서.
 
-## Adobe 콘텐츠에 대한 기여도 정보
+## Adobe 콘텐츠 기여 정보
 
-[Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+자세한 내용은 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
-기여하는 방법은 현재 사용자와 기여하려는 변경 유형에 따라 다릅니다.
+기여 방법은 신분과 기여하려는 변경 사항의 종류에 따라 다릅니다.
 
-### 사소한 변경
+### 사소한 변경 사항
 
-사소한 업데이트를 제공하는 경우 기사를 방문하여 기사의 GitHub 소스로 연결되는 기사에서 **편집** 링크를 클릭하십시오. 그런 다음 GitHub UI를 사용하여 업데이트하세요. 자세한 내용은 [Adobe Docs 참가자 안내서](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 를 참조하십시오.
+선의에서 사소한 업데이트로 기여 중인 경우 기사를 방문하여 **편집** 문서의 GitHub 소스로 이동하는 문서의 링크입니다. 그런 다음 GitHub UI를 사용하여 업데이트하면 됩니다. 일반 사항 보기 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 참조하십시오.
 
-이 리포에서 설명서와 코드 예제를 위해 제출하는 경미한 수정 또는 설명은 Adobe 사용 약관에 적용됩니다.
+이 리포지토리의 설명서 및 코드 예제를 위해 제출하는 사소한 수정 사항 또는 설명 사항에는 Adobe 사용 약관이 적용됩니다.
 
-### 커뮤니티 구성원의 주요 변경 또는 새 문서
+### 커뮤니티 멤버의 주요 변경 사항 또는 새 기사
 
-Adobe 커뮤니티의 일부이며 새 문서를 만들거나 주요 변경 사항을 제출하려면 Git 리포지토리의 문제점 탭을 사용하여 문제를 제출하여 문서 팀과 대화를 시작하십시오. 계획에 동의하면 직원과 협력하여 공용 저장소와 개인 저장소의 작업을 통해 새로운 컨텐츠를 가져올 수 있도록 해야 합니다.
+Adobe 커뮤니티의 일원이며 새 아티클을 만들거나 주요 변경 사항을 제출하려는 경우 Git 리포지토리의 문제 탭을 통해 문제를 제출하여 설명서 팀과 대화를 시작하십시오. 플랜에 동의했으면 공용 및 개인 리포지토리의 작업 결합을 통해 해당 새 컨텐츠를 가져오는 데 도움이 되도록 직원과 함께 작업해야 합니다.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Adobe Employees의 주요 변경 사항
+### Adobe 직원의 주요 변경 사항
 
-Adobe Experience Cloud 솔루션의 제품 팀에서 기술 작성자, 프로그램 관리자 또는 개발자로 기술 문서를 작성하거나 작성하는 것이 사용자의 임무인 경우 `https://git.corp.adobe.com/AdobeDocs`에서 개인 저장소를 사용해야 합니다.
+Adobe Experience Cloud 솔루션 제품 팀의 테크니컬 라이터, 프로그램 관리자 또는 개발자이며 기술 기사 기여 또는 작성이 직무인 경우 `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## 도구 및 설정
 
-커뮤니티 참가자는 기본 편집에 GitHub UI를 사용하거나 repo를 포크하여 주요 기여를 할 수 있습니다.
+커뮤니티 콘텐츠 작가는 기본 편집에 GitHub UI를 사용하거나 리포지토리를 활용하여 주요 기여 사항을 만들 수 있습니다.
 
-자세한 내용은 [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+자세한 내용은 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 참조하십시오.
 
-## 마크다운을 사용하여 주제 서식을 지정하는 방법
+## 마크다운을 사용하여 주제의 형식을 지정하는 방법
 
-이 리포지토리의 모든 아티클은 GitHub 맛의 마킹을 사용합니다. 마크다운에 익숙하지 않은 경우 다음을 참조하십시오.
+이 리포지토리의 모든 기사에서는 GitHub의 마크다운을 사용합니다. 마크다운에 익숙하지 않은 경우 다음을 참조하십시오.
 
-* [마케팅 기본 사항](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [인쇄용 마크업 시트](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [마크다운 기본 사항](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [인쇄 가능 마크다운 치트시트](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## 레이블
 
-공용 저장소에서는 자동 레이블이 Pull 요청에 할당되어 Pull 요청 워크플로우를 관리하고 Pull 요청에 대한 진행 상황을 알려 줍니다.
+공용 리포지토리에서는 끌어오기 요청 작업 과정을 관리하는 데 도움이 되고 끌어오기 요청의 진행 상황을 알려주는 데 도움이 되도록 끌어오기 요청에 자동화된 레이블이 지정됩니다.
 
-* **만든 이에게 보낸 변경 내용**: 작성자에게 보류 중인 끌어오기 요청을 알렸습니다.
-* **병합 준비**: 끌어오기 요청 검토 팀에서 검토할 준비가 되었습니다.
+* **작성자에게 변경 내용 보냄**: 작성자에게 보류 중인 끌어오기 요청을 알렸습니다.
+* **병합 준비**: 끌어오기 요청 검토팀에서 검토할 준비가 되었습니다.
