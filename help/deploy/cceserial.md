@@ -4,9 +4,9 @@ description: 기업 및 Acrobat용 Creative Cloud에 대한 시리얼 번호 만
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ ETLA 계약과 연계된 시리얼 번호 라이선스는 [Adobe 라이선싱 �
 1. (선택 사항) **제품 이름**, **제품 버전**, 또는 **플랫폼** 를 눌러 결과를 필터링합니다.
 1. 검색을 클릭합니다.
 1. 제품 이름 및 시리얼 번호가 표시됩니다.
-1. (선택 사항) &quot;CSV로 내보내기&quot;를 선택하여 일련 번호 목록을 다운로드합니다.
+1. (선택 사항) 일련 번호 목록을 다운로드하려면 &quot;CSV로 내보내기&quot;를 선택합니다.
 
 ![일련 번호 찾기](assets/retrieveserialnumbers.png)
 
@@ -41,7 +41,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 ### 엔터프라이즈 환경을 위한 Creative Cloud
 
-다음은 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 간단한 비디오가 있고 그 뒤에 최종 사용자 경험이 포함되어 있습니다.
+다음은 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 간단한 비디오가 있고 최종 사용자 경험을 검토합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
@@ -65,7 +65,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 ### Acrobat 환경
 
-다음은 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 간단한 비디오가 있고 그 뒤에 최종 사용자 경험이 포함되어 있습니다.
+다음은 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 간단한 비디오가 있고 최종 사용자 경험을 검토합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
@@ -84,13 +84,13 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 이후 Acrobat을 실행하려는 모든 시도에 대해 최종 사용자에게 **지금 로그인** 자체 Adobe ID을 만들고 체험판 모드로 전환하는 옵션이 표시됩니다. 단, 최종 사용자가 생성한 모든 새로운 Adobe ID은 조직의 라이선스와 연결되지 않으며 사용자에게 추가적인 혼동을 줄 것입니다.
 
-![Acrobat 로그인 대화 상자 1](assets/acrobatsignin1.png)
+![대화 1의 Acrobat Sign](assets/acrobatsignin1.png)
 
-![Acrobat 로그인 대화 상자 2](assets/acrobatsignin2.png)
+![대화 2의 Acrobat Sign](assets/acrobatsignin2.png)
 
 ## 도움이 필요한 경우 문의
 
 PDF 파일의 [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) 툴이나 시리얼 번호 배포에서 지정된 사용자로 마이그레이션하는 데 도움이 필요한 경우 다음과 같은 몇 가지 옵션이 있습니다.
 * Adobe 기업 온보딩 팀에 이메일 보내기 - **entonb@adobe.com**
 * 에서 지원 티켓 열기 [Admin Console](https://adminconsole.adobe.com/support)
-* Adobe 계정 관리자 또는 고객 성공 관리자에게 문의하십시오.
+* Adobe 계정 팀에 문의하십시오.
