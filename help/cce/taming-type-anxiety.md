@@ -7,7 +7,7 @@ thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 source-git-commit: 4b8f03e9c38f0cf5b403db8da050dc339ed1311a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ Adobe Creative Cloud 구독의 많은 혜택 중 무료로 이용할 수 있는 
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

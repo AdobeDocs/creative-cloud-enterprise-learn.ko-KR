@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Rush]"'
+title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] 온라인 콘텐츠를 보다 손쉽게 제작하고 공유할 수 있는 최초의 올인원 크로스 디바이스 동영상 편집 앱입니다
 role: User
 level: Beginner, Intermediate

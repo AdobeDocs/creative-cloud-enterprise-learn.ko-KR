@@ -1,5 +1,5 @@
 ---
-title: iPad의 Photoshop
+title: iPad용 Photoshop
 description: iPad에서 Photoshop을 사용하여 상상하는 무엇이든 어디에서나 영감이 떠오를 수 있습니다
 role: User
 level: Beginner, Intermediate
@@ -7,11 +7,11 @@ exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# iPad의 Photoshop
+# iPad용 Photoshop
 
 ![튜토리얼 메인 이미지](../assets/PSoniPad.jpg)
 

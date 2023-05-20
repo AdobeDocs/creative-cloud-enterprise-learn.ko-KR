@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 23%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 6%
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>벡터 그래픽 및 일러스트레이션 제작</em>
+    <em>벡터 그래픽 및 일러스트레이션</em>
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ ht-degree: 6%
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>어디에서나 온라인 동영상 제작 및 공유</em>
+    <em>장소에 상관없이 온라인 비디오 제작 및 공유</em>
     <br>
   </td>
 </tr>
@@ -139,19 +139,19 @@ ht-degree: 6%
     <div>
     <a href="illustratoripad.md"><strong>iPad의 Illustrator</strong></a>
     </div>
-    <em>벡터 그래픽 및 일러스트레이션 제작</em>
+    <em>벡터 그래픽 및 일러스트레이션</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="iPad의 Photoshop" src="../assets/PSoniPad.jpg" />
+      <img alt="iPad용 Photoshop" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>iPad의 Photoshop</strong></a>
+    <a href="photoshopipad.md"><strong>iPad용 Photoshop</strong></a>
     </div>
-    <em>데스크탑 및 iPad에서 멋진 이미지, 그래픽, 아트 제작, 편집 및 합성</em>
+    <em>데스크탑 및 iPad에서 세련된 이미지, 그래픽, 아트 제작, 편집 및 합성</em>
     <br>
   </td>
   <td>

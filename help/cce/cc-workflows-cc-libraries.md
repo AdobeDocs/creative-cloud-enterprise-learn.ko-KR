@@ -7,7 +7,7 @@ thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
 source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}

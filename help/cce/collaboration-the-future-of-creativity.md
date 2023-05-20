@@ -4,9 +4,10 @@ description: Adobe Creative Cloud 구독의 다양한 혜택을 통해 전문적
 role: User
 level: Beginner, Intermediate
 thumb: KT-11640.jpg
-source-git-commit: 9c294d0754bb6aa1489c5b5761d4522ecf0ad26a
+exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Adobe Creative Cloud 구독의 많은 혜택 중 하나는 Adobe Fonts에서 전
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

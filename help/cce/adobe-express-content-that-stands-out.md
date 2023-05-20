@@ -4,9 +4,10 @@ description: Adobe Express을 사용하여 멋진 그래픽, 웹 페이지, 동�
 role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+exl-id: ab62ec1d-d3f5-4fd0-8b6b-26ce038c1a76
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Adobe Express(이전의 Adobe Spark)을 사용하여 멋진 그래픽, 웹 페�
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Adobe-Express-content-that-stands-out.png){&quot;width=680&quot;}](assets/Adobe-Express-content-that-stands-out.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/Adobe-Express-content-that-stands-out.png){&quot;width=680&quot;}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

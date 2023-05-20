@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -96,7 +96,7 @@ ht-degree: 9%
          + [[!DNL Capture]](max2020/capture.md)
          + [Fresco](max2020/fresco.md)
          + [iPad의 Illustrator](max2020/illustratoripad.md)
-         + [iPad의 Photoshop](max2020/photoshopipad.md)
+         + [iPad용 Photoshop](max2020/photoshopipad.md)
       + 통합 {#integrations}
          + [AEM](max2020/aem.md)
          + [Creative Cloud 데스크탑 앱](max2020/creativeclouddesktopapp.md)

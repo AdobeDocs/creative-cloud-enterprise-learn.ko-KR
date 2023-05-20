@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Stock]"'
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] for enterprise를 통해 크리에이티브 팀은 2억 개 이상의 이미지, 비디오, 템플릿, 일러스트레이션, 오디오 파일 및 3D 에셋을 이용할 수 있습니다
 role: User
 level: Beginner, Intermediate

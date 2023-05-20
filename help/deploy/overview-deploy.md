@@ -7,7 +7,7 @@ exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud 메인 이미지](../assets/CCEbanner.png)
 
-Creative Cloud for enterprise는 맞춤형 배포 및 유연한 라이선스 트루업을 지원하며 다른 Adobe 엔터프라이즈 제품과 연동됩니다.
+Creative Cloud for enterprise는 맞춤형 배포와 유연한 라이선스 조정을 지원하며 다른 Adobe 기업 혜택과 함께 제공됩니다.
 
 * [기업 및 Acrobat 시리얼 번호 만료에 대한 Creative Cloud 이해](cceserial.md)
 기업 및 Acrobat용 Creative Cloud의 시리얼 번호 만료 환경에 대해 알아봅니다.

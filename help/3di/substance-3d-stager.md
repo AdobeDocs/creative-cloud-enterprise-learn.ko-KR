@@ -4,9 +4,10 @@ description: 콘텐츠를 가져오고, 장면을 정렬하고, 재질과 질감
 role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Adobe Substance 3D Stager에서 콘텐츠를 가져오고, 장면을 정렬하�
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}

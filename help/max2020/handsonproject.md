@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 **이미지를 클릭하여 다운로드 인쇄용 디자인 학습 PDF**
 
-[![인쇄용 디자인 학습](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![디자인과 인쇄 학습](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **프레젠테이션:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)

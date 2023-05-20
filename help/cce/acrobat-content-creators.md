@@ -7,7 +7,7 @@ thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
 source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ PDF 제작자는 콘텐츠를 생성한 다음 Acrobat에서 해당 PDF 파일�
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/Acrobat-for-Content-Creators.pdf){target=&quot;blank&quot;}
+[![자습서의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
