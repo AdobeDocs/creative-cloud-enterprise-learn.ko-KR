@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] 개요
 description: Adobe 가속화 [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
+source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## Adobe Firefoly를 통해 얻을 수 있는 이점
 
->[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
 <br> 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
 ## Adobe Firefoly에 대해 더 알아보기
 
