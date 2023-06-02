@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,8 @@ ht-degree: 10%
       + [iPad 및 iPhone에서 Fresco 활용](cce/frescoworkshop.md)
    + 빠른 참조 안내서 {#ccerefguides}
       + [CCE 안내선](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+   + [개요](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
    + 튜토리얼 {#stocktutorials}
