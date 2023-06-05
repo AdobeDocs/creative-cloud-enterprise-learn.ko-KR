@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '470'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,26 @@ ht-degree: 10%
       + [iPad 및 iPhone에서 Fresco 활용](cce/frescoworkshop.md)
    + 빠른 참조 안내서 {#ccerefguides}
       + [CCE 안내선](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [개요](express/overview-express.md)
+   + 튜토리얼 {#expresstutorials}
+      + [Adobe Express 시작하기](express/get-started.md)
+      + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
+      + [영감을 빠르게 얻기](express/get-inspiration.md)
+      + [템플릿 만들기](express/create-templates.md)
+      + [디자인 에셋 추가](express/add-design-assets.md)
+      + [오브젝트 그룹화](express/group-objects.md)
+      + [레이어 선택 및 이동](express/layers.md)
+      + [여러 페이지 만들기](express/multiple-pages.md)
+      + [실행 취소 및 다시 실행](express/undo-redo.md)
+      + [CC Libraries 사용](express/cc-libraries.md)
+      + [브랜드 적용](express/brand.md)
+      + [Google Drive 통합](express/google-drive.md)
+      + [배경 제거](express/remove-background.md)
+      + [오려내기 다듬기](express/refine-cutout.md)
+      + [텍스트 효과 사용](express/text-effects.md)
+      + [이미지 효과 사용](express/image-effects.md)
+      + [곡선 텍스트 만들기](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}

@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] 개요
 description: Adobe 가속화 [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
+source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -29,21 +29,21 @@ ht-degree: 0%
 <table>
 <tr>
    <td>
-      <a href="https://firefly.adobe.com/" {target="_blank" }>
-         <img alt="Adobe Firefoly (베타)" src="../assets/firefly-beta.png" />
+      <a href="https://firefly.adobe.com/" target="_blank">
+         <img alt="Adobe Firefoly (베타)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" {target="_blank" }><strong>Adobe Firefoly (베타)</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefoly (베타)</strong></a>
       </div>
       <em>Adobe Firefoly 베타 프로그램에 참여하십시오.</em>
       <br>
   </td>
   <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }>
-         <img alt="Photoshop에서 Firefoly 살펴보기" src="../assets/firefly-photoshop.png" />
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
+         <img alt="Photoshop에서 Firefoly 살펴보기" src="assets/firefly-photoshop.png" />
       </a>
       <div>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }><strong>Photoshop에서 Firefoly 살펴보기</strong></a>
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Photoshop에서 Firefoly 살펴보기</strong></a>
       </div>
       <em>이제 반딧불이는 Photoshop에 있고 만드는 방식은 절대 같지 않습니다</em>
       <br>

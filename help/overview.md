@@ -4,9 +4,9 @@ description: 기업 학습 허브 Creative Cloud 시작
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,26 @@ ht-degree: 9%
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>경험 없이도 사용이 간편한 크리에이티브 툴</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe 파이어플라이" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe 파이어플라이</strong></a>
+    </div>
+    <em>Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ ht-degree: 9%
     <em>고품질 디지털 이미지, 일러스트레이션, 비디오, 오디오, 템플릿 등</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D 및 VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ ht-degree: 9%
     <em>브랜드, 제품 이미지 및 패키지 디자인을 위한 사실적인 3D 이미지 제작</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe 비디오" src="assets/CCEbanner-DVA.png" />
