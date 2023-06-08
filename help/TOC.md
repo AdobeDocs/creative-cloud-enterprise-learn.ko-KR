@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 10%
+source-wordcount: '476'
+ht-degree: 9%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 10%
    + 튜토리얼 {#expresstutorials}
       + [Adobe Express 시작하기](express/get-started.md)
       + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
+      + [소셜 게시물 예약](express/schedule.md)
+      + [프로젝트 공동 작업자 초대](express/collaborate.md)
       + [영감을 빠르게 얻기](express/get-inspiration.md)
       + [템플릿 만들기](express/create-templates.md)
       + [디자인 에셋 추가](express/add-design-assets.md)
