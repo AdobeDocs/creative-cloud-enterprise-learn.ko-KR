@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] 개요
 description: Adobe 가속화 [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ![Firefly 메인 이미지](../assets/firefly.png)
 
-반딧불이는 Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군으로 초기에는 이미지 및 텍스트 효과 생성에 중점을 두고 있다. Firefoly는 크리에이티브 워크플로우를 크게 개선하면서 아이디어를 구상하고 커뮤니케이션하는 새로운 방식을 제공합니다.
+반딧불이는 Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군으로 초기에는 이미지 및 텍스트 효과 생성에 중점을 두고 있다. Firefly은 창의적인 워크플로우를 크게 향상시키면서 아이디어 구상, 창작 및 커뮤니케이션을 위한 새로운 방식을 제공합니다.
 
 <br> 
 
-## Adobe Firefly 기능 보기
+## Adobe Firefoly를 통해 얻을 수 있는 이점
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## Adobe Firefly에 대해 더 알아보기
+## Adobe Firefoly에 대해 더 알아보기
 
 <table>
 <tr>
@@ -52,6 +52,11 @@ ht-degree: 0%
       <a href="webinar-experimenting.md">
          <img alt="Adobe Firefly 실험" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Firefly 웨비나 실험</strong></a>
+      </div>
+      <em>온라인 세미나에서 Howard Pinsky가 Firefly 베타 버전으로 뛰어들어 보세요</em>
+      <br>
   </td>
   <td>
     <img alt="스페이서" src="../assets/Whitespacer.png" />
