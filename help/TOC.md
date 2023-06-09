@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '481'
 ht-degree: 9%
 
 ---
@@ -55,6 +55,8 @@ ht-degree: 9%
       + [곡선 텍스트 만들기](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
+   + 웨비나 {#firefly-webinars}
+      + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
    + 튜토리얼 {#stocktutorials}
