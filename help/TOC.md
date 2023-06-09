@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
+source-git-commit: 2308b637adf076bf8fdcc56c1b34ebe734385e1e
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '482'
 ht-degree: 9%
 
 ---
@@ -106,29 +106,29 @@ ht-degree: 9%
    + [개요](deploy/overview-deploy.md)
    + [일련 번호 만료](deploy/cceserial.md)
    + [지정된 사용자 라이선싱](deploy/nameduserlicensing.md)
-+ MAX 2020 {#max2020}
-   + [개요](max2020/overview-max.md)
++ Adobe MAX {#max}
+   + [개요](max/overview-max.md)
    + 튜토리얼 {#tutorials}
-      + [개요](max2020/maxtutorials.md)
+      + [개요](max/maxtutorials.md)
       + 데스크탑 제품 {#desktop-products}
-         + [Acrobat 및 서명](max2020/acrobat-sign.md)
-         + [[!DNL Dimension]](max2020/dimension.md)
-         + [Illustrator](max2020/illustrator.md)
-         + [InDesign](max2020/indesign.md)
-         + [Photoshop](max2020/photoshop.md)
-         + [[!DNL Rush]](max2020/rush.md)
-         + [XD](max2020/xd.md)
+         + [Acrobat 및 서명](max/acrobat-sign.md)
+         + [[!DNL Dimension]](max/dimension.md)
+         + [Illustrator](max/illustrator.md)
+         + [InDesign](max/indesign.md)
+         + [Photoshop](max/photoshop.md)
+         + [[!DNL Rush]](max/rush.md)
+         + [XD](max/xd.md)
       + 모바일 앱 {#mobile-apps}
-         + [[!DNL Capture]](max2020/capture.md)
-         + [Fresco](max2020/fresco.md)
-         + [iPad의 Illustrator](max2020/illustratoripad.md)
-         + [iPad용 Photoshop](max2020/photoshopipad.md)
+         + [[!DNL Capture]](max/capture.md)
+         + [Fresco](max/fresco.md)
+         + [iPad의 Illustrator](max/illustratoripad.md)
+         + [iPad용 Photoshop](max/photoshopipad.md)
       + 통합 {#integrations}
-         + [AEM](max2020/aem.md)
-         + [Creative Cloud 데스크탑 앱](max2020/creativeclouddesktopapp.md)
-         + [CC Libraries](max2020/cclibraries.md)
-         + [InDesign Server](max2020/indesignserver.md)
-         + [[!DNL Stock]](max2020/stock.md)
-         + [기업 관리](max2020/enterprise.md)
+         + [AEM](max/aem.md)
+         + [Creative Cloud 데스크탑 앱](max/creativeclouddesktopapp.md)
+         + [CC Libraries](max/cclibraries.md)
+         + [InDesign Server](max/indesignserver.md)
+         + [[!DNL Stock]](max/stock.md)
+         + [기업 관리](max/enterprise.md)
       + 실습 프로젝트 {#project}
-         + [나만의 얼굴 마스크 만들기](max2020/handsonproject.md)
+         + [나만의 얼굴 마스크 만들기](max/handsonproject.md)
