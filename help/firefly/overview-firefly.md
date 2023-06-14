@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] 개요
 description: Adobe 가속화 [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 <br> 
 
-## Adobe Firefoly를 통해 얻을 수 있는 이점
+## Adobe Firefly 기능 보기
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## Adobe Firefoly에 대해 더 알아보기
+## Adobe Firefly에 대해 더 알아보기
 
 <table>
 <tr>
@@ -59,9 +59,14 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Photoshop의 생성 채우기" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Photoshop의 생성 채우기</strong></a>
+      </div>
+      <em>Adobe Firefly 기반의 생성 채우기 사용 방법 학습</em>
+      <br>
   </td>
 </tr>
 </table>
