@@ -4,9 +4,9 @@ description: Adobe 가속화 [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: aa256d67dcc64f9bc96ccb2cb6bf0c4059a81d20
+source-git-commit: 549190f8482d9e6815b45a6f62f9ea361a6aeb0a
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
 
 <br> 
 
-## Adobe Express 시작하기
+## Adobe Express을 사용하여 간단한 디자인 만들기
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420204?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
 ## Adobe Express 자습서
 
