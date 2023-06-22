@@ -4,7 +4,7 @@ description: Adobe 가속화 [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: 549190f8482d9e6815b45a6f62f9ea361a6aeb0a
+source-git-commit: 15656390ccdeeed3177c66f1648127be8c16d466
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
 
 ## Adobe Express 자습서
 
-<table>
+<table style="table-layout:fixed">
 <tr>
    <td>
       <a href="get-started.md">
