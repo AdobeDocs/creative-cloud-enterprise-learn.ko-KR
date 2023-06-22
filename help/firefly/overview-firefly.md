@@ -4,28 +4,28 @@ description: Adobe 가속화 [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] 개요
 
-![Firefly 메인 이미지](../assets/firefly.png)
+![Firefoly Hero 이미지](../assets/firefly.png)
 
-반딧불이는 Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군으로 초기에는 이미지 및 텍스트 효과 생성에 중점을 두고 있다. Firefly은 창의적인 워크플로우를 크게 향상시키면서 아이디어 구상, 창작 및 커뮤니케이션을 위한 새로운 방식을 제공합니다.
+Firefly은 Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군으로, 초기에는 이미지 및 텍스트 효과 생성에 중점을 두고 있습니다. Firefoly는 크리에이티브 워크플로우를 크게 개선하면서 아이디어를 구상하고 커뮤니케이션하는 새로운 방식을 제공합니다.
 
 <br> 
 
-## Adobe Firefoly를 통해 얻을 수 있는 이점
+## Adobe Firefly 기능 보기
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## Adobe Firefly에 대해 더 알아보기
+## Adobe Firefoly에 대해 더 알아보기
 
 <table style="table-layout:fixed">
 <tr>
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Photoshop의 생성 채우기" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ ht-degree: 0%
       </a>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="텍스트 효과" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="스페이서" src="../assets/Whitespacer.png" />
