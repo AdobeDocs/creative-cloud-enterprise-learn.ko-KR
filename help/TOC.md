@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
+source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '509'
 ht-degree: 9%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 9%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
    + 튜토리얼 {#firefly-tutorials}
+      + [Adobe Firefly 개요](firefly/overview-of-firefly.md)
       + [배너 광고 [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [생성 채우기 [!DNL Photoshop]](firefly/generative-fill.md)
       + [텍스트 효과](firefly/text-effects.md)
