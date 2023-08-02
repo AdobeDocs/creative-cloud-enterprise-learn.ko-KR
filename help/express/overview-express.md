@@ -4,9 +4,9 @@ description: Adobe 가속화 [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: 82c3edb16a9a5a931d0cdfe79c5dc716c9666b87
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,11 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
       </a>
   </td>
   <td>
+      <a href="create-blog-graphics.md">
+         <img alt="Firefly을 사용하여 블로그 그래픽 만들기" src="assets/blog-graphic.png" />
+      </a>
+  </td>
+  <td>
       <a href="create-social-posters.md">
          <img alt="Firefly을 사용하여 소셜 포스터 만들기" src="assets/social-firefly.png" />
       </a>
@@ -44,14 +49,14 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
          <img alt="Firefly을 사용하여 웨비나 포스터 제작" src="assets/webinar-poster.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="schedule.md">
          <img alt="소셜 게시물 예약" src="assets/schedule.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
    <a href="collaborate.md">
       <img alt="프로젝트 공동 작업자 초대" src="assets/collaborate.png" />
    </a>
@@ -66,13 +71,13 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
       <img alt="템플릿 만들기" src="assets/templates.png" />
    </a>
   </td>
-  <td>
+</tr>
+<tr>
+<td>
       <a href="add-design-assets.md">
          <img alt="디자인 에셋 추가" src="assets/design-assets.png" />
       </a>
   </td>
-</tr>
-<tr>
  <td>
       <a href="group-objects.md">
          <img alt="오브젝트 그룹화" src="assets/group-objects.png" />
@@ -88,14 +93,14 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
          <img alt="여러 페이지 만들기" src="assets/multiple-pages.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="undo-redo.md">
          <img alt="실행 취소 및 다시 실행" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="cc-libraries.md">
          <img alt="CC Libraries 사용" src="assets/cc-libraries.png" />
       </a>
@@ -110,13 +115,13 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
          <img alt="Google Drive 통합" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="remove-background.md">
          <img alt="배경 제거" src="assets/background.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="refine-cutout.md">
          <img alt="오려내기 다듬기" src="assets/cutouts.png" />
@@ -132,10 +137,27 @@ Adobe Express은 사용이 간편한 크리에이티브 툴로, 별도의 경험
          <img alt="이미지 효과 사용" src="assets/image-effects.png" />
       </a>
   </td>
-  <td>
-   <a href="create-curved-text.md">
-      <img alt="곡선 텍스트 만들기" src="assets/curved-text.png" />
-   </a>
-  </td>
+</tr>
+<tr>
+   <td>
+      <a href="create-curved-text.md">
+         <img alt="곡선 텍스트 만들기" src="assets/curved-text.png" />
+      </a>
+   </td>
+   <td>
+      <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
 </tr>
 </table>

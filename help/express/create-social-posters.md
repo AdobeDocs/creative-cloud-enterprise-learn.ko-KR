@@ -3,7 +3,8 @@ title: Firefly을 사용하여 소셜 포스터 만들기
 description: Adobe Firefly에서 제공하는 텍스트를 이미지로 및 텍스트 효과에 사용하는 방법 알아보기
 role: User
 level: Beginner
-source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
+exl-id: 93765c61-c166-4d0b-86ed-91ed2d29d069
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 5%
