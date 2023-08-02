@@ -1,11 +1,11 @@
 ---
 title: Firefly을 사용하여 웨비나 포스터 제작
-description: Adobe Firefly에서 제공하는 텍스트를 이미지로 및 텍스트 효과에 사용하는 방법 알아보기
+description: 가상 현실 이벤트에 사용할 웨비나 포스터를 만드는 방법을 살펴보세요
 role: User
 level: Beginner
-source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 4%
 
 ---
