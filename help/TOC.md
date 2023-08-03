@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: 기업용 Creative Cloud에 중점을 둔 자습서 및 빠른 참조 안내서 보기
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '531'
 ht-degree: 9%
 
 ---
@@ -36,9 +36,10 @@ ht-degree: 9%
    + 튜토리얼 {#expresstutorials}
       + [Adobe Express 시작하기](express/get-started.md)
       + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
+      + [Firefly을 사용하여 마케팅 캠페인용 홍보 자료 콘텐츠 제작](express/create-local-marketing.md)
       + [Firefly을 사용하여 채용 및 온보딩 콘텐츠 만들기](express/create-on-boarding.md)
-      + [Firefly을 사용하여 블로그에 사용할 그래픽 콘텐츠 만들기](express/create-blog-graphics.md)
       + [Firefly을 사용하여 소셜 포스터 만들기](express/create-social-posters.md)
+      + [Firefly을 사용하여 블로그에 사용할 그래픽 콘텐츠 만들기](express/create-blog-graphics.md)
       + [Firefly을 사용하여 웨비나 포스터 제작](express/create-webinar-poster.md)
       + [소셜 게시물 예약](express/schedule.md)
       + [프로젝트 공동 작업자 초대](express/collaborate.md)
