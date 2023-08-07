@@ -1,10 +1,11 @@
 ---
 title: InDesign
 description: e북, 전자 잡지에서 책, 보고서, 백서에 이르기까지 풍부한 디지털 및 인쇄 경험을 제작할 수 있습니다
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%

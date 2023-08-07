@@ -1,11 +1,13 @@
 ---
 title: 전문가 모션 그래픽 템플릿
 description: 모션 그래픽 템플릿(.mogrt)은 공동 작업적이고 효율적인 방법으로 사용자 정의 가능한 모션 그래픽 패키지(제목, 로고 애니메이션, 하단 자막)를 만들고 편집 팀과 공유합니다
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-11642
 thumb: KT-11642.jpg
 exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

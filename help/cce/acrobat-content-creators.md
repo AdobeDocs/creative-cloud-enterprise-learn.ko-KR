@@ -1,11 +1,12 @@
 ---
 title: 콘텐츠 제작자를 위한 Acrobat
 description: 크리에이티브 워크플로우를 간소화하는 Adobe Acrobat의 주요 툴에 대해 살펴보세요
+feature: Share
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%

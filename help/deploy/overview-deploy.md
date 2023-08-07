@@ -4,7 +4,7 @@ description: 엔터프라이즈 앱에 대한 Creative Cloud을 배포하고 관
 role: User
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 14%

@@ -1,9 +1,11 @@
 ---
 title: 영감을 빠르게 얻기
 description: 간단한 디자인을 만드는 방법을 익혀 개성을 표현해 보세요
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 2608daf8-eec4-4e67-acda-e0ea047e6688
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%

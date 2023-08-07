@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 Tutorials
 description: 이 자습서는 기업의 관점에서 Creative Cloud 2021 릴리스의 새로운 기능을 배우는 데 도움이 됩니다
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%

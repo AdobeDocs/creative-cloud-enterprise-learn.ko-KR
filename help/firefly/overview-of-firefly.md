@@ -1,10 +1,11 @@
 ---
 title: Adobe Firefly 개요
 description: Adobe Firefly에서 가능한 작업 살펴보기
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528
-source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%

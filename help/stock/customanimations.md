@@ -1,11 +1,12 @@
 ---
 title: Adobe에 따라 개성 있는 애니메이션으로 창의력 발휘 [!DNL Stock]
 description: Adobe 사용 [!DNL Stock] Photoshop에서 사용자 정의 애니메이션에 대한 이미지, 텍스처, 패턴
+feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg
 exl-id: 0c45814d-7a27-4e61-a4d8-427709c13fb6
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%

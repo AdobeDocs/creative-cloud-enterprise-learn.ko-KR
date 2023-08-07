@@ -1,9 +1,11 @@
 ---
 title: 텍스트 효과 사용
 description: 그림자, 모양 및 윤곽선 텍스트를 추가하는 방법 알아보기
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 6dfab6fe-897e-4914-b9f4-4306eebec6a2
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%

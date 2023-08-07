@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] 온라인 콘텐츠를 보다 손쉽게 제작하고 공유할 수 있는 최초의 올인원 크로스 디바이스 동영상 편집 앱입니다
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%

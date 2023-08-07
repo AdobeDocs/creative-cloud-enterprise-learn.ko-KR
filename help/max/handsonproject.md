@@ -1,10 +1,11 @@
 ---
 title: 인쇄 플러그인 디자인 얼굴 마스크 사용자 정의
 description: 얼굴 마스크를 사용자 정의하는 실습 프로젝트
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%

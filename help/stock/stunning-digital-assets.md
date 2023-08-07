@@ -1,11 +1,12 @@
 ---
 title: 멋진 디지털 에셋
 description: 이 실습 튜토리얼에서는 Adobe Stock과 CC Libraries를 통합하여 인쇄물 및 화면을 위한 일관되고 전문적인 디자인 결과를 만드는 방법을 살펴봅니다
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

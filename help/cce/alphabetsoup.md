@@ -1,12 +1,13 @@
 ---
 title: 그래픽 형식의 알파벳 수프 디코딩
 description: JPG, PNG, SVG, GIF 및 EPS 파일은 모두 디자인에 일반적으로 사용되며, 일부는 웹 페이지, 다른 일부는 프레젠테이션, 출판 및 크리에이티브 프로젝트에 사용됩니다. 하지만 그게 무슨 뜻이고 어떤 걸 골라야 하나요?
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 kt: 8038
 thumbnail: KT-8038.jpg
 exl-id: a6bccd09-d4e6-43ec-9bf9-58c34f215267
-source-git-commit: 87830322955c0d4a6b7f6c31676f6dc651e63943
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

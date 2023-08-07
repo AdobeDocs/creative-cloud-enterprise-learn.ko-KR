@@ -1,12 +1,13 @@
 ---
 title: 팀용 Creative Cloud 라이브러리 만들기
 description: 팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀 내에서 에셋을 공유하는 방법에 대해 알아봅니다
+feature: Integrations
 role: User
 level: Beginner, Intermediate
-kt: 8209
+jira: KT-8209
 thumbnail: KT-8209
 exl-id: 1cb0d14d-4aa5-4002-85dc-e54f25b39945
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

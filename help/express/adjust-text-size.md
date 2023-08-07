@@ -1,9 +1,10 @@
 ---
 title: 텍스트 크기 조정
 description: 텍스트를 크게 하고 작게 만드는 방법 알아보기
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%

@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 — Enterprise 세션
 description: 데모 에셋 정보
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 귀사의 크리에이티브 직원이 수동적이고 반복적인 작업에 너무 많은 시간을 할애하고 있습니까? 조직에서 크리에이티브 전문가를 최대한 활용할 수 있도록 지원 AEM 및 InDesign Server과 같은 엔터프라이즈 시스템은 크리에이티브 인력과 프로덕션 담당자 모두에게 콘텐츠를 빠르게 타겟 고객에게 전달할 수 있는 방법을 제공합니다.
 
-녹화된 라이브 세션에서는 템플릿 기반 워크플로우의 예를 확인할 수 있습니다.
+녹화된 이 라이브 세션에서는 템플릿 기반 작업 과정의 예를 확인할 수 있습니다.
 * Adobe Experience Manager(AEM) Assets는 Adobe Creative Cloud과 통합할 수 있는 디지털 에셋 관리(DAM) 솔루션으로, DAM 사용자들이 크리에이티브 팀과 함께 작업하여 콘텐츠 제작 과정에서 공동 작업을 간소화할 수 있도록 지원합니다
 * Adobe InDesign Server은 다른 시스템과 통합하여 자동화된 게시 솔루션을 제공하는 레이아웃 및 컴포지션 엔진입니다
 

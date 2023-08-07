@@ -3,8 +3,9 @@ title: 기업 빠른 참조 안내서 Creative Cloud
 description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도움이 되는 Tutorials
 role: User
 level: Beginner, Intermediate
+jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -470,7 +471,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank">
-      <img alt="Let's XD - 디자인, 프로토타이핑 및 팀에 전달 방법을 참조하십시오." src="../assets/acrobat_PDF_96.png" />
+      <img alt="Let&apos;s XD - 디자인, 프로토타이핑 및 팀에 전달 방법을 참조하십시오." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>XD 사용 - 디자인, 프로토타이핑 및 팀에 전달(PDF) 방법을 참조하십시오.</strong></a>

@@ -1,12 +1,13 @@
 ---
 title: 팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유
 description: 팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀의 브랜딩 에셋을 만들고, 사용하고, 공유하는 방법에 대해 알아봅니다
+feature: Integrations
 role: User
 level: Beginner, Intermediate
-kt: 8211
+jira: KT-8211
 thumbnail: KT-8211
 exl-id: 47a16b70-3f0b-43b1-9b0d-9ee18df00254
-source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

@@ -1,10 +1,11 @@
 ---
 title: Photoshop을 사용하여 시네마그래프 만들기
 description: 이 단계별 워크숍 비디오 튜토리얼에서는 Adobe의 비디오를 결합하여 살아있는 사진을 만듭니다 [!DNL Stock] Photoshop의 유용한 마스크 기법
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 858cdd40-5b23-4ef9-bdd3-e663d4d94002
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

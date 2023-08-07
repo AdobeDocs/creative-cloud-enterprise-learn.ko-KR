@@ -1,10 +1,11 @@
 ---
 title: 편안하게 [!UICONTROL 구성 요소] Adobe XD
 description: 사용법 학습 [!UICONTROL 구성 요소] 디자인 작업 과정에 속도와 일관성을 모두 적용할 수 있는 전례 없는 유연성을 제공합니다.
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

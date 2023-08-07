@@ -1,20 +1,22 @@
 ---
 title: 공동 작업—창의성의 미래
-description: Adobe Creative Cloud 구독의 다양한 혜택을 통해 전문적으로 디자인되고 선별된 Adobe Fonts 글꼴 2만 개 이상을 무료로 이용할 수 있습니다
+description: 팀원, 이해 관계자, 클라이언트 및 Adobe Fonts의 선별된 글꼴과 함께 Creative Cloud 파일 및 폴더에 대한 의견을 추가하고 피드백을 공유하는 방법에 대해 알아봅니다
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
 # 공동 작업: 창의성의 미래
 
-Adobe Creative Cloud 구독의 많은 혜택 중 하나는 Adobe Fonts에서 전문적으로 디자인되고 선별된 20,000개 이상의 글꼴을 무료로 이용할 수 있는 것입니다. 원래 Typekit으로 알려진 Adobe Fonts은 단일 사용권 계약을 통해 사용할 수 있으며, 이를 통해 디자이너는 개인 또는 상업용 프로젝트에 제한 없이 창의적으로 사용할 수 있습니다.
+팀원, 관련자 및 클라이언트와 함께 Creative Cloud 파일 및 폴더에 대한 댓글을 추가하고 피드백을 공유하는 방법에 대해 알아봅니다. Adobe Creative Cloud 웹 사이트에서 공유하거나 Illustrator, InDesign 또는 Photoshop과 같은 앱 내에서 검토용으로 공유합니다.
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 

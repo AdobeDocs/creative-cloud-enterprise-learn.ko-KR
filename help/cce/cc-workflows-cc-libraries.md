@@ -1,11 +1,12 @@
 ---
 title: CC Libraries를 사용하여 CC 작업 과정 개선
 description: Creative Cloud 라이브러리로 디자인 요소를 함께 유지하여 디자이너와 팀의 프로젝트 일관성을 유지하는 방법을 살펴보세요
+feature: Integrations
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

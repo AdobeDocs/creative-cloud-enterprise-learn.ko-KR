@@ -1,10 +1,11 @@
 ---
 title: 비디오 빠른 참조 안내서
 description: Adobe DVA 제품의 속도를 높이는 데 도움이 되는 빠른 참조 안내서
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%

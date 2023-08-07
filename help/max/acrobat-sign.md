@@ -1,10 +1,11 @@
 ---
 title: Acrobat 및 서명
 description: Acrobat 및 Adobe Sign 튜토리얼 목록
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![튜토리얼 메인 이미지](../assets/DC.jpg)
 
-세계 최고의 PDF 및 전자 서명 솔루션이 포함된 Adobe Document Cloud을 사용하여 디지털 혁신을 통해 수동적인 문서 프로세스에서 벗어나십시오. 언제 어디에서나 다양한 화면과 디바이스에서 자주 사용하는 Microsoft 및 엔터프라이즈 앱을 통해 문서, 워크플로우 및 작업을 신속하게 처리할 수 있습니다.
+세계 최고의 PDF 및 전자 서명 솔루션이 포함된 Adobe Document Cloud을 통해 수동 문서 프로세스를 효율적인 디지털 프로세스로 전환할 수 있습니다. 언제 어디에서나 다양한 화면과 디바이스에서 자주 사용하는 Microsoft 및 엔터프라이즈 앱을 통해 문서, 워크플로우 및 작업을 신속하게 처리할 수 있습니다.
 
 ## 제품 Tutorials 찾아보기
 

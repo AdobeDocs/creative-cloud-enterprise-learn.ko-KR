@@ -1,10 +1,12 @@
 ---
 title: 기업 Tutorials Creative Cloud
 description: 기업 제품의 Creative Cloud을 빠르게 시작하는 데 도움이 되는 Tutorials
+feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
+jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '1529'
 ht-degree: 1%

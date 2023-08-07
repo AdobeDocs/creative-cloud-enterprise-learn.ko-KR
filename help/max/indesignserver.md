@@ -1,12 +1,13 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® 서버 소프트웨어는 InDesign의 디자인, 레이아웃 및 타이포그래피 기능을 활용하는 강력하고 확장 가능한 엔진을 제공하여 프로그래밍 방식으로 매력적인 자동화 문서를 만들 수 있도록 합니다
+description: Adobe Adobe(&Reg; InDesign(&R); 서버 소프트웨어는 InDesign의 디자인, 레이아웃 및 타이포그래피 기능을 활용하는 강력하고 확장 가능한 엔진을 제공하여 사용자가 프로그래밍 방식으로 매력적인 자동화 문서를 만들 수 있도록 합니다
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---

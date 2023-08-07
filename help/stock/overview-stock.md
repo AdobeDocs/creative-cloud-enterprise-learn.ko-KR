@@ -3,8 +3,9 @@ title: Adobe [!DNL Stock] 튜토리얼
 description: Adobe을 빠르게 시작하는 데 도움이 되는 Tutorials [!DNL Stock]
 role: User
 level: Beginner, Intermediate
+jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%

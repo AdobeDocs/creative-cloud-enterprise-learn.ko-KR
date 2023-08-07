@@ -1,10 +1,11 @@
 ---
 title: Illustrator의 생성 색상 변경
 description: Adobe Firefly 기반의 생성 색상 변경을 사용하는 방법 알아보기
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13527
-source-git-commit: a09b13fab3268cef63771abca51756c96f45aa07
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%

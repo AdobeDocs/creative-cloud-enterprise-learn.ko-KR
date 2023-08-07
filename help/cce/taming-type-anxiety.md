@@ -1,11 +1,13 @@
 ---
 title: 길들이기 식 불안
 description: Creative Cloud에서 전문적으로 디자인된 20,000개 이상의 글꼴에 액세스하고 사용하는 방법에 대해 알아봅니다
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
+jira: KT-10963
 thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
-source-git-commit: 4b8f03e9c38f0cf5b403db8da050dc339ed1311a
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

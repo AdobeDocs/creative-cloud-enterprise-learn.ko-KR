@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] for enterprise를 통해 크리에이티브 팀은 2억 개 이상의 이미지, 비디오, 템플릿, 일러스트레이션, 오디오 파일 및 3D 에셋을 이용할 수 있습니다
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%

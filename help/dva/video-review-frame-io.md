@@ -1,11 +1,12 @@
 ---
 title: Frame.io를 사용한 비디오 검토
 description: Adobe Premiere Pro용 Frame.io 확장을 통해 타임라인을 종료하지 않고도 에셋을 중앙 집중화하고 공유하고 실시간 주석을 수신하며 수정 내용을 추적하고 승인 속도를 높이는 방법을 살펴보십시오
+feature: Collaboration
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
 exl-id: 7a3e55f0-5208-4d4f-9427-108a468a1f56
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%

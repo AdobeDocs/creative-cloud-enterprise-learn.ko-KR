@@ -1,10 +1,11 @@
 ---
 title: Creative Cloud 데스크탑 앱
 description: Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리할 수 있는 허브입니다.
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 8%

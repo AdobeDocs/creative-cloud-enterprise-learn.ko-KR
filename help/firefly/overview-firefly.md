@@ -1,26 +1,27 @@
 ---
 title: Adobe [!DNL Firefly] 개요
 description: Adobe 가속화 [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] 개요
 
-![Firefoly Hero 이미지](../assets/firefly.png)
+![Firefly 메인 이미지](../assets/firefly.png)
 
-Firefly은 Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군으로, 초기에는 이미지 및 텍스트 효과 생성에 중점을 두고 있습니다. Firefly은 창의적인 워크플로우를 크게 향상시키면서 아이디어 구상, 창작 및 커뮤니케이션을 위한 새로운 방식을 제공합니다.
+Firefly은 Adobe 제품에 출시되는 새로운 크리에이티브 생성 AI 모델 제품군으로, 초기에는 이미지 및 텍스트 효과 생성에 중점을 두고 있습니다. Firefoly는 크리에이티브 워크플로우를 크게 개선하면서 아이디어를 구상하고 커뮤니케이션하는 새로운 방식을 제공합니다.
 
 <br> 
 
-## Adobe Firefoly를 통해 얻을 수 있는 이점
+## Adobe Firefly 기능 보기
 
 <br> 
 

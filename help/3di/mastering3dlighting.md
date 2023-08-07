@@ -1,11 +1,12 @@
 ---
 title: CGI에서 3D 조명 마스터를 위한 팁 및 기술
 description: 3D 조명 및 컴퓨터에서 생성된 장면을 완전히 바꿀 수 있는 다양한 조명 조건을 만드는 방법과 개체가 조명 안에서 표시되는 방식에 대해 알아봅니다
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: 3D 조명, 600 글로벌 MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2733'
 ht-degree: 0%
