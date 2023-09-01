@@ -3,8 +3,9 @@ title: 시리얼 번호가 만료될 예정입니까? 지정된 사용자 라이
 description: NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를 부여하면 IT 관리자가 Admin Console을 사용하여 Adobe 도구를 손쉽게 배포하고 관리할 수 있으며, 최종 사용자는 전체 직원이 원격지에 있더라도 세계적 수준의 창의적이고 생산적인 앱과 Adobe 클라우드 서비스에 액세스할 수 있습니다
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

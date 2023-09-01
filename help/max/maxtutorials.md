@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 Tutorials
-description: 이 자습서는 기업의 관점에서 Creative Cloud 2021 릴리스의 새로운 기능을 배우는 데 도움이 됩니다
-feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
+description: 이 자습서는 Creative Cloud 2021년 릴리스의 새로운 기능을 엔터프라이즈 관점에서 학습하는 데 도움이 됩니다
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
@@ -14,9 +14,9 @@ ht-degree: 23%
 
 # 튜토리얼
 
-![Max 2020 메인 이미지](../assets/MAX.jpg)
+![Max 2020 히어로 이미지](../assets/MAX.jpg)
 
-엔터프라이즈 크리에이티브 팀은 분산된 팀과 협업하고 확장 가능한 프로세스를 설정하며 기업 시스템과 지침을 준수해야 합니다. 이 자습서는 기업의 관점에서 Creative Cloud 2021 릴리스의 새로운 기능을 배우는 데 도움이 됩니다.
+기업 크리에이티브는 분산된 팀과 공동 작업을 수행하고 확장 가능한 프로세스를 수립하며 기업 시스템 및 지침을 준수해야 합니다. 이 자습서는 Creative Cloud 2021년 릴리스의 새로운 기능을 엔터프라이즈 관점에서 학습하는 데 도움이 됩니다.
 
 ## 데스크탑 제품별 Tutorials
 
@@ -29,7 +29,7 @@ ht-degree: 23%
     <div>
     <a href="acrobat-sign.md"><strong>Acrobat 및 Adobe Sign</strong></a>
     </div>
-    <em>PDF 문서와 양식 작성, 편집 및 서명</em>
+    <em>PDF 문서 및 양식 만들기, 편집 및 서명</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 23%
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>브랜드, 제품 이미지 및 패키지 디자인을 위한 사실적인 3D 이미지 제작</em>
+    <em>브랜딩, 제품 샷 및 패키지 디자인을 위한 사실적인 3D 이미지 제작</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ ht-degree: 23%
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>인쇄 및 디지털 출판을 위한 페이지 디자인 및 레이아웃 제작</em>
+    <em>인쇄 및 디지털 퍼블리싱을 위한 페이지 디자인 및 레이아웃</em>
     <br>
   </td>
   <td>
@@ -71,7 +71,7 @@ ht-degree: 23%
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>데스크탑에서 멋진 이미지, 그래픽, 아트 편집, 합성, 제작</em>
+    <em>데스크탑에서 세련된 이미지, 그래픽 및 아트 편집, 합성 및 제작</em>
     <br>
   </td>
   <td>
@@ -174,10 +174,10 @@ ht-degree: 23%
 <tr>
  <td>
     <a href="aem.md">
-      <img alt="AEM Assets &amp; Asset Link" src="../assets/AEM.jpg" />
+      <img alt="AEM Assets 및 Asset Link" src="../assets/AEM.jpg" />
     </a>
     <div>
-    <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
+    <a href="aem.md"><strong>AEM Assets 및 Asset Link</strong></a>
     </div>
     <em>차세대 디지털 자산 관리</em>
     <br>
@@ -189,7 +189,7 @@ ht-degree: 23%
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 데스크탑 앱</strong></a>
     </div>
-    <em>Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리할 수 있는 허브입니다.</em>
+    <em>Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리하는 허브입니다.</em>
     <br>
   </td>
   <td>
@@ -199,7 +199,7 @@ ht-degree: 23%
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>간편한 에셋 및 브랜드 프로젝트 관리</em>
+    <em>에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.</em>
     <br>
   </td>
 </tr>
@@ -211,7 +211,7 @@ ht-degree: 23%
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>고급 InDesign 툴과 맞춤형 자동화가 결합된</em>
+    <em>맞춤형 자동화와 결합된 정교한 InDesign 도구</em>
     <br>
   </td>
  <td>
@@ -243,7 +243,7 @@ ht-degree: 23%
     <div>
     <a href="handsonproject.md"><strong>나만의 얼굴 마스크 만들기</strong></a>
     </div>
-    <em>Adobe 디자인과 인쇄 플러그인을 사용하면 수백 개의 Zazzle 제품에서 디자인을 시각화하고 온라인 마켓플레이스에 바로 게시할 수 있습니다</em>
+    <em>Design to Print Adobe 플러그인을 사용하면 수백 가지 Zazzle 제품에 대한 디자인을 시각화하고 온라인 마켓플레이스에 바로 게시할 수 있습니다</em>
     <br>
   </td>
   <td>
