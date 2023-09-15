@@ -1,19 +1,19 @@
 ---
-title: Firefly을 사용하여 마케팅 캠페인용 홍보 자료 콘텐츠 제작
-description: 글로벌 호텔 마케팅 캠페인의 Adobe Express 현지화 콘텐츠에서 Adobe Firefly 기반의 Text to Image를 사용하는 방법에 대해 학습합니다
-feature: Image Editing
+title: Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기
+description: 글로벌 호텔 마케팅 캠페인에서 지역화된 콘텐츠 Adobe Express에 Adobe Firefly 기반의 Text to Image를 사용하는 방법을 살펴보세요
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13756
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 4%
 
 ---
 
-# Firefly을 사용하여 마케팅 캠페인용 홍보 자료 콘텐츠 제작
+# Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기
 
-Adobe Express에서 Adobe Firefly 기반의 Text to Image를 사용하여 글로벌 호텔 마케팅 캠페인에서 현지화된 콘텐츠를 제작하는 방법을 살펴봅니다. 이 튜토리얼에서는 [Adobe Express 베타](https://www.adobe.com/express/).
+글로벌 호텔 마케팅 캠페인에서 Adobe Firefly Adobe Express 기반의 텍스트를 이미지로 사용하여 지역화된 콘텐츠를 제작하는 방법을 살펴보세요. 이 튜토리얼에서는 [Adobe Express](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)

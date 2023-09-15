@@ -3,8 +3,9 @@ title: 기업 및 Acrobat 시리얼 번호 만료에 대한 Creative Cloud 이�
 description: 기업 및 Acrobat용 Creative Cloud에 대한 시리얼 번호 만료 경험 이해
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
 source-wordcount: '844'
 ht-degree: 3%

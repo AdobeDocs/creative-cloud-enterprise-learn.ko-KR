@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '534'
 ht-degree: 9%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 9%
    + [개요](express/overview-express.md)
    + 튜토리얼 {#expresstutorials}
       + [Adobe Express 시작하기](express/get-started.md)
+      + [빠른 시작 크리에이티브 아이디어](express/jumpstart-ideation.md)
       + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
       + [Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기](express/create-local-marketing.md)
       + [Firefly을 사용하여 채용 및 선적 콘텐츠 만들기](express/create-on-boarding.md)
