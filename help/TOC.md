@@ -7,7 +7,7 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: b8c6d0f08927f3bd86df16d4c05098f471247c6a
+source-git-commit: bf33377aba7b4abce6a6c1e6d137451b4b403612
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 9%
@@ -56,7 +56,7 @@ ht-degree: 9%
       + [텍스트 효과 사용](express/text-effects.md)
       + [이미지 효과 사용](express/image-effects.md)
       + [곡선 텍스트 만들기](express/create-curved-text.md)
-      + 사례 튜토리얼 사용 {#expressusecase}
+   + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
       + [분산된 팀이 콘텐츠를 지역화할 수 있도록 지원](express/localized-marketing-content.md)
       + [빠른 시작 크리에이티브 아이디어](express/jumpstart-ideation.md)
