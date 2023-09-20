@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '540'
 ht-degree: 9%
 
 ---
@@ -36,32 +36,34 @@ ht-degree: 9%
       + [CCE 안내선](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [개요](express/overview-express.md)
-   + 튜토리얼 {#expresstutorials}
-      + [Adobe Express 시작하기](express/get-started.md)
-      + [빠른 시작 크리에이티브 아이디어](express/jumpstart-ideation.md)
-      + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
-      + [Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기](express/create-local-marketing.md)
-      + [Firefly을 사용하여 채용 및 선적 콘텐츠 만들기](express/create-on-boarding.md)
-      + [Firefly으로 소셜 포스터 만들기](express/create-social-posters.md)
-      + [Firefly을 사용하여 블로그 그래픽 콘텐츠 만들기](express/create-blog-graphics.md)
-      + [Firefly으로 웨비나 포스터 만들기](express/create-webinar-poster.md)
-      + [소셜 게시물 예약](express/schedule.md)
-      + [프로젝트 협력자 초대](express/collaborate.md)
-      + [빠른 영감 얻기](express/get-inspiration.md)
-      + [템플릿 만들기](express/create-templates.md)
-      + [디자인 에셋 추가](express/add-design-assets.md)
-      + [오브젝트 그룹화](express/group-objects.md)
-      + [레이어 선택 및 이동](express/layers.md)
-      + [여러 페이지 만들기](express/multiple-pages.md)
-      + [실행 취소 및 다시 실행](express/undo-redo.md)
-      + [CC Libraries 사용](express/cc-libraries.md)
-      + [내 브랜드 적용](express/brand.md)
-      + [Google Drive 통합](express/google-drive.md)
-      + [배경 제거](express/remove-background.md)
-      + [오려내기 다듬기](express/refine-cutout.md)
-      + [텍스트 효과 사용](express/text-effects.md)
-      + [이미지 효과 사용](express/image-effects.md)
-      + [곡선 텍스트 만들기](express/create-curved-text.md)
+   + 방법 튜토리얼 {#expresshowto}
+      + [개요](express/overview-express-how-to.md)
+         + [Adobe Express 시작하기](express/get-started.md)
+         + [소셜 게시물 예약](express/schedule.md)
+         + [프로젝트 협력자 초대](express/collaborate.md)
+         + [빠른 영감 얻기](express/get-inspiration.md)
+         + [템플릿 만들기](express/create-templates.md)
+         + [디자인 에셋 추가](express/add-design-assets.md)
+         + [오브젝트 그룹화](express/group-objects.md)
+         + [레이어 선택 및 이동](express/layers.md)
+         + [여러 페이지 만들기](express/multiple-pages.md)
+         + [실행 취소 및 다시 실행](express/undo-redo.md)
+         + [CC Libraries 사용](express/cc-libraries.md)
+         + [내 브랜드 적용](express/brand.md)
+         + [Google Drive 통합](express/google-drive.md)
+         + [배경 제거](express/remove-background.md)
+         + [오려내기 다듬기](express/refine-cutout.md)
+         + [텍스트 효과 사용](express/text-effects.md)
+         + [이미지 효과 사용](express/image-effects.md)
+         + [곡선 텍스트 만들기](express/create-curved-text.md)
+      + 사례 튜토리얼 사용 {expressusecase}
+         + [빠른 시작 크리에이티브 아이디어](express/jumpstart-ideation.md)
+         + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
+         + [Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기](express/create-local-marketing.md)
+         + [Firefly을 사용하여 채용 및 선적 콘텐츠 만들기](express/create-on-boarding.md)
+         + [Firefly으로 소셜 포스터 만들기](express/create-social-posters.md)
+         + [Firefly을 사용하여 블로그 그래픽 콘텐츠 만들기](express/create-blog-graphics.md)
+         + [Firefly으로 웨비나 포스터 만들기](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
    + 튜토리얼 {#firefly-tutorials}
