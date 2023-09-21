@@ -3,9 +3,9 @@ title: 빠른 시작 크리에이티브 아이디어
 description: 마케팅 캠페인을 위한 크리에이티브 콘텐츠 개발에 앞장서는 방법 알아보기
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13952
-source-git-commit: a449e1d0484d11d4b01ecb91ff13f506ff419630
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 2%

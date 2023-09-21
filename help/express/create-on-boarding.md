@@ -3,8 +3,9 @@ title: Firefly을 사용하여 채용 및 온보딩 콘텐츠 만들기
 description: Adobe Express에서 Adobe Firefly 기반의 텍스트를 이미지로 사용하여 직원 채용 및 온보딩 콘텐츠에 사용할 고유한 그래픽을 만드는 방법을 알아봅니다.
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13755
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 3%

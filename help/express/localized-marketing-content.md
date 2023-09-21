@@ -3,9 +3,9 @@ title: 분산된 팀이 콘텐츠를 지역화할 수 있도록 지원
 description: 분산된 필드 마케팅 팀이 현지 마케팅 캠페인을 위해 콘텐츠를 해당 지역에 맞게 손쉽게 사용자 정의하는 방법을 살펴봅니다.
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13991
-source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%

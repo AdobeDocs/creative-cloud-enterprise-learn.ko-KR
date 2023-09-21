@@ -3,11 +3,11 @@ title: Adobe [!DNL Express] 사용 사례 Tutorials
 description: Adobe에 대한 최신 정보 [!DNL Express] 사용 사례
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13995
-source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="multi-channel-marketing-content.md">
+         <img alt="마케팅 팀이 다중 채널 콘텐츠를 제작할 수 있도록 지원" src="assets/multi-channel.png" />
+      </a>
+  <td>
       <a href="localized-marketing-content.md">
          <img alt="분산된 팀이 콘텐츠를 지역화할 수 있도록 지원" src="assets/marketing-regional-content.png" />
       </a>
@@ -37,13 +41,13 @@ ht-degree: 0%
          <img alt="Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기" src="assets/local-marketing.png" />
       </a>
    </td>
-    <td>
+</tr>
+<tr>
+   <td>
       <a href="create-on-boarding.md">
          <img alt="Firefly을 사용하여 채용 및 선적 콘텐츠 만들기" src="assets/on-boarding.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="create-social-posters.md">
          <img alt="Firefly으로 소셜 포스터 만들기" src="assets/social-firefly.png" />
@@ -59,10 +63,5 @@ ht-degree: 0%
          <img alt="Firefly으로 웨비나 포스터 만들기" src="assets/webinar-poster.png" />
       </a>
    </td>
-   <td>
-    <img alt="스페이서" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

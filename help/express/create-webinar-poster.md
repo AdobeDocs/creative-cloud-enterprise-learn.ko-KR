@@ -2,8 +2,9 @@
 title: Firefly으로 웨비나 포스터 만들기
 description: Adobe Express에서 Adobe Firefly 기반의 [텍스트에 이미지]를 사용하여 가상 현실 이벤트용 웨비나 포스터를 만드는 방법을 알아봅니다.
 feature: Image Editing, Gen AI
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13525
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 4%
