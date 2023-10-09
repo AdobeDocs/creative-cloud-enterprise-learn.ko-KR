@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b051de1752fa7b92c1c3c312e17512b84b53fda9
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '572'
 ht-degree: 8%
 
 ---
@@ -52,10 +52,10 @@ ht-degree: 8%
       + [CC Libraries 사용](express/cc-libraries.md)
       + [내 브랜드 적용](express/brand.md)
       + [Google Drive 통합](express/google-drive.md)
-      + [배경 제거](express/remove-background.md)
+      + [한 번의 클릭으로 사진에서 배경을 제거하는 방법](express/remove-background.md)
       + [오려내기 다듬기](express/refine-cutout.md)
       + [텍스트 효과 사용](express/text-effects.md)
-      + [이미지 효과 사용](express/image-effects.md)
+      + [사진에 효과 및 조정을 추가하는 방법](express/image-effects.md)
       + [곡선 텍스트 만들기](express/create-curved-text.md)
    + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
