@@ -1,19 +1,19 @@
 ---
-title: 이미지 효과 사용
-description: 이미지를 밝게 하거나 어둡게 하는 방법
+title: 사진에 효과 및 조정을 추가하는 방법
+description: 사진 효과 및 조정을 추가하여 무한한 가능성 탐색
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: 6203686b-bc7c-4140-8107-26843753245e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
+source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 이미지 효과 사용
+# 사진에 효과 및 조정을 추가하는 방법
 
-이미지를 밝게 하거나 어둡게 하는 방법을 살펴보세요.
+사진에 효과 및 조정을 추가하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420223?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
