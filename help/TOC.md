@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 8%
@@ -67,12 +67,13 @@ ht-degree: 8%
       + [Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기](express/create-local-marketing.md)
       + [Firefly을 사용하여 채용 및 선적 콘텐츠 만들기](express/create-on-boarding.md)
       + [Firefly으로 소셜 포스터 만들기](express/create-social-posters.md)
-      + [Firefly을 사용하여 블로그 그래픽 콘텐츠 만들기](express/create-blog-graphics.md)
+      + [간편하게 소셜 캠페인 실행](express/create-blog-graphics.md)
       + [Firefly으로 웨비나 포스터 만들기](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
    + 튜토리얼 {#firefly-tutorials}
       + [Adobe Firefly 개요](firefly/overview-of-firefly.md)
+      + [크리에이티브 효율성 활성화](firefly/enable-creative-efficiency.md)
       + [의 배너 광고 변형 [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [생성형 채우기 [!DNL Photoshop]](firefly/generative-fill.md)
       + [텍스트 효과](firefly/text-effects.md)
