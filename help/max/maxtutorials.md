@@ -5,16 +5,14 @@ feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integratio
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 23%
+source-wordcount: '319'
+ht-degree: 24%
 
 ---
 
 # 튜토리얼
-
-![Max 2020 히어로 이미지](../assets/MAX.jpg)
 
 기업 크리에이티브는 분산된 팀과 공동 작업을 수행하고 확장 가능한 프로세스를 수립하며 기업 시스템 및 지침을 준수해야 합니다. 이 자습서는 Creative Cloud 2021년 릴리스의 새로운 기능을 엔터프라이즈 관점에서 학습하는 데 도움이 됩니다.
 

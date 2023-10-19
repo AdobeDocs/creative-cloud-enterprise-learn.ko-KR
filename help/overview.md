@@ -5,20 +5,18 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
-# Creative Cloud for enterprise 튜토리얼
+# 기업 튜토리얼에 대한 Creative Cloud
 
-![Creative Cloud 메인 이미지](assets/hero_cce.jpg)
+기업 학습 허브에 대한 Creative Cloud을 시작합니다. 여기서는 기업용 Creative Cloud에 중점을 둔 다양한 학습 경험을 찾을 수 있습니다. 튜토리얼, 웨비나 및 사용 사례는 초보자와 관리자 모두가 기업 제품에 대한 Creative Cloud을 빠르게 최신 상태로 만들 수 있도록 설계되었습니다.
 
-기업 학습 허브 Creative Cloud에 오신 것을 환영합니다. 여기에서 기업용 Creative Cloud에 중점을 둔 다양한 학습 경험을 찾을 수 있습니다. 튜토리얼, 웨비나 및 활용 사례는 입문자와 관리자 모두 엔터프라이즈 제품 Creative Cloud을 신속하게 수행할 수 있도록 고안되었습니다.
-
-## 항목 찾아보기
+## 주제 찾아보기
 
 <table style="table-layout:fixed">
 <tr>

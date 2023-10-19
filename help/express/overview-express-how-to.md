@@ -6,16 +6,14 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Express] 사용 방법 튜토리얼
-
-![Express 히어로 이미지](../assets/Express.png)
 
 Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작품을 만들어 보세요. Adobe Express으로 전단지, 틱톡, 이력서, 릴 디자인하기
 

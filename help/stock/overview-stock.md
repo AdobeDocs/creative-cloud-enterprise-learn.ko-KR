@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] 자습서
-
-![Creative Cloud 영웅 이미지](../assets/Stock.jpg)
 
 크리에이터들은 매력적인 시각적 컨텐츠를 신속하게 제공해야 한다는 압박을 받고 있습니다. Adobe Stock은 크리에이티브 팀이 매일 사용하는 Creative Cloud 앱 내에서 3억 개 이상의 로열티 프리 이미지, 비디오, 오디오 파일, 템플릿, 일러스트레이션 및 3D 에셋을 이용할 수 있도록 해 줍니다. Creative Cloud Pro 에디션으로 Adobe Stock 표준 에셋을 무제한으로 이용하세요. stock.adobe.com에서 최신 컬렉션을 살펴보십시오. 튜토리얼을 볼 이미지를 선택합니다.
 

@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # 3D 및 VR 튜토리얼 Adobe
-
-![Creative Cloud 영웅 이미지](../assets/Dimenio.jpg)
 
 고품질 모델, 재질 및 조명을 사용하여 3D에서 매력적인 콘텐츠를 더 빠르게 제작할 수 있습니다. [!DNL Dimension] 브랜드 시각화, 일러스트레이션, 제품 목업, 패키징 디자인 및 기타 크리에이티브 작업을 쉽게 빌드할 수 있습니다. 튜토리얼을 볼 이미지를 선택합니다.
 

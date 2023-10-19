@@ -5,16 +5,14 @@ feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
 
 # MAX 2020 - 기업 세션
-
-![Max 2020 히어로 이미지](../assets/MAX2020.jpg)
 
 기업 크리에이티브는 분산된 팀과 공동 작업을 수행하고 확장 가능한 프로세스를 수립하며 기업 시스템 및 지침을 준수해야 합니다. 이 자습서는 Creative Cloud 2021년 릴리스의 새로운 기능을 엔터프라이즈 관점에서 학습하는 데 도움이 됩니다.
 

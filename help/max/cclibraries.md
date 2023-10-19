@@ -1,24 +1,22 @@
 ---
 title: CC Libraries
-description: 간편한 에셋 및 브랜드 프로젝트 관리
+description: 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
 feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '234'
 ht-degree: 3%
 
 ---
 
 # CC Libraries
 
-![튜토리얼 메인 이미지](../assets/CCLibs.jpg)
+에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
 
-간편한 에셋 및 브랜드 프로젝트 관리
-
-## 제품 Tutorials 찾아보기
+## 제품 Tutorials 검색
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +27,7 @@ ht-degree: 3%
     <div>
    <a href="cclibraries.md#tutorial1"><strong>CC Libraries 만들기</strong></a>
     </div>
-    <em>Adobe Creative Cloud Libraries를 통해 자주 사용하는 Creative Cloud 앱에서 로고, 색상 등을 관리하고 액세스할 수 있습니다</em>
+    <em>Adobe Creative Cloud Libraries를 통해 즐겨 사용하는 Creative Cloud 앱에서 로고, 색상 등을 관리하고, 구성하고, 액세스할 수 있습니다</em>
     <br>
   </td>
    <td>
@@ -39,7 +37,7 @@ ht-degree: 3%
     <div>
    <a href="cclibraries.md#tutorial2"><strong>CC Libraries 공유</strong></a>
     </div>
-    <em>보다 효율적으로 작업하고, 크리에이티브 일관성을 유지하고, 팀원과 원활하게 동기화할 수 있습니다</em>
+    <em>보다 효율적으로 작업하고, 크리에이티브한 일관성을 보장하고, 팀과의 동기화 유지</em>
     <br>
   </td>
   <td>
@@ -50,40 +48,40 @@ ht-degree: 3%
 </tr>
 </table>
 
-## CC Libraries 만들기(4:38) {#tutorial1}
+## CC 라이브러리 만들기(4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **설명**
-Adobe Creative Cloud Libraries를 통해 자주 사용하는 Creative Cloud 앱에서 로고, 색상 등을 관리하고 액세스할 수 있습니다.
+Adobe Creative Cloud Libraries를 통해 즐겨 사용하는 Creative Cloud 앱에서 로고, 색상 등을 관리하고, 구성하고, 액세스할 수 있습니다.
 
-이 튜토리얼에서는 다음과 같은 방법을 살펴봅니다.
-* 간편한 에셋 및 브랜드 프로젝트 관리
-* 신규! Adobe XD와의 완벽한 통합
+이 튜토리얼에서는 다음과 같은 방법을 배웁니다.
+* 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
+* 신규! Adobe XD과 완벽하게 통합
 
-**프레젠테이션:**
-Ashley Dvorin, 수석 솔루션 컨설턴트(디지털 미디어)
+**프레젠테이션 대상:**
+Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 
-## CC Libraries 공유(4:14) {#tutorial2}
+## CC 라이브러리 공유(4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **설명**
-보다 효율적으로 작업하고, 크리에이티브 일관성을 유지하고, 팀원과 원활하게 동기화할 수 있습니다.
+보다 효율적으로 작업하고, 크리에이티브한 일관성을 보장하고, 팀과의 동기화 상태를 손쉽게 유지하세요.
 
-이 튜토리얼에서는 다음과 같은 방법을 살펴봅니다.
-* 간편한 에셋 및 브랜드 프로젝트 관리
-* 자주 사용하는 앱에서 바로 프로젝트를 손쉽게 공동 작업
+이 튜토리얼에서는 다음과 같은 방법을 배웁니다.
+* 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
+* 즐겨 사용하는 앱에서 바로 프로젝트 공동 작업을 손쉽게 수행할 수 있습니다
 
-**프레젠테이션:**
-Ashley Dvorin, 수석 솔루션 컨설턴트(디지털 미디어)
+**프레젠테이션 대상:**
+Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 
 ![CC Libraries 로고](../assets/cc_appicon_96.png)
 
 **CC Libraries 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/creative-cloud/help/libraries.html) 추가 자습서, 새로운 기능 및 커뮤니티 포럼 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/creative-cloud/help/libraries.html) 는 추가 튜토리얼, 새로운 기능, 커뮤니티 포럼 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 
-이러한 기능 등을 사용해 보십시오. Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.
+이러한 기능 사용을 시작해 보세요! Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.

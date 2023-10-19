@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1190'
 ht-degree: 0%
 
 ---
 
 # 기업 빠른 참조 안내서 Creative Cloud
-
-![Creative Cloud 영웅 이미지](../assets/CCEbanner.png)
 
 기업 크리에이티브는 분산된 팀과 공동 작업을 수행하고 확장 가능한 프로세스를 수립하며 기업 시스템 및 지침을 준수해야 합니다. 이 빠른 참조 안내서(PDF)를 사용하면 Creative Cloud의 새로운 기능을 학습할 수 있습니다.
 

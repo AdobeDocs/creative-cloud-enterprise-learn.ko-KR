@@ -5,16 +5,14 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 14%
+source-wordcount: '126'
+ht-degree: 15%
 
 ---
 
 # 기업 배포 및 관리 항목에 대한 Creative Cloud
-
-![Creative Cloud 영웅 이미지](../assets/CCEbanner.png)
 
 Creative Cloud for enterprise는 맞춤형 배포와 유연한 라이선스 조정을 지원하며 다른 Adobe 기업 혜택과 함께 제공됩니다.
 

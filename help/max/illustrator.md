@@ -5,16 +5,14 @@ feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
 # Illustrator
-
-![튜토리얼 영웅 이미지](../assets/Illustrator.jpg)
 
 일러스트레이션 및 그래픽에 사용되는 최신 앱입니다. 로고, 아이콘, 일러스트레이션 및 기타 웹, 모바일 또는 인쇄에 사용할 수 있는 모든 디자인을 제작할 수 있습니다.
 
