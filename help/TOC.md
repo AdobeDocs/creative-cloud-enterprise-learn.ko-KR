@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 8%
+source-wordcount: '579'
+ht-degree: 5%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 8%
 # 기업 Tutorials Creative Cloud {#cce-learning-hub}
 
 + [개요](overview.md)
-+ Creative Cloud for enterprise {#cceoverview}
++ 기업용 Creative Cloud {#cceoverview}
    + [개요](cce/overview-cce.md)
-   + 튜토리얼 {#ccetutorials}
+   + Tutorials {#ccetutorials}
       + [콘텐츠 크리에이터용 Acrobat](cce/acrobat-content-creators.md)
       + [CC Libraries를 통해 CC 워크플로우 개선](cce/cc-workflows-cc-libraries.md)
       + [길들이기 유형 불안](cce/taming-type-anxiety.md)
@@ -39,7 +39,9 @@ ht-degree: 8%
    + [개요](express/overview-express.md)
    + 방법 튜토리얼 {#expresshowto}
       + [개요](express/overview-express-how-to.md)
-      + [Adobe Express 시작하기](express/get-started.md)
+      + [홈페이지의 기능](express/get-started.md)
+      + [빠른 작업 소개](express/quick-actions.md)
+      + [템플릿 소개](express/introduction-templates.md)
       + [소셜 게시물 예약](express/schedule.md)
       + [프로젝트 협력자 초대](express/collaborate.md)
       + [빠른 영감 얻기](express/get-inspiration.md)
@@ -71,7 +73,7 @@ ht-degree: 8%
       + [Firefly으로 웨비나 포스터 만들기](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
-   + 튜토리얼 {#firefly-tutorials}
+   + Tutorials {#firefly-tutorials}
       + [Adobe Firefly 개요](firefly/overview-of-firefly.md)
       + [크리에이티브 효율성 활성화](firefly/enable-creative-efficiency.md)
       + [의 배너 광고 변형 [!DNL Photoshop]](firefly/web-banner-ad.md)
@@ -82,7 +84,7 @@ ht-degree: 8%
       + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
-   + 튜토리얼 {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [놀라운 디지털 에셋](stock/stunning-digital-assets.md)
       + [Adobe 검색 [!DNL Stock] 라이선스 내역](stock/searchstock.md)
       + [Adobe에 손으로 그린 심미적 요소 추가 [!DNL Stock] 이미지](stock/handdrawn.md)
@@ -109,21 +111,21 @@ ht-degree: 8%
       + [Adobe 색상 사용자 정의 [!DNL Stock] 벡터 일러스트레이션](stock/customizecolors.md)
 + Adobe 3D 및 VR {#3doverview}
    + [개요](3di/overview-3di.md)
-   + 튜토리얼 {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [3D 디자인 및 렌더링](3di/substance-3d-stager.md)
       + [CGI에서 3D 조명 마스터를 위한 팁 및 기술](3di/mastering3dlighting.md)
       + [3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기](3di/photorealistic.md)
       + [다음을 사용하여 3D 모델 사용자 정의 및 브랜딩 [!DNL Dimension] 및 Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe 비디오 {#videooverview}
    + [개요](dva/overview-dva.md)
-   + 튜토리얼 {#videotutorials}
+   + Tutorials {#videotutorials}
       + [전문적인 모션 그래픽 템플릿](dva/motion-graphics-templates.md)
       + [Frame.io로 비디오 검토](dva/video-review-frame-io.md)
    + 빠른 참조 안내선 {#videorefguides}
       + [비디오 안내선](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [개요](xd/overview-xd.md)
-   + 튜토리얼 {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [익숙해지기 [!UICONTROL 구성 요소] Adobe XD](xd/components.md)
 + 배포 및 관리 {#deploy}
    + [개요](deploy/overview-deploy.md)
@@ -131,7 +133,7 @@ ht-degree: 8%
    + [지정된 사용자 라이선싱](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [개요](max/overview-max.md)
-   + 튜토리얼 {#tutorials}
+   + Tutorials {#tutorials}
       + [개요](max/maxtutorials.md)
       + 데스크탑 제품 {#desktop-products}
          + [Acrobat 및 Sign](max/acrobat-sign.md)
