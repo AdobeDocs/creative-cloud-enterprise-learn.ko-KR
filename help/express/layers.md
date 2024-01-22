@@ -1,19 +1,20 @@
 ---
-title: 레이어 선택 및 이동
-description: 레이어가 있는 스티커 및 텍스트 이동, 순서 변경 또는 오버랩
+title: 레이어 및 아트보드 작업
+description: 레이어가 있는 요소를 이동, 순서 변경 또는 겹치는 방법에 대해 알아봅니다.
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 9981b8c3-5de9-41e7-be2f-eab0ca8f65fe
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13413
+exl-id: 80037a4b-9d6d-47d7-a827-e7d0777f2666
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# 레이어 선택 및 이동
+# 레이어 및 아트보드 작업
 
-스티커 및 텍스트를 레이어로 이동, 순서 변경 또는 겹칩니다.
+레이어가 있는 요소를 이동, 순서 변경 또는 겹치는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)

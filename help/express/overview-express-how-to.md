@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -68,50 +68,68 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <img alt="Gen AI 이미지를 추가하는 방법" src="assets/gen-ai-image.png" />
       </a>
   </td>
+ <td>
+      <a href="grids.md">
+         <img alt="그리드 사용 방법" src="assets/grids.png" />
+      </a>
+  </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="요소를 사용하는 방법" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="레이어 및 아트보드 작업" src="assets/layers.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+   <a href="collaborate.md">
+      <img alt="공동 작업 방법" src="assets/collaborate.png" />
+   </a>
+  </td>
+  <td>
+   <a href="share.md">
+      <img alt="공유 및 다운로드 방법" src="assets/share.png" />
+   </a>
+  </td>
+  <td>
+   <a href="version-history.md">
+      <img alt="버전 내역을 사용하는 방법" src="assets/version-history.png" />
+   </a>
+  </td>
   <td>
       <a href="schedule.md">
          <img alt="소셜 게시물 예약" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
-   <a href="collaborate.md">
-      <img alt="프로젝트 협력자 초대" src="assets/collaborate.png" />
-   </a>
-  </td>
+</tr>
+<tr>
   <td>
       <a href="get-inspiration.md">
          <img alt="빠른 영감 얻기" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="템플릿 만들기" src="assets/templates.png" />
    </a>
   </td>
- <td>
-         <a href="add-design-assets.md">
-            <img alt="디자인 에셋 추가" src="assets/design-assets.png" />
-         </a>
- </td>
-  <td>
+
+<td>
          <a href="group-objects.md">
             <img alt="오브젝트 그룹화" src="assets/group-objects.png" />
          </a>
    </td>
-  <td>
-         <a href="layers.md">
-            <img alt="레이어 선택 및 이동" src="assets/layers.png" />
-         </a>
-   </td>
-</tr>
-<tr>
    <td>
       <a href="multiple-pages.md">
          <img alt="여러 페이지 만들기" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="실행 취소 및 다시 실행" src="assets/undo-redo.png" />
@@ -127,19 +145,24 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <img alt="Google Drive 통합" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
          <a href="remove-background.md">
             <img alt="배경 제거" src="assets/background.png" />
          </a>
    </td>
+</tr>
+<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="곡선 텍스트 만들기" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="스페이서" src="../assets/Whitespacer.png" />
       <div>
       <br>

@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [텍스트를 추가하는 방법](express/text-effects.md)
       + [이미지를 추가하는 방법](express/image-effects.md)
       + [Gen AI 이미지를 추가하는 방법](express/add-gen-ai-image.md)
+      + [그리드 사용 방법](express/grids.md)
+      + [요소를 사용하는 방법](express/add-design-assets.md)
+      + [레이어 및 아트보드 작업](express/layers.md)
+      + [공동 작업 방법](express/collaborate.md)
+      + [공유 및 다운로드 방법](express/share.md)
+      + [버전 내역을 사용하는 방법](express/version-history.md)
       + [소셜 게시물 예약](express/schedule.md)
-      + [프로젝트 협력자 초대](express/collaborate.md)
       + [빠른 영감 얻기](express/get-inspiration.md)
       + [템플릿 만들기](express/create-templates.md)
-      + [디자인 에셋 추가](express/add-design-assets.md)
       + [오브젝트 그룹화](express/group-objects.md)
-      + [레이어 선택 및 이동](express/layers.md)
       + [여러 페이지 만들기](express/multiple-pages.md)
       + [실행 취소 및 다시 실행](express/undo-redo.md)
       + [CC Libraries 사용](express/cc-libraries.md)
