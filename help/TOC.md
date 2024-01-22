@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 5%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 5%
       + [홈페이지의 기능](express/get-started.md)
       + [빠른 작업 소개](express/quick-actions.md)
       + [템플릿 소개](express/introduction-templates.md)
+      + [브랜드 키트 설정](express/brand.md)
+      + [프로젝트 시작](express/new-project.md)
+      + [프로젝트의 UX](express/workspace.md)
+      + [텍스트를 추가하는 방법](express/text-effects.md)
+      + [이미지를 추가하는 방법](express/image-effects.md)
+      + [Gen AI 이미지를 추가하는 방법](express/add-gen-ai-image.md)
       + [소셜 게시물 예약](express/schedule.md)
       + [프로젝트 협력자 초대](express/collaborate.md)
       + [빠른 영감 얻기](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 5%
       + [여러 페이지 만들기](express/multiple-pages.md)
       + [실행 취소 및 다시 실행](express/undo-redo.md)
       + [CC Libraries 사용](express/cc-libraries.md)
-      + [내 브랜드 적용](express/brand.md)
       + [Google Drive 통합](express/google-drive.md)
       + [한 번의 클릭으로 사진에서 배경을 제거하는 방법](express/remove-background.md)
       + [오려내기 다듬기](express/refine-cutout.md)
-      + [텍스트 효과 사용](express/text-effects.md)
-      + [사진에 효과 및 조정을 추가하는 방법](express/image-effects.md)
       + [곡선 텍스트 만들기](express/create-curved-text.md)
    + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 5%
       + [마케팅 팀이 다중 채널 콘텐츠를 제작할 수 있도록 지원](express/multi-channel-marketing-content.md)
       + [분산된 팀이 콘텐츠를 지역화할 수 있도록 지원](express/localized-marketing-content.md)
       + [빠른 시작 크리에이티브 아이디어](express/jumpstart-ideation.md)
-      + [초보자를 위한 Adobe Express](express/adobe-express-beginners.md)
       + [Firefly을 사용하여 마케팅 캠페인용 전단지 콘텐츠 만들기](express/create-local-marketing.md)
       + [Firefly을 사용하여 채용 및 선적 콘텐츠 만들기](express/create-on-boarding.md)
       + [Firefly으로 소셜 포스터 만들기](express/create-social-posters.md)

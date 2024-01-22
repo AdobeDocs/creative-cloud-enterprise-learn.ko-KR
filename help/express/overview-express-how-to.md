@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,46 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
       <a href="introduction-templates.md">
          <img alt="빠른 작업 소개" src="assets/introduction-templates.png" />
       </a>
- </td>
+ </td>     
  <td>
-      <a href="schedule.md">
-         <img alt="소셜 게시물 예약" src="assets/schedule.png" />
+      <a href="brand.md">
+         <img alt="브랜드 키트 설정" src="assets/brand.png" />
       </a>
   </td>
 </tr>
 <tr>
+   <td>
+      <a href="new-project.md">
+         <img alt="프로젝트 시작" src="assets/starting-a-project.png" />
+      </a>
+  </td>
+   <td>
+      <a href="workspace.md">
+         <img alt="프로젝트의 UX" src="assets/workspace.png" />
+      </a>
+  </td>
+  <td>
+      <a href="text-effects.md">
+         <img alt="텍스트를 추가하는 방법" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
+      <a href="image-effects.md">
+         <img alt="이미지를 추가하는 방법" src="assets/image-effects.png" />
+      </a>
+  </td>
+</tr>
+<tr>
+   <td>
+      <a href="add-gen-ai-image.md">
+         <img alt="Gen AI 이미지를 추가하는 방법" src="assets/gen-ai-image.png" />
+      </a>
+  </td>
+  <td>
+      <a href="schedule.md">
+         <img alt="소셜 게시물 예약" src="assets/schedule.png" />
+      </a>
+  </td>
   <td>
    <a href="collaborate.md">
       <img alt="프로젝트 협력자 초대" src="assets/collaborate.png" />
@@ -51,7 +83,9 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <img alt="빠른 영감 얻기" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="템플릿 만들기" src="assets/templates.png" />
    </a>
@@ -61,8 +95,6 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
             <img alt="디자인 에셋 추가" src="assets/design-assets.png" />
          </a>
  </td>
-</tr>
-<tr>
   <td>
          <a href="group-objects.md">
             <img alt="오브젝트 그룹화" src="assets/group-objects.png" />
@@ -73,7 +105,9 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
             <img alt="레이어 선택 및 이동" src="assets/layers.png" />
          </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="multiple-pages.md">
          <img alt="여러 페이지 만들기" src="assets/multiple-pages.png" />
       </a>
@@ -83,16 +117,9 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <img alt="실행 취소 및 다시 실행" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="CC Libraries 사용" src="assets/cc-libraries.png" />
-      </a>
-  </td>
-   <td>
-      <a href="brand.md">
-         <img alt="내 브랜드 적용" src="assets/brand.png" />
       </a>
   </td>
    <td>
@@ -100,29 +127,24 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <img alt="Google Drive 통합" src="assets/google-drive.png" />
       </a>
   </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="배경 제거" src="assets/background.png" />
-      </a>
-  </td>
-  </tr>
+</tr>
 <tr>
-  <td>
-      <a href="text-effects.md">
-         <img alt="텍스트 효과 사용" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="이미지 효과 사용" src="assets/image-effects.png" />
-      </a>
-  </td>
+   <td>
+         <a href="remove-background.md">
+            <img alt="배경 제거" src="assets/background.png" />
+         </a>
+   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="곡선 텍스트 만들기" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="스페이서" src="../assets/Whitespacer.png" />
       <div>
       <br>
