@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '620'
 ht-degree: 5%
 
 ---
@@ -54,12 +54,16 @@ ht-degree: 5%
       + [공동 작업 방법](express/collaborate.md)
       + [공유 및 다운로드 방법](express/share.md)
       + [버전 내역을 사용하는 방법](express/version-history.md)
-      + [소셜 게시물 예약](express/schedule.md)
+      + [실행 취소 및 다시 실행](express/undo-redo.md)
       + [빠른 영감 얻기](express/get-inspiration.md)
+      + [애니메이션 소개](express/intro-animation.md)
+      + [다양한 유형의 애니메이션](express/different-types-animation.md)
+      + [애니메이션의 설정 조정하기](express/tweak-animation.md)
+      + [애니메이션 타임라인이 무엇입니까?](express/animation-timeline.md)
+      + [소셜 게시물 예약](express/schedule.md)
       + [템플릿 만들기](express/create-templates.md)
       + [오브젝트 그룹화](express/group-objects.md)
       + [여러 페이지 만들기](express/multiple-pages.md)
-      + [실행 취소 및 다시 실행](express/undo-redo.md)
       + [CC Libraries 사용](express/cc-libraries.md)
       + [Google Drive 통합](express/google-drive.md)
       + [한 번의 클릭으로 사진에서 배경을 제거하는 방법](express/remove-background.md)
