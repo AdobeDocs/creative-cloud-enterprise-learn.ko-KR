@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '643'
 ht-degree: 5%
 
 ---
@@ -60,6 +60,11 @@ ht-degree: 5%
       + [다양한 유형의 애니메이션](express/different-types-animation.md)
       + [애니메이션의 설정 조정하기](express/tweak-animation.md)
       + [애니메이션 타임라인이 무엇입니까?](express/animation-timeline.md)
+      + [애니메이션을 뒤흔드는 방법](express/stagger-animations.md)
+      + [타임라인에 섹션 추가](express/add-sections-animation.md)
+      + [애니메이션에 오디오 추가](express/audio-animation.md)
+      + [애니메이션 크기를 조정하는 방법](express/resize-animations.md)
+      + [애니메이션 내보내기](express/export-animations.md)
       + [소셜 게시물 예약](express/schedule.md)
       + [템플릿 만들기](express/create-templates.md)
       + [오브젝트 그룹화](express/group-objects.md)

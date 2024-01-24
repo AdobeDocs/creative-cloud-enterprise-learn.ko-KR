@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
+source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -160,6 +160,50 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <a href="animation-timeline.md">
             <img alt="애니메이션 타임라인이 무엇입니까?" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="애니메이션을 뒤흔드는 방법" src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animation.md">
+            <img alt="애니메이션에 섹션 추가" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="애니메이션에 오디오 추가" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-animations.md">
+            <img alt="애니메이션 크기를 조정하는 방법" src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="애니메이션 내보내기" src="assets/exporting-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="스페이서" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
