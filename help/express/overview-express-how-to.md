@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
+source-git-commit: 2ede4e3a049d839baf82116c06714a8d516bc54b
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '236'
 ht-degree: 1%
 
 ---
@@ -44,7 +44,7 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
 </tr>
 </table>
 
-## 기본 사항
+## 기본 작업
 
 <table style="table-layout:fixed">
 <tr>
