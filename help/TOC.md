@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [애니메이션에 오디오 추가](express/audio-animation.md)
       + [애니메이션 크기를 조정하는 방법](express/resize-animations.md)
       + [애니메이션 내보내기](express/export-animations.md)
-      + [소셜 게시물 예약](express/schedule.md)
+      + [이미지에서 배경을 제거하는 방법](express/remove-background.md)
+      + [Adobe Express의 새로운 Gen AI 기능은 무엇입니까?](express/intro-gen-ai.md)
+      + [개체 지우개 도구 사용 방법](express/object-eraser.md)
+      + [생성형 채우기 사용 방법](express/generative-fill.md)
+      + [Gen AI를 사용하여 텍스트 디자인 개선](express/gen-text.md)
+      + [Text-to-template Gen AI를 사용하는 방법](express/text-to-template.md)
+      + [콘텐츠를 대량으로 변환하는 방법](express/bulk-translate.md)
+      + [PDF 편집 방법](express/edit-a-pdf.md)
+      + [게시용 스케줄러를 사용하는 방법](express/schedule.md)
       + [템플릿 만들기](express/create-templates.md)
       + [오브젝트 그룹화](express/group-objects.md)
       + [여러 페이지 만들기](express/multiple-pages.md)
       + [CC Libraries 사용](express/cc-libraries.md)
       + [Google Drive 통합](express/google-drive.md)
-      + [한 번의 클릭으로 사진에서 배경을 제거하는 방법](express/remove-background.md)
       + [오려내기 다듬기](express/refine-cutout.md)
       + [곡선 텍스트 만들기](express/create-curved-text.md)
    + 사례 튜토리얼 사용 {#expressusecase}
