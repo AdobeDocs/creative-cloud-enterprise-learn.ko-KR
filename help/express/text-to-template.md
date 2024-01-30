@@ -3,9 +3,9 @@ title: Text-to-Template Gen AI를 사용하는 방법
 description: 몇 초 안에 텍스트 설명으로 편집 가능한 템플릿을 생성하는 방법을 알아봅니다
 feature: Gen AI, Graphic Design
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14848
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

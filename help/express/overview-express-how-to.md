@@ -3,12 +3,12 @@ title: Adobe [!DNL Express] 방법 Tutorials
 description: Adobe에 대한 최신 정보 [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 2ede4e3a049d839baf82116c06714a8d516bc54b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '265'
 ht-degree: 1%
 
 ---
@@ -289,14 +289,63 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
       </a>
   </td>
   <td>
+         <a href="refine-cutout.md">
+            <img alt="오려내기 다듬기" src="assets/cutouts.png" />
+         </a>
+   </td>
+   <td>
          <a href="create-curved-text.md">
             <img alt="곡선 텍스트 만들기" src="assets/curved-text.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## 비디오
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="비디오 프로젝트를 시작하는 방법" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="비디오 클립을 추가하는 방법" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="video-timeline.md">
+            <img alt="비디오 타임라인이 무엇입니까?" src="assets/video-timeline.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="오디오를 추가하는 방법" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-video.md">
+            <img alt="비디오 내보내기 방법" src="assets/export-video.png" />
          </a>
    </td>
    <td>
     <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
-  </td>
+   </td>
+   <td>
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
 </tr>
 </table>

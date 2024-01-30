@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '712'
 ht-degree: 4%
 
 ---
@@ -81,6 +81,11 @@ ht-degree: 4%
       + [Google Drive 통합](express/google-drive.md)
       + [오려내기 다듬기](express/refine-cutout.md)
       + [곡선 텍스트 만들기](express/create-curved-text.md)
+      + [비디오 프로젝트를 시작하는 방법](express/start-video.md)
+      + [비디오 클립을 추가하는 방법](express/add-video-clips.md)
+      + [비디오 타임라인이 무엇입니까?](express/video-timeline.md)
+      + [오디오를 추가하는 방법](express/add-audio-video.md)
+      + [비디오 내보내기 방법](express/export-video.md)
    + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
       + [매력적인 머천다이징 콘텐츠 제작](express/compelling-merchandise.md)
