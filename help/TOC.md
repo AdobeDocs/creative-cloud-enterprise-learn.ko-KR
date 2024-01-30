@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '716'
 ht-degree: 4%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 4%
       + [비디오 프로젝트를 시작하는 방법](express/start-video.md)
       + [비디오 클립을 추가하는 방법](express/add-video-clips.md)
       + [비디오 타임라인이 무엇입니까?](express/video-timeline.md)
+      + [여러 클립을 사용한 작업](express/multiple-clips.md)
       + [오디오를 추가하는 방법](express/add-audio-video.md)
       + [비디오 내보내기 방법](express/export-video.md)
    + 사례 튜토리얼 사용 {#expressusecase}
