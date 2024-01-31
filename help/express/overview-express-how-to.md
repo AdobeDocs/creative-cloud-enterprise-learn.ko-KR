@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
@@ -262,11 +262,6 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
       </a>
    </td>
    <td>
-   <a href="create-templates.md">
-      <img alt="템플릿 만들기" src="assets/templates.png" />
-   </a>
-   </td>
-   <td>
          <a href="group-objects.md">
             <img alt="오브젝트 그룹화" src="assets/group-objects.png" />
          </a>
@@ -276,13 +271,13 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <img alt="여러 페이지 만들기" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="CC Libraries 사용" src="assets/cc-libraries.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Google Drive 통합" src="assets/google-drive.png" />
@@ -297,6 +292,11 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
          <a href="create-curved-text.md">
             <img alt="곡선 텍스트 만들기" src="assets/curved-text.png" />
          </a>
+   </td>
+   <td>
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
    </td>
 </tr>
 </table>
@@ -346,6 +346,33 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
     <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
+   </td>
+</tr>
+</table>
+
+## 템플릿
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="lock-layers.md">
+            <img alt="레이어를 잠그는 방법 및 이유" src="assets/lock-layers.png" />
+         </a>
+   </td>
+  <td>
+         <a href="create-templates.md">
+            <img alt="템플릿 만들기" src="assets/create-template.png" />
+         </a>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="템플릿 저장 및 공유" src="assets/share-templates.png" />
+         </a>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="템플릿 사용 방법" src="assets/use-templates.png" />
+         </a>
    </td>
 </tr>
 </table>

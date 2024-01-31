@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '730'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,6 @@ ht-degree: 4%
       + [콘텐츠를 대량으로 변환하는 방법](express/bulk-translate.md)
       + [PDF 편집 방법](express/edit-a-pdf.md)
       + [게시용 스케줄러를 사용하는 방법](express/schedule.md)
-      + [템플릿 만들기](express/create-templates.md)
       + [오브젝트 그룹화](express/group-objects.md)
       + [여러 페이지 만들기](express/multiple-pages.md)
       + [CC Libraries 사용](express/cc-libraries.md)
@@ -87,6 +86,10 @@ ht-degree: 4%
       + [여러 클립을 사용한 작업](express/multiple-clips.md)
       + [오디오를 추가하는 방법](express/add-audio-video.md)
       + [비디오 내보내기 방법](express/export-video.md)
+      + [레이어를 잠그는 방법 및 이유](express/lock-layers.md)
+      + [템플릿 만들기](express/create-templates.md)
+      + [템플릿 저장 및 공유](express/share-templates.md)
+      + [템플릿 사용 방법](express/use-templates.md)
    + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
       + [매력적인 머천다이징 콘텐츠 제작](express/compelling-merchandise.md)
