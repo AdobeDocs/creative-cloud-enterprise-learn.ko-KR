@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
+source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '763'
 ht-degree: 4%
 
 ---
@@ -92,6 +92,12 @@ ht-degree: 4%
       + [템플릿 사용 방법](express/use-templates.md)
    + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
+      + [온라인 학습 강의의 프로모션 시각적 요소 만들기](express/promo-visual.md)
+      + [연말 비디오 만들기](express/end-of-year-video.md)
+      + [뉴스레터를 만드는 방법](express/newsletter.md)
+      + [사무실에 대한 디지털 화면 공지 만들기](express/create-digital-screens.md)
+      + [프레젠테이션 배경 만들기](express/create-backgrounds.md)
+      + [금융 라운드 업 이미지 업데이트](express/update-image.md)
       + [매력적인 머천다이징 콘텐츠 제작](express/compelling-merchandise.md)
       + [마케팅 팀이 다중 채널 콘텐츠를 제작할 수 있도록 지원](express/multi-channel-marketing-content.md)
       + [분산된 팀이 콘텐츠를 지역화할 수 있도록 지원](express/localized-marketing-content.md)
