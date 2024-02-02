@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14872
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 프로젝트에서 비디오, 이미지, 텍스트, 그래픽 등의 비디오 개체를 정렬하고 편집하는 타임라인에 대해 알아봅니다. 타임라인은 개체와 비디오를 구성하는 개체의 순서를 표현한 것입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+
+## 이 시리즈의 추가 비디오
 
 <table style="table-layout:fixed">
 <tr>

@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14870
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 소셜 미디어 비디오 템플릿을 사용하는 방법을 포함하여 비디오 프로젝트를 시작하는 다양한 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+
+## 이 시리즈의 추가 비디오
 
 <table style="table-layout:fixed">
 <tr>
