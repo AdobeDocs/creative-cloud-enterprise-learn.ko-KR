@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Intermediate
 jira: KT-14894
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # 뉴스레터를 만드는 방법
 
-인쇄, 전자 메일 또는 웹 게시에 사용할 수 있는 뉴스레터의 첫 페이지를 만드는 방법을 알아봅니다.
+키워드를 사용하여 전문적으로 디자인된 템플릿을 검색하여 뉴스레터를 만드는 방법을 살펴보세요. 로고와 텍스트 사본을 변경한 후 동료에게 초대하여 공동 작업을 수행하고 고유한 콘텐츠를 추가할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)

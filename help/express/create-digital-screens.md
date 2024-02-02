@@ -5,15 +5,15 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14893
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # 사무실에 대한 디지털 화면 공지 만들기
 
-Adobe Firefly 기반의 Text-to-Template을 사용하여 매력적인 디지털 화면 공지를 제작하는 방법에 대해 알아봅니다.
+사무실에 대한 매력적인 디지털 화면 공지를 만드는 방법을 알아봅니다. Adobe Firefly 기반의 Text-to-Template을 사용하면 텍스트 복사를 위한 공간을 사용하여 개인화된 이미지를 생성할 수 있습니다. 생성형 채우기와 애니메이션이 추가되어 공지를 더욱 매력적으로 만들 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)

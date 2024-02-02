@@ -1,13 +1,13 @@
 ---
 title: 애니메이션에 오디오 추가
-description: 오디오를 추가하여 매력적이고 인상적인 프로젝트 만들기
+description: 애니메이션에 오디오를 추가하여 기억에 남는 프로젝트를 만들어 보세요
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14837
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
