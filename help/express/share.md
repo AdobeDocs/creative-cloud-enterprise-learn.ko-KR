@@ -5,7 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -22,7 +22,7 @@ PNG, JPEG 또는 PDF과 같은 다양한 파일 포맷으로 프로젝트를 다
 
 <table style="table-layout:fixed">
 <tr>
- <td>
+   <td>
       <a href="brand.md">
          <img alt="브랜드 키트 설정" src="assets/brand.png" />
       </a>
@@ -36,12 +36,12 @@ PNG, JPEG 또는 PDF과 같은 다양한 파일 포맷으로 프로젝트를 다
       <a href="workspace.md">
          <img alt="프로젝트의 UX" src="assets/workspace.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="text-effects.md">
          <img alt="텍스트를 추가하는 방법" src="assets/text-effects.png" />
       </a>
-  </td>
+   </td>
 </tr>
 <tr>
    <td>
@@ -76,7 +76,6 @@ PNG, JPEG 또는 PDF과 같은 다양한 파일 포맷으로 프로젝트를 다
       <img alt="공동 작업 방법" src="assets/collaborate.png" />
    </a>
    </td>
-   <td>
    <td>
    <a href="version-history.md">
       <img alt="버전 내역을 사용하는 방법" src="assets/version-history.png" />
