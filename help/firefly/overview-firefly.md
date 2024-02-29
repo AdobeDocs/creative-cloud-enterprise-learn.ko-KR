@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: c190544aec8c9979bc8a009147f98b68e445b307
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
@@ -60,13 +60,52 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="탐색 Adobe Firefly" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="landing-page.md">
+         <img alt="랜딩 페이지" src="assets/landing-page.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-image.md">
+         <img alt="텍스트를 이미지로" src="assets/text-to-image.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="text-effects.md">
+         <img alt="텍스트 효과" src="assets/text-effects.png" />
+      </a>
+   </td>
+   <td>
+      <a href="gen-fill.md">
+         <img alt="생성형 채우기" src="assets/generative-fill.png" />
+      </a>
+   </td>
+   <td>
+      <a href="gen-recolor.md">
+         <img alt="생성형 색상 변경" src="assets/generative-recolor.png" />
+      </a>
+   </td>
+   <td>
+      <a href="examples.md">
+         <img alt="Firefly 사용 방법의 예" src="assets/examples.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="크리에이티브 효율성 활성화" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="Photoshop의 생성형 채우기" src="assets/generative-fill.png" />
+         <img alt="Photoshop의 생성형 채우기" src="assets/generative-fill-ps.png" />
       </a>
    </td>
   <td>
@@ -74,27 +113,10 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
          <img alt="Photoshop의 배너 광고 변형" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-<td>
-      <a href="text-effects.md">
-         <img alt="텍스트 효과" src="assets/text-effects.png" />
-      </a>
-  </td>
-<td>
+   <td>
       <a href="generative-recolor.md">
-         <img alt="Illustrator의 생성형 색상 변경" src="assets/firefly-recolor.png" />
+            <img alt="Illustrator의 생성형 색상 변경" src="assets/firefly-recolor.png" />
       </a>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
+   </td>
 </tr>
 </table>

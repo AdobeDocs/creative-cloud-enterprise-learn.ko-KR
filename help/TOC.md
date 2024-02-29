@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '776'
 ht-degree: 4%
 
 ---
@@ -110,11 +110,17 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Adobe Firefly 개요](firefly/overview-of-firefly.md)
+      + [개요 [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
+      + [랜딩 페이지](firefly/landing-page.md)
+      + [텍스트를 이미지로](firefly/text-to-image.md)
+      + [텍스트 효과](firefly/text-effects.md)
+      + [생성형 채우기](firefly/gen-fill.md)
+      + [생성형 색상 변경](firefly/gen-recolor.md)
+      + [사용 방법의 예 [!DNL Firefly]](firefly/examples.md)
       + [크리에이티브 효율성 활성화](firefly/enable-creative-efficiency.md)
       + [의 배너 광고 변형 [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [생성형 채우기 [!DNL Photoshop]](firefly/generative-fill.md)
-      + [텍스트 효과](firefly/text-effects.md)
       + [생성형 색상 변경 [!DNL Illustrator]](firefly/generative-recolor.md)
    + 웨비나 {#firefly-webinars}
       + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
