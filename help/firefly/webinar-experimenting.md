@@ -1,21 +1,21 @@
 ---
 title: Firefly 베타 웨비나 실험
-description: Howard Pinsky가 Firefly 베타 버전으로 뛰어들어 보세요
+description: Howard Pinsky와 함께 Firefly에 진출하세요.
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13427
-exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: ede87fb6-3a34-40e5-b29c-92f626452ccf
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
-# Firefly 베타 온라인 세미나 실험
+# Firefly 베타 웨비나 실험
 
-온라인 세미나에서 Howard Pinsky가 Firefly 베타 버전 게임에 참가합니다.
+하워드 핀스키와 함께 이 웨비나에 참여하면서 Firefly에 진출해 보세요.
 
 <br> 
 
