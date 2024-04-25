@@ -5,9 +5,10 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15203
-source-git-commit: 66ec2af44859e17b6fdc4ab487227be23b46011d
+exl-id: c1f342c6-ab0b-4797-9dd1-f21477f4219f
+source-git-commit: efd5e6062194514e15d0ab015d2cd54d41943746
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '85'
 ht-degree: 1%
 
 ---
@@ -19,3 +20,7 @@ Firefly에서 사용자 정의 모델을 만들어 배경, 색상, 색조와 같
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428003?quality=12&learn=on&hidetitle=true)
+
+>[!IMPORTANT]
+>
+>에 대해 자세히 알아보기 [사용자 정의 모델의 보안 아키텍처 및 데이터 흐름](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
