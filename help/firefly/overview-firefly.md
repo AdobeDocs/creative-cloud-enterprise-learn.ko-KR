@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
+source-git-commit: 6789f2b08b15dfb0133597f8ccb3f7d3f0a76499
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
       </a>
    </td>
    <td>
+      <a href="reusable-scenes.md">
+         <img alt="상품용으로 재사용 가능한 장면 만들기" src="assets/reusable-scenes.png" />
+      </a>
+   </td>
+   <td>
       <a href="custom-model-subject.md">
          <img alt="피사체를 사용하여 사용자 정의 모델 만들기" src="assets/custom-model-subject.png" />
       </a>
@@ -69,14 +74,14 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
          <img alt="스타일을 사용하여 사용자 정의 모델 만들기" src="assets/custom-model-styles.png" />
       </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="discover.md">
          <img alt="탐색 Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="landing-page.md">
          <img alt="랜딩 페이지" src="assets/landing-page.png" />
       </a>
@@ -91,14 +96,14 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
          <img alt="텍스트 효과" src="assets/text-effects.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="gen-fill.md">
          <img alt="생성형 채우기" src="assets/generative-fill.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="gen-recolor.md">
          <img alt="생성형 색상 변경" src="assets/generative-recolor.png" />
       </a>
@@ -113,14 +118,14 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
          <img alt="크리에이티브 효율성 활성화" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
+</tr>
+<tr>
    <td>
       <a href="generative-fill.md">
          <img alt="Photoshop의 생성형 채우기" src="assets/generative-fill-ps.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="web-banner-ad.md">
          <img alt="Photoshop의 배너 광고 변형" src="assets/banner-ad-variations.png" />
       </a>
@@ -129,11 +134,6 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
       <a href="generative-recolor.md">
             <img alt="Illustrator의 생성형 색상 변경" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
