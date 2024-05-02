@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
+source-git-commit: 2d7bf0097a3c6b4ca0a8e692026f3457c3ef5c82
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -22,33 +22,6 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
-## Adobe Firefly에 대해 자세히 알아보기
-
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
-      </a>
-  </td>
-  <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="Photoshop에서 Firefly 살펴보기" src="assets/firefly-photoshop.png" />
-      </a>
-  </td>
-  <td>
-      <a href="webinar-experimenting.md">
-         <img alt="Adobe Firefly 실험" src="assets/webinar-experimenting.png" />
-      </a>
-  </td>
-  <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
 
 ## Firefly 튜토리얼
 
