@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6789f2b08b15dfb0133597f8ccb3f7d3f0a76499
+source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '797'
 ht-degree: 4%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 4%
    + Tutorials {#firefly-tutorials}
       + [개요 [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
+      + [크리에이티브 아이디어 가속화](firefly/accelerate-ideas.md)
       + [재사용 가능한 상품 장면 만들기](firefly/reusable-scenes.md)
       + [피사체를 사용하여 사용자 정의 모델 만들기](firefly/custom-model-subject.md)
       + [스타일을 사용하여 사용자 정의 모델 만들기](firefly/custom-model-style.md)
