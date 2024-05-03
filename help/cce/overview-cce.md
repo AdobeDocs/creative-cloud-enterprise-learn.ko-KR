@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 기업 크리에이티브는 분산된 팀과 공동 작업을 수행하고 확장 가능한 프로세스를 수립하며 기업 시스템 및 지침을 준수해야 합니다. 이 튜토리얼을 통해 기업의 관점에서 Creative Cloud의 새로운 기능을 학습할 수 있습니다.
 
-## 제품 자습서를 보려면 클릭하십시오(알파벳 순서로 나열됨).
+## 확인할 제품(알파벳 순서로 나열됨) 튜토리얼 선택
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ ht-degree: 1%
   <td>
     <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express (이전의 Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: 돋보이는 콘텐츠" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: 돋보이는 콘텐츠</strong></a>
-    </div>
-    <em> Adobe Express을 사용하여 단 몇 분 안에 세련된 그래픽, 웹 페이지 및 비디오 스토리를 제작해 보세요.</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Adobe Spark에서 내 브랜드 만들기" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 내 브랜드 만들기</strong></a>
-    </div>
-    <em>Adobe Spark을 사용하면 브랜드를 쉽게 정의할 수 있습니다.</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Spark Page에 슬라이드 쇼 추가" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Spark Page(PDF)에 슬라이드 쇼 추가</strong></a>
-    </div>
-    <em>Adobe Spark은 웹 스토리에 생명을 불어넣는 놀랍고 사용하기 쉬운 레이아웃 구성 요소를 제공합니다</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Adobe Spark에서 내 브랜드 만들기" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Spark(PDF)에서 내 브랜드 만들기</strong></a>
-    </div>
-    <em>Adobe Spark을 사용하면 브랜드를 쉽게 정의할 수 있습니다.</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="새로운 프로덕션 아티스트 만나보기: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>새로운 프로덕션 아티스트를 만나보세요. Adobe Spark Post(PDF)</strong></a>
-    </div>
-    <em>Adobe Spark은 컴포지션 내에서 레이아웃을 만들고, 색상을 정의하고, 아트워크를 가져오고, 요소를 정렬하는 과정에서 학습할 수 있습니다</em>
     <br>
   </td>
 </tr>
@@ -256,6 +199,11 @@ ht-degree: 1%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Creative Cloud(PDF)를 통해 Lightroom 웹에서 InDesign으로</strong></a>
     </div>
     <em>Creative Cloud 파일과 라이브러리를 사용하여 카메라에서 최종 디자인으로 창의력을 발휘하세요</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
