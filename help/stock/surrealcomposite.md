@@ -1,6 +1,6 @@
 ---
-title: Adobe을 사용하여 초현실적인 합성 이미지 만들기 [!DNL Stock]
-description: 색상, 동작 및 마스크 효과로 여러 이미지를 결합하여 인상적인 에디토리얼 이미지를 만들어 보세요
+title: Adobe  [!DNL Stock]을(를) 사용하여 반초현실적 합성 만들기
+description: 여러 이미지를 색상, 동작 및 마스크 효과와 결합하여 기억에 남는 에디토리얼 이미지 만들기
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 사용하여 초현실적인 합성 이미지 만들기 [!DNL Stock]
+# Adobe [!DNL Stock]을(를) 사용하여 반초현실적 합성 만들기
 
-색상, 동작 및 마스크 효과로 여러 이미지를 결합하여 인상적인 에디토리얼 이미지를 만들어 보세요.
+여러 이미지를 색상, 동작 및 마스크 효과와 결합하여 기억에 남는 에디토리얼 이미지를 만듭니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

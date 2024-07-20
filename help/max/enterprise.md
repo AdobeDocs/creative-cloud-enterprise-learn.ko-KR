@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 3%
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Adobe Fonts의 거의 200여 가구와 Adobe Fonts 서비스의 사용 편의성을 살펴보세요.</em>
+    <em>Adobe Fonts의 거의 200개 제품군과 Adobe Fonts 서비스 사용 편의성 살펴보기</em>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ Adobe Fonts의 거의 200여 가구와 Adobe Fonts 서비스의 사용 편의성
 * 기본 Creative Cloud 통합을 사용하여 시간과 비용 절약
 * Adobe Admin Console에서 모든 글꼴을 한 곳에서 관리
 
-**프레젠테이션 대상:**
+**발표자:**
 
 토드 버크(Todd Burke), 수석 솔루션 컨설턴트(디지털 미디어)
 
@@ -64,4 +64,4 @@ Adobe Fonts의 거의 200여 가구와 Adobe Fonts 서비스의 사용 편의성
 
 [Adobe Fonts 사용 안내서](https://helpx.adobe.com/fonts/user-guide.html)
 
-[기업 관리자 안내서](https://helpx.adobe.com/enterprise/admin-guide.html)
+[기업 관리자 가이드](https://helpx.adobe.com/enterprise/admin-guide.html)

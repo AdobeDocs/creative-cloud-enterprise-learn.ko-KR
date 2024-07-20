@@ -24,9 +24,9 @@ ht-degree: 0%
       <img alt="전문적인 모션 그래픽 템플릿" src="assets/MORGTs.png" />
    </a>
     <div>
-   <a href="motion-graphics-templates.md"><strong>전문적인 모션 그래픽 템플릿</strong></a>
+   <a href="motion-graphics-templates.md"><strong>전문 모션 그래픽 템플릿</strong></a>
     </div>
-    <em>모션 그래픽 템플릿(.mogrt)은 사용자 정의 가능한 모션 그래픽 패키지(제목, 로고 애니메이션, 하단 1/3)를 만들고 편집 팀과 공유할 수 있는 공동 작업적이고 효율적인 방법입니다</em>
+    <em>모션 그래픽 템플릿(.mogrt)은 사용자 정의 가능한 모션 그래픽 패키지(제목, 로고 애니메이션, 하단 1/3)를 만들고 편집팀과 공유할 수 있는 공동 작업적이고 효율적인 방법입니다</em>
     <br>
   </td>
   <td>
@@ -34,9 +34,9 @@ ht-degree: 0%
       <img alt="Frame-io로 비디오 검토" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Frame.io로 비디오 검토</strong></a>
+   <a href="video-review-frame-io.md"><strong>Frame.io를 사용한 비디오 검토</strong></a>
     </div>
-    <em>Adobe Premiere Pro용 Frame.io 확장 프로그램을 사용하여 타임라인을 종료하지 않고도 에셋을 중앙 집중화하고 공유하고, 실시간 주석을 수신하고, 수정 사항을 추적하고, 승인을 빠르게 받는 방법을 알아봅니다</em>
+    <em>Adobe Premiere Pro용 Frame.io 확장을 통해 에셋을 중앙 집중화하고 공유하고, 실시간 주석을 수신하고, 수정 사항을 추적하고, 보다 빠르게 승인받는 방법을 알아봅니다. 이 모든 것이 타임라인을 벗어나지 않습니다.</em>
     <br>
   </td>
   <td>

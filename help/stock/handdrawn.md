@@ -1,6 +1,6 @@
 ---
-title: Adobe에 손으로 그린 아트웍 추가 [!DNL Stock] 이미지
-description: Photoshop for iPad을 사용하여 이미지에 입체감을 더해주는 특별한 기법을 통해 크리에이티브 마케팅을 전개할 수 있습니다
+title: Adobe [!DNL Stock] 이미지에 손으로 그린 미적 요소 추가
+description: iPad용 Photoshop을 사용하여 이미지에 깊이와 차원을 더하는 고유한 기법으로 크리에이티브 마케팅을 강화하세요.
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe에 손으로 그린 아트웍 추가 [!DNL Stock] 이미지
+# Adobe [!DNL Stock]개의 이미지에 손으로 그린 미적 요소 추가
 
-iPad용 Photoshop을 사용하여 이미지에 입체감을 더해주는 특별한 기법으로 크리에이티브 마케팅을 전개해 보세요.
+iPad용 Photoshop을 사용하여 이미지에 깊이와 차원을 더하는 고유한 기법으로 크리에이티브 마케팅을 강화할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

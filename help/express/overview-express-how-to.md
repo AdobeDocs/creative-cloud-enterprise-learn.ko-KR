@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] 방법 Tutorials
-description: Adobe에 대한 최신 정보 [!DNL Express]
+description: Adobe  [!DNL Express]에서 최신식 사용
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] 사용 방법 튜토리얼
+# [!DNL Express] 사용 방법 튜토리얼 Adobe
 
 Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작품을 만들어 보세요. Adobe Express으로 전단지, 틱톡, 이력서, 릴 디자인하기
 

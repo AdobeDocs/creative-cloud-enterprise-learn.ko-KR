@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # 피사체를 사용하여 사용자 정의 모델 만들기
 
-Firefly에서 사용자 정의 모델을 만들어 특정 주제를 사용하여 조직의 브랜드에 맞는 새로운 이미지를 만드는 방법을 알아봅니다. 맞춤형 모델을 사용하면 규모에 맞게 관련성 있고 개인 맞춤화된 콘텐츠를 제작할 수 있습니다. Adobe Firefly 사용해 보기 [여기](https://firefly.adobe.com/).
+Firefly에서 사용자 정의 모델을 만들어 특정 주제를 사용하여 조직의 브랜드에 맞는 새로운 이미지를 만드는 방법을 알아봅니다. 맞춤형 모델을 사용하면 규모에 맞게 관련성 있고 개인 맞춤화된 콘텐츠를 제작할 수 있습니다. Adobe Firefly [여기](https://firefly.adobe.com/)를 사용해 보세요.
 
 <br> 
 
@@ -23,4 +23,4 @@ Firefly에서 사용자 정의 모델을 만들어 특정 주제를 사용하여
 
 >[!IMPORTANT]
 >
->에 대해 자세히 알아보기 [사용자 정의 모델의 보안 아키텍처 및 데이터 흐름](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>[사용자 지정 모델의 보안 아키텍처 및 데이터 흐름](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf)에 대해 자세히 알아보세요.

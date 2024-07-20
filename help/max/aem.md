@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Experience Manager은 기업 및 중간 규모 기업을 위한 업계 최
     <div>
    <a href="aem.md#tutorial1"><strong>AEM 및 Asset Link</strong></a>
     </div>
-    <em>Asset Link를 사용하여 AEM에 저장된 에셋을 실시간으로 업데이트합니다.</em>
+    <em>Asset Link를 사용하여 AEM에 저장된 에셋을 실시간으로 업데이트</em>
     <br>
   </td>
    <td>
@@ -37,7 +37,7 @@ Adobe Experience Manager은 기업 및 중간 규모 기업을 위한 업계 최
     <div>
    <a href="aem.md#tutorial2"><strong>AEM에서 호스팅되는 InDesign 파일</strong></a>
     </div>
-    <em>여러 사용자가 동시에 콘텐츠 변형을 만들 수 있도록 AEM에서 InDesign 문서를 호스팅합니다</em>
+    <em>여러 사용자가 동시에 콘텐츠 변형을 만들 수 있도록 AEM에서 InDesign 문서를 호스팅하세요.</em>
     <br>
   </td>
   <td>
@@ -60,7 +60,7 @@ Asset Link를 사용하여 AEM에 저장된 에셋을 실시간으로 업데이�
 * 디자인 프로그램에서 바로 에셋을 손쉽게 업로드
 * DAM의 에셋을 체크아웃하고 디자인 프로그램에 체크인하여 실시간 업데이트를 수행할 수 있습니다
 
-**프레젠테이션 대상:**
+**발표자:**
 Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
 
 ## AEM에서 호스팅된 파일 InDesign(3:16) {#tutorial2}
@@ -75,7 +75,7 @@ Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
 * 원본 파일을 손상시키지 않고 안전하게 변형을 만듭니다.
 * 문서 필드는 내용을 빠르게 편집하거나 변경할 수 있도록 미리 형식이 지정됩니다
 
-**프레젠테이션 대상:**
+**발표자:**
 Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
 
 <table style="table-layout:fixed">
@@ -87,7 +87,7 @@ Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>콘텐츠 및 디지털 자산 관리 요구를 위한 강력한 조합</em>
+    <em>콘텐츠 및 디지털 에셋 관리 요구 사항을 위한 강력한 콤보</em>
     <br>
   </td>
   <td>
@@ -105,9 +105,9 @@ Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
       <img alt="InDesign Server: 파트너 찾기" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: 이점</strong></a>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: 혜택</strong></a>
     </div>
-    <em>내 디지털 에셋이 내게 적합하도록 만들기</em>
+    <em>디지털 에셋이 작동하도록 설정</em>
     <br>
   </td>
 </tr>
@@ -115,9 +115,9 @@ Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
 
 ![AEM 로고](../assets/aem_appicon_noshadow_96.png)
 
-**Asset Link 및 AEM 리소스**
+**에셋 링크 및 AEM 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/support/experience-manager.html) 는 추가 튜토리얼, 새로운 기능, 커뮤니티 포럼 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/support/experience-manager.html)은(는) 추가 자습서, 새로운 기능 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

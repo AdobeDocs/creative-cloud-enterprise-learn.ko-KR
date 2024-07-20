@@ -1,6 +1,6 @@
 ---
-title: 팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유
-description: 팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀의 브랜딩 에셋을 만들고, 사용하고, 공유하는 방법에 대해 알아봅니다
+title: 팀용 Creative Cloud Libraries와 브랜딩 에셋 공유
+description: 팀용 Creative Cloud Libraries를 사용하여 그룹 또는 팀을 위한 브랜딩 에셋을 제작하고, 사용하고, 공유하는 방법에 대해 알아봅니다
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 팀용 Creative Cloud 라이브러리와 브랜딩 에셋 공유
+# 팀용 Creative Cloud Libraries와 브랜딩 에셋 공유
 
-팀용 Creative Cloud 라이브러리를 사용하여 그룹 또는 팀의 브랜딩 에셋을 만들고, 사용하고, 공유하는 방법에 대해 알아봅니다. 팀용 Creative Cloud 라이브러리의 에셋은 중앙에 저장되며 개별 사용자 계정에 연결되지 않습니다. 팀 라이브러리는 ![건물 이미지](assets/Smock_Building_18_N.png) 아이콘을 클릭합니다.
+팀용 Creative Cloud Libraries를 사용하여 그룹 또는 팀을 위한 브랜딩 에셋을 제작하고, 사용하고, 공유하는 방법에 대해 알아봅니다. 팀용 Creative Cloud Libraries의 에셋은 중앙 위치에 저장되며 개별 사용자 계정에 연결되지 않습니다. ![이미지 빌드](assets/Smock_Building_18_N.png) 아이콘으로 팀 라이브러리를 식별할 수 있습니다.
 
 >[!TIP]
 >
->언제든지 팀용 Creative Cloud 라이브러리를 사용하여 조직은 크리에이티브 에셋의 소유권을 유지해야 합니다. 예를 들면 다음과 같습니다. 기업 스타일 가이드, 공유 프로젝트, UI 디자인 요소
+>조직에서 크리에이티브 에셋에 대한 소유권을 유지해야 하는 경우 언제든지 Creative Cloud Libraries for teams를 사용할 수 있습니다. 기업 스타일 가이드, 공유 프로젝트 및 UI 디자인 요소를 예로 들 수 있습니다.
 
 <br> 
 

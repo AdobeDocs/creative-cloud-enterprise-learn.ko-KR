@@ -1,6 +1,6 @@
 ---
-title: 공동 작업—창의성의 미래
-description: 팀원, 이해 관계자, 클라이언트 및 Adobe Fonts의 선별된 글꼴과 함께 Creative Cloud 파일 및 폴더에 대한 의견을 추가하고 피드백을 공유하는 방법에 대해 알아봅니다
+title: 공동 작업—창조성의 미래
+description: Adobe Fonts에서 팀원, 관련자, 클라이언트와 함께 댓글을 추가하고 Creative Cloud 파일 및 폴더에 대한 피드백을 공유하는 방법에 대해 알아봅니다
 feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
@@ -9,8 +9,8 @@ thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 22%
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![자습서의 첫 페이지 이미지](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}
+[![튜토리얼의 첫 페이지 이미지](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

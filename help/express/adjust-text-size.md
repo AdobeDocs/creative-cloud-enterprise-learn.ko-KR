@@ -1,6 +1,6 @@
 ---
 title: 텍스트 크기 조정
-description: 텍스트를 크게 하고 작게 만드는 방법 알아보기
+description: 텍스트를 크게 만들고 작게 만드는 방법을 알아봅니다.
 feature: Graphic Design
 role: User
 level: Beginner
@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # 텍스트 크기 조정
 
-텍스트를 크게 하고 작게 만드는 방법을 살펴보세요.
+텍스트를 크게 만들고 작게 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420213?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Firefly] 개요
-description: Adobe에 대한 최신 정보 [!DNL Firefly]
+description: Adobe  [!DNL Firefly]에서 최신식 사용
 feature: Image Editing, Gen AI
 role: User
 level: Beginner

@@ -1,6 +1,6 @@
 ---
-title: Adobe을 사용하여 신속하게 무드보드 만들기 [!DNL Stock]
-description: 프로젝트 무드보드를 만들어 정보, 아이디어, 시각 요소 및 색상 팔레트를 팀/클라이언트에 전달합니다
+title: Adobe  [!DNL Stock]을(를) 사용하여 영감을 주는 무드 보드를 빠르게 만들어 보세요.
+description: 프로젝트 무드 보드를 만들어 팀/클라이언트에 정보, 아이디어, 비주얼 및 색상 팔레트를 전달합니다.
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 사용하여 신속하게 무드보드 만들기 [!DNL Stock]
+# Adobe [!DNL Stock]을(를) 사용하여 영감을 주는 무드 보드 빠르게 만들기
 
-프로젝트 무드보드를 만들어 정보, 아이디어, 시각 요소 및 색상 팔레트를 팀/클라이언트에 전달합니다.
+프로젝트 무드 보드를 만들어 팀/클라이언트에 정보, 아이디어, 비주얼 및 색상 팔레트를 전달합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

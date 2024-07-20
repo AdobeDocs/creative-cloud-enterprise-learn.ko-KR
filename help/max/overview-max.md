@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,10 @@ ht-degree: 0%
 * Adobe Experience Manager(AEM) Assets는 Adobe Creative Cloud과 통합할 수 있는 디지털 에셋 관리(DAM) 솔루션으로, DAM 사용자가 크리에이티브 팀과 함께 작업하여 콘텐츠 제작 프로세스의 공동 작업을 간소화합니다
 * Adobe InDesign Server은 다른 시스템에 통합하여 자동화된 출판 솔루션을 제공하는 레이아웃 및 컴포지션 엔진입니다
 
-**프레젠테이션 대상:**
+**발표자:**
 
-Eric Rowse, Senior Solutions Consultant(디지털 미디어) Derek Lu, Principal Solutions Consultant(개념 증명)
+Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
+Derek Lu, 수석 솔루션 컨설턴트(개념 증명)
 
 ## 새 표준의 새 도구(29:57)
 
@@ -45,11 +46,13 @@ WFH는 도전을 가져왔지만, 또한 작가와 그 회사들이 새로운 �
 * 브랜딩에 맞게 iPad의 Illustrator에서 디스트레스트 아이콘 만들기 및 공유
 * PhotoshopiPad 와 iPad의 Illustrator을 합성하여 Fresco과 함께 이동 중에도 소셜 미디어 채널용 콘텐츠를 만들어 보세요
 
-**프레젠테이션 대상:**
+**발표자:**
 
-Dave Weinberg, 수석 솔루션 컨설턴트(디지털 미디어) Liz Tanonis, 솔루션 컨설턴트(디지털 미디어) Emilie Enke, 솔루션 컨설턴트(디지털 미디어)
+Dave Weinberg, 수석 솔루션 컨설턴트(디지털 미디어)
+Liz Tanonis, 솔루션 컨설턴트(디지털 미디어)
+Emilie Enke, 솔루션 컨설턴트(디지털 미디어)
 
-## CC Libraries와의 공동 작업(27:58)
+## CC Libraries과 공동 작업(27:58)
 
 >[!VIDEO](https://video.tv.adobe.com/v/328199?hidetitle=true)
 
@@ -61,9 +64,10 @@ Adobe Creative Cloud Libraries를 사용하면 즐겨 사용하는 Creative Clou
 * 모든 크리에이티브 애플리케이션에서 필요한 에셋을 손쉽게 찾을 수 있습니다
 * 제어를 유지하면서 조직 전체의 커뮤니케이터가 온브랜드 경험을 제작할 수 있도록 지원합니다.
 
-**프레젠테이션 대상:**
+**발표자:**
 
-Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어) Emily Palmer, 솔루션 컨설턴트(디지털 미디어)
+Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
+Emily Palmer, 솔루션 컨설턴트(디지털 미디어)
 
 ## 데모 에셋 정보: 로컬
 

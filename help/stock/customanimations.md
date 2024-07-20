@@ -1,6 +1,6 @@
 ---
-title: Adobe에 따라 개성 있는 애니메이션으로 창의력 발휘 [!DNL Stock]
-description: Adobe 사용 [!DNL Stock] Photoshop에서 사용자 정의 애니메이션에 대한 이미지, 텍스처, 패턴
+title: ' [!DNL Stock] Adobe의 맞춤 애니메이션으로 창의력 발휘'
+description: Photoshop에서 Adobe [!DNL Stock] 이미지, 텍스처, 패턴을 사용하여 맞춤 애니메이션 만들기
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe에 따라 개성 있는 애니메이션으로 창의력 발휘 [!DNL Stock]
+# [!DNL Stock] Adobe의 사용자 지정 애니메이션으로 창의력 발휘
 
-Adobe 사용 [!DNL Stock] Photoshop에서 이미지, 텍스처, 패턴으로 애니메이션 적용
+Photoshop에서 [!DNL Stock] Adobe 이미지, 텍스처, 패턴을 사용하여 맞춤 애니메이션을 만들 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를 부여하면
 
 ## 지정된 사용자 라이선싱 정보
 
-[지정된 사용자 라이선싱](https://helpx.adobe.com/enterprise/using/licensing.html) 는 일련 번호 또는 디바이스 대신 개인에게 소프트웨어를 할당할 수 있도록 하는 소프트웨어 라이선싱 모델입니다. NUL은 IT 관리자에게 고급 사용자 ID 관리 기능을 통한 엔터프라이즈 수준의 보안을 제공하고 Adobe Admin Console을 사용하여 애플리케이션을 쉽게 배포하고 관리할 수 있도록 해 줍니다.
+[지정된 사용자 라이선싱](https://helpx.adobe.com/enterprise/using/licensing.html)은(는) 일련 번호나 장치 대신 소프트웨어를 개인에게 할당할 수 있게 하는 소프트웨어 라이선싱 모델입니다. NUL은 IT 관리자에게 고급 사용자 ID 관리 기능을 통한 엔터프라이즈 수준의 보안을 제공하고 Adobe Admin Console을 사용하여 애플리케이션을 쉽게 배포하고 관리할 수 있도록 해 줍니다.
 
 ## 지정된 사용자 라이선싱의 이점:
 
@@ -32,7 +32,7 @@ NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를 부여하면
 
 * 전문가 서비스를 이용합니다.
 
-  Adobe과의 Enterprise Term License Agreement에서는 Adobe 전문가와의 전화 또는 웹 회의를 통해 30분 동안 무제한으로 세션을 제공하여 모든 문제를 해결할 수 있습니다. 세션을 예약하려면 Admin Console의 지원 탭으로 이동하여 **전문가 세션 요청**.
+  Adobe과의 Enterprise Term License Agreement에서는 Adobe 전문가와의 전화 또는 웹 회의를 통해 30분 동안 무제한으로 세션을 제공하여 모든 문제를 해결할 수 있습니다. 세션을 예약하려면 Admin Console의 지원 탭으로 이동하여 **전문가 세션 요청**&#x200B;을 클릭하세요.
 
 * 다수의 사용자이십니까? 문제 없어요
 
@@ -46,4 +46,4 @@ NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를 부여하면
 
   NUL을 활용하면 사용자는 Adobe Creative Cloud 및 Adobe Document Cloud의 강력한 생산성 기능을 이용할 수 있습니다. 할 수 있는 작업이 매우 많습니다. 문서를 안전하게 만들고 서명할 수 있고, 사용자 정의 PDF을 빠르게 만들 수 있고, 데스크탑으로 가져오기 전에 태블릿에서 크리에이티브 프로젝트를 시작할 수 있고, Document Cloud을 통해 팀과 문서를 공유할 수 있고, Adobe XD에서 새 팀 프로젝트를 작업할 수 있습니다. 당사의 클라우드 기반 서비스를 통해 원격 팀으로서 에셋 공유 및 공동 작업을 손쉽게 수행할 수 있습니다.
 
-최신 워크플로우 과제를 해결하려면 최신 솔루션이 필요합니다. 지정된 사용자 라이선싱으로 전환하는 데 도움을 드리겠습니다. 다음을 확인하십시오. [지정된 사용자 라이선싱 마이그레이션 안내서](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) 전환을 시작합니다.
+최신 워크플로우 과제를 해결하려면 최신 솔루션이 필요합니다. 지정된 사용자 라이선싱으로 전환하는 데 도움을 드리겠습니다. [지정된 사용자 라이선싱 마이그레이션 안내서](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf)를 확인하여 전환을 시작하십시오.

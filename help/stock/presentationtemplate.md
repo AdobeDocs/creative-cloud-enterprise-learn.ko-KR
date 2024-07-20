@@ -1,6 +1,6 @@
 ---
-title: Adobe 사용자 정의 [!DNL Stock] 전문가 수준의 시선을 사로잡는 프레젠테이션 템플릿
-description: Adobe의 이미지와 템플릿을 사용하여 멋진 프레젠테이션을 신속하게 만들 수 있습니다 [!DNL Stock] 손쉽게 사용할 수 있는 특수 효과
+title: Adobe [!DNL Stock] 프레젠테이션 템플릿을 전문적이면서도 시선을 사로잡는 스타일로 사용자 지정하세요.
+description: Adobe [!DNL Stock] 의 이미지 및 템플릿과 간편한 효과를 사용하여 스타일리시한 프레젠테이션을 신속하게 만들어 보세요
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe 사용자 정의 [!DNL Stock] 전문가 수준의 시선을 사로잡는 프레젠테이션 템플릿
+# Adobe [!DNL Stock] 프레젠테이션 템플릿을 전문적이면서도 시선을 사로잡는 스타일로 사용자 지정하세요.
 
-Adobe의 이미지와 템플릿을 사용하여 멋진 프레젠테이션을 신속하게 만들 수 있습니다 [!DNL Stock] 손쉽게 만들어 보세요.
+[!DNL Stock] Adobe의 이미지 및 템플릿과 간편한 효과를 사용하여 스타일리시한 프레젠테이션을 빠르게 만들어 보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

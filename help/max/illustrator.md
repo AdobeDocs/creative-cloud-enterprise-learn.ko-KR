@@ -25,9 +25,9 @@ ht-degree: 0%
       <img alt="심볼을 사용하여 여러 아이콘 인스턴스 업데이트" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>심볼을 사용하여 여러 아이콘 인스턴스 업데이트</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>기호를 사용하여 여러 아이콘 인스턴스 업데이트</strong></a>
     </div>
-    <em>수동 작업을 줄이고 심볼과의 일관성을 유지합니다.</em>
+    <em>수동 작업을 줄이고 심볼과의 일관성을 유지합니다</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ ht-degree: 0%
         <img alt="글리프 물리기를 사용하여 텍스트 및 이미지 정렬" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>글리프 물리기를 사용하여 텍스트 및 이미지 정렬</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>글리프 스냅을 사용하여 텍스트 및 이미지 정렬</strong></a>
     </div>
-    <em>글리프를 문서의 중요한 영역에 빠르게 물리기</em>
+    <em>글리프를 문서의 중요한 영역에 빠르게 스냅</em>
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ ht-degree: 0%
 이 튜토리얼에서는 다음과 같은 방법을 배웁니다.
 * 수동 작업을 줄이고 심볼과의 일관성을 유지합니다.
 
-**프레젠테이션 대상:**
+**발표자:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 ## 글리프 물리기를 사용하여 텍스트 및 이미지 정렬(6:48) {#tutorial2}
@@ -71,14 +71,14 @@ Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 이 튜토리얼에서는 다음과 같은 방법을 배웁니다.
 * 글리프를 문서의 중요한 영역에 빠르게 물리기
 
-**프레젠테이션 대상:**
+**발표자:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 ![Illustrator 로고](../assets/ai_appicon_96.png)
 
 **Illustrator 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/support/illustrator.html) 는 추가 자습서 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/support/illustrator.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe을 사용하여 리얼한 합성 사진 만들기 [!DNL Stock] 이미지
-description: 탁월한 두 Adobe [!DNL Stock] 소셜 게시물에 사람들을 끌어들이는 사진
+title: Adobe [!DNL Stock] 이미지를 사용하여 사실적인 사진 합성 만들기
+description: 두 개의 멋진 Adobe [!DNL Stock] 사진을 함께 만들어 소셜 게시물에 사람들을 끌어보세요.
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 사용하여 리얼한 합성 사진 만들기 [!DNL Stock] 이미지
+# Adobe [!DNL Stock]개 이미지로 사실적인 사진 합성 이미지 만들기
 
-탁월한 두 Adobe [!DNL Stock] 소셜 게시물에 사람들을 끌어들이는 사진
+두 개의 멋진 Adobe [!DNL Stock] 사진을 함께 모아 소셜 게시물에 사람들을 끌어보세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

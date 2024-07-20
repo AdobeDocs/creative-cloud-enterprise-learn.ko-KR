@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] 사용 사례 Tutorials
-description: Adobe에 대한 최신 정보 [!DNL Express] 사용 사례
+description: Adobe [!DNL Express] 사용 사례에 대한 최신 정보
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,13 +13,13 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] 사례 튜토리얼 사용
+# Adobe [!DNL Express] 사용 사례 자습서
 
 조직 내 다양한 팀이 Adobe Express을 통해 어떤 이점을 얻을 수 있는지 알아보십시오.
 
 ## 새로운 기능
 
-* [온라인 학습 강의의 프로모션 시각적 요소 만들기](promo-visual.md)
+* [온라인 학습 과정에 대한 홍보용 시각적 요소 만들기](promo-visual.md)
 온라인 학습 강의에서 매력적인 시각적 요소를 만드는 방법 알아보기
 * [연말 비디오 만들기](end-of-year-video.md)
 영감을 주는 연말 비디오 제작 방법 알아보기

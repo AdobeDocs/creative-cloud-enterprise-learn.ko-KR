@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 3%
     <div>
    <a href="cclibraries.md#tutorial1"><strong>CC Libraries 만들기</strong></a>
     </div>
-    <em>Adobe Creative Cloud Libraries를 통해 즐겨 사용하는 Creative Cloud 앱에서 로고, 색상 등을 관리하고, 구성하고, 액세스할 수 있습니다</em>
+    <em>Adobe Creative Cloud Libraries를 사용하면 자주 사용하는 Creative Cloud 앱에서 로고, 색상 등을 관리하고 구성하며 액세스할 수 있습니다.</em>
     <br>
   </td>
    <td>
@@ -37,7 +37,7 @@ ht-degree: 3%
     <div>
    <a href="cclibraries.md#tutorial2"><strong>CC Libraries 공유</strong></a>
     </div>
-    <em>보다 효율적으로 작업하고, 크리에이티브한 일관성을 보장하고, 팀과의 동기화 유지</em>
+    <em>보다 효율적으로 작업하고, 창의적인 일관성을 보장하고, 팀과 간편하게 동기화하세요.</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ ht-degree: 3%
 </tr>
 </table>
 
-## CC 라이브러리 만들기(4:38) {#tutorial1}
+## CC Libraries 만들기(4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
@@ -59,10 +59,10 @@ Adobe Creative Cloud Libraries를 통해 즐겨 사용하는 Creative Cloud 앱�
 * 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
 * 신규! Adobe XD과 완벽하게 통합
 
-**프레젠테이션 대상:**
+**발표자:**
 Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 
-## CC 라이브러리 공유(4:14) {#tutorial2}
+## CC Libraries 공유(4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
@@ -73,14 +73,14 @@ Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 * 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
 * 즐겨 사용하는 앱에서 바로 프로젝트 공동 작업을 손쉽게 수행할 수 있습니다
 
-**프레젠테이션 대상:**
+**발표자:**
 Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 
 ![CC Libraries 로고](../assets/cc_appicon_96.png)
 
 **CC Libraries 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/creative-cloud/help/libraries.html) 는 추가 튜토리얼, 새로운 기능, 커뮤니티 포럼 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/creative-cloud/help/libraries.html)은(는) 추가 자습서, 새로운 기능 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

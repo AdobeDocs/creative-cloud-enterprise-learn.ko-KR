@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # 공유 및 다운로드 방법
 
-PNG, JPEG 또는 PDF과 같은 다양한 파일 포맷으로 프로젝트를 다운로드하고 공유하는 옵션을 살펴보세요. 프로젝트를 웹에 게시하고 쉽게 액세스할 수 있도록 링크를 생성하거나, 각 플랫폼에 맞게 게시물을 사용자 정의하는 옵션을 사용하여 소셜 미디어 플랫폼에 직접 미디어를 예약하고 공유하세요.
+PNG, JPEG 또는 PDF과 같은 다양한 파일 포맷으로 프로젝트를 다운로드하고 공유하는 옵션을 살펴보세요. Publish은 웹에 프로젝트를 제공하고 간편하게 액세스할 수 있도록 링크를 생성하거나, 각 플랫폼에 맞게 게시물을 맞춤화하는 옵션을 사용하여 소셜 미디어 플랫폼에 직접 미디어를 예약하고 공유합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
 

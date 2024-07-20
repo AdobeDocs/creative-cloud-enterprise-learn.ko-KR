@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Adobe Fresco은 벡터 및 래스터 워크플로우와 클라우드 문서를 �
       <img alt="Adobe Fresco을 사용한 그리기 소개" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Adobe Fresco을 사용한 그리기 소개</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Adobe Fresco을 사용하여 그리기 소개</strong></a>
     </div>
-    <em>Adobe fresco의 강력한 선택 및 색상 편집 도구를 사용하여 기업 브랜딩 요구에 맞게 이미지를 극적으로 변경할 수 있습니다</em>
+    <em>Adobe fresco의 강력한 선택 및 색상 편집 도구를 사용하여 기업 브랜딩 요구에 맞게 이미지를 크게 변경하세요</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Adobe Fresco은 벡터 및 래스터 워크플로우와 클라우드 문서를 �
       <img alt="질감이 풍부한 아트워크 만들기 — Illustrator에 Fresco" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>질감이 풍부한 아트워크 만들기 — Illustrator에 Fresco</strong></a>
+   <a href="fresco.md#tutorial2"><strong>질감이 있는 아트워크 만들기—Illustrator에 Fresco</strong></a>
     </div>
-    <em>Adobe Fresco에서 텍스처를 페인트하고 드로잉한 다음 Illustrator에서 이를 사용하는 방법을 살펴보세요</em>
+    <em>Adobe Fresco에서 텍스처를 페인트하고 그려 Illustrator에서 사용하는 방법</em>을 살펴보세요.
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ Adobe Fresco은 벡터 및 래스터 워크플로우와 클라우드 문서를 �
 * iPhone의 새로운 Fresco 앱으로 장소에 상관없이 제작
 * 다른 모바일 및 데스크탑 앱에서 사용할 수 있도록 다양한 포맷으로 작업 내보내기
 
-**프레젠테이션 대상:**
+**발표자:**
 Liz Tanonis, 솔루션 컨설턴트(디지털 미디어)
 
 ## 질감이 풍부한 아트워크 만들기—Illustrator Fresco(4:10) {#tutorial2}
@@ -76,14 +76,14 @@ Adobe Fresco에서 텍스처를 페인트하고 그려 Illustrator에서 사용�
 * Illustrator의 이미지 추적 도구를 사용하여 아트워크를 벡터로 변환
 * Illustrator에서 벡터 아트워크에 핸드메이드 텍스처 적용
 
-**프레젠테이션 대상:**
+**발표자:**
 Liz Tanonis, 솔루션 컨설턴트(디지털 미디어)
 
 ![Fresco 로고](../assets/fr_appicon_96.png)
 
 **Fresco 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/support/adobe-fresco.html) 은(는) 추가 튜토리얼을 위한 허브입니다. [새로운 기능](https://helpx.adobe.com/fresco/using/whats-new.html)및 커뮤니티 포럼에 대한 링크를 제공합니다.
+[학습 및 지원](https://helpx.adobe.com/support/adobe-fresco.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/fresco/using/whats-new.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

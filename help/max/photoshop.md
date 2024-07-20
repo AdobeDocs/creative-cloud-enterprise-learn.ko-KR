@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Photoshop은 세계 최고 수준의 이미징 및 그래픽 디자인 소프트
     <div>
    <a href="photoshop.md#tutorial1"><strong>캠페인에 맞게 이미지 편집</strong></a>
     </div>
-    <em>Adobe Photoshop의 강력한 선택 및 색상 편집 도구를 사용하여 기업 브랜딩 요구에 맞게 이미지를 극적으로 변경합니다</em>
+    <em>Adobe Photoshop의 강력한 선택 및 색상 편집 도구를 사용하여 회사 브랜딩 요구에 맞게 이미지를 크게 변경하세요</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ Photoshop은 세계 최고 수준의 이미징 및 그래픽 디자인 소프트
     <div>
     <a href="photoshop.md#tutorial2"><strong>하늘 선택 및 바꾸기</strong></a>
     </div>
-    <em>이미지에서 하늘을 자동으로 선택하고 선택한 하늘로 대체하여 선택 영역에 맞게 이미지의 색상을 자동 조정합니다</em>
+    <em>이미지에서 하늘을 자동으로 선택하고 선택한 하늘로 대체하여 선택 영역에 맞게 이미지의 색상을 자동으로 조정</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ Adobe Photoshop의 강력한 선택 및 색상 편집 도구를 사용하여 기
 * 더 나은 결과를 위해 브러시를 다양한 모양으로 만들 수 있습니다.
 * Adobe Sensei은 일상적인 작업에 인공 지능을 활용할 수 있도록 지원합니다.
 
-**프레젠테이션 대상:**
+**발표자:**
 A.J Wood, 선임 솔루션 컨설턴트(디지털 미디어)
 
 ## 하늘 선택 및 바꾸기(2:16) {#tutorial2}
@@ -76,14 +76,14 @@ A.J Wood, 선임 솔루션 컨설턴트(디지털 미디어)
 * [하늘 대체]는 출력을 더 다듬기 위해 모든 마스크, 조정 및 이미지를 포함하는 레이어 그룹으로 저장합니다
 
 
-**프레젠테이션 대상:**
+**발표자:**
 A.J Wood, 선임 솔루션 컨설턴트(디지털 미디어)
 
 ![Photoshop 로고](../assets/ps_appicon_96.png)
 
 **Photoshop 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/support/photoshop.html) 은(는) 추가 튜토리얼을 위한 허브입니다. [새로운 기능](https://helpx.adobe.com/photoshop/using/whats-new.html)및 커뮤니티 포럼에 대한 링크를 제공합니다.
+[학습 및 지원](https://helpx.adobe.com/support/photoshop.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/photoshop/using/whats-new.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

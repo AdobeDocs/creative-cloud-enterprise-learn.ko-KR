@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,12 +22,14 @@ Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 �
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="CC 데스크탑 앱 탐색: Creative Cloud을 위한 허브" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="CC 데스크탑 앱 탐색: 내 허브 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>CC 데스크탑 앱 탐색: Creative Cloud을 위한 허브</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>CC 데스크톱 앱 탐색: 허브 
+Creative Cloud</strong></a>
     </div>
-    <em>Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리하는 허브입니다.</em>
+    <em>Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리하는 허브입니다!</em>
     <br>
   </td>
   <td>
@@ -58,5 +60,5 @@ Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 �
 * 튜토리얼 살펴보기
 * Behance에서 작업 공유
 
-**프레젠테이션 대상:**
+**발표자:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)

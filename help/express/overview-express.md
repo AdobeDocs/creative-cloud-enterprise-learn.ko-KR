@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] 개요
-description: Adobe에 대한 최신 정보 [!DNL Express]
+description: Adobe  [!DNL Express]에서 최신식 사용
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate

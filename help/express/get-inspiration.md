@@ -1,19 +1,19 @@
 ---
-title: 영감을 빠르게 얻기
-description: 간단한 디자인을 만드는 방법을 익혀 개성을 표현해 보세요
+title: 빠른 영감 얻기
+description: 첫 디자인을 제작하는 방법을 익혀 자신을 표현해 보세요
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 2608daf8-eec4-4e67-acda-e0ea047e6688
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 102ffaf2-8906-409f-8920-d7c2bc4e5469
+source-git-commit: 068b3b3cc5c5d6281e06d810a1ee5e3242227881
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# 영감을 빠르게 얻기
+# 빠른 영감 얻기
 
-디자이너가 아닙니까? 문제 없어요 Adobe Express에서 빠르게 아이디어를 얻는 방법
+디자이너가 아닙니까? 문제 없어. Adobe Express에서 빠르게 영감을 얻는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420207?quality=12&learn=on&hidetitle=true)

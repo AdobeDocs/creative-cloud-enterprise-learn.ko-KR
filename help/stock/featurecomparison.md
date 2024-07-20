@@ -1,6 +1,6 @@
 ---
-title: Adobe을 사용하여 제품 기능 비교 차트 만들기 [!DNL Stock]
-description: 제품 가격 플랜을 비교하여 잠재 고객에게 필요한 정보를 한눈에 제공하는 그래픽을 만듭니다
+title: Adobe  [!DNL Stock]을(를) 사용하여 제품 기능 비교 차트 만들기
+description: 제품 가격 계획을 비교하여 잠재 고객에게 필요한 정보를 한 눈에 제공하는 그래픽을 만듭니다.
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 사용하여 제품 기능 비교 차트 만들기 [!DNL Stock]
+# Adobe [!DNL Stock]을(를) 사용하여 제품 기능 비교 차트 만들기
 
-제품 가격 플랜을 비교하여 잠재 고객에게 필요한 정보를 한눈에 제공하는 그래픽을 만듭니다.
+제품 가격 계획을 비교하여 잠재 고객에게 필요한 정보를 한 눈에 제공하는 그래픽을 만듭니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

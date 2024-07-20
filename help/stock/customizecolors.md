@@ -1,6 +1,6 @@
 ---
-title: Adobe의 색상 사용자 정의 [!DNL Stock] 벡터 일러스트레이션
-description: 멋진 일러스트레이션으로 프로젝트에 세련미를 더할 수 있습니다. Adobe에서 원하는 벡터 찾기 [!DNL Stock]를 선택하고 Adobe Illustrator을 사용하여 프로젝트의 팔레트에 색상을 일치시킵니다
+title: Adobe [!DNL Stock] 벡터 일러스트레이션에서 색상 사용자 지정
+description: 멋진 일러스트레이션으로 모든 프로젝트에 광택을 추가합니다. Adobe  [!DNL Stock]에서 완벽한 벡터를 찾은 다음 Adobe Illustrator을 사용하여 색상을 프로젝트 팔레트와 일치시킵니다.
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe의 색상 사용자 정의 [!DNL Stock] 벡터 일러스트레이션
+# Adobe [!DNL Stock] 벡터 일러스트레이션의 색상 사용자 지정
 
-멋진 일러스트레이션으로 프로젝트에 세련미를 더할 수 있습니다. Adobe에서 원하는 벡터 찾기 [!DNL Stock]를 선택하고 Adobe Illustrator을 사용하여 프로젝트의 팔레트에 맞게 색상을 일치시킵니다.
+멋진 일러스트레이션으로 모든 프로젝트에 광택을 추가합니다. Adobe [!DNL Stock]에서 완벽한 벡터를 찾은 다음 Adobe Illustrator을 사용하여 색상을 프로젝트의 팔레트와 일치시킵니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

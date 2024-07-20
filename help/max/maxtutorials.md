@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 24%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 24%
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>브랜딩, 제품 샷 및 패키지 디자인을 위한 사실적인 3D 이미지 제작</em>
+    <em>브랜딩, 제품 샷 및 패키지 디자인을 위한 사실적인 3D 이미지 만들기</em>
     <br>
   </td>
   <td>
@@ -59,7 +59,7 @@ ht-degree: 24%
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>인쇄 및 디지털 퍼블리싱을 위한 페이지 디자인 및 레이아웃</em>
+    <em>인쇄 및 디지털 출판을 위한 페이지 디자인 및 레이아웃</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ ht-degree: 24%
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>데스크탑에서 세련된 이미지, 그래픽 및 아트 편집, 합성 및 제작</em>
+    <em>데스크탑에서 세련된 이미지, 그래픽 및 아트 편집, 합성 및 만들기</em>
     <br>
   </td>
   <td>
@@ -79,7 +79,7 @@ ht-degree: 24%
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>장소에 상관없이 온라인 비디오 제작 및 공유</em>
+    <em>장소에 상관없이 온라인 비디오 만들기 및 공유</em>
     <br>
   </td>
 </tr>
@@ -128,7 +128,7 @@ ht-degree: 24%
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>어디에서나 자유롭게 드로잉 및 페인팅</em>
+    <em>어디에서나 자유롭게 그리기 및 페인팅</em>
     <br>
   </td>
   <td>
@@ -148,9 +148,9 @@ ht-degree: 24%
       <img alt="iPad용 Photoshop" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>iPad용 Photoshop</strong></a>
+    <a href="photoshopipad.md"><strong>iPad의 Photoshop</strong></a>
     </div>
-    <em>데스크탑 및 iPad에서 세련된 이미지, 그래픽, 아트 제작, 편집 및 합성</em>
+    <em>데스크탑 및 iPad에서 세련된 이미지, 그래픽 및 아트 편집, 합성 및 만들기</em>
     <br>
   </td>
   <td>
@@ -185,9 +185,9 @@ ht-degree: 24%
       <img alt="Creative Cloud 데스크탑 앱" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 데스크탑 앱</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 데스크톱 앱</strong></a>
     </div>
-    <em>Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리하는 허브입니다.</em>
+    <em>Creative Cloud 데스크탑 앱은 CC 앱, 서비스 및 공동 작업 등을 관리하는 허브입니다!</em>
     <br>
   </td>
   <td>
@@ -197,7 +197,7 @@ ht-degree: 24%
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.</em>
+    <em>에셋을 바로 사용할 수 있고 프로젝트를 브랜드에 보관할 수 있습니다</em>
     <br>
   </td>
 </tr>
@@ -209,7 +209,7 @@ ht-degree: 24%
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>맞춤형 자동화와 결합된 정교한 InDesign 도구</em>
+    <em>사용자 지정된 자동화와 결합된 정교한 InDesign 도구</em>
     <br>
   </td>
  <td>
@@ -241,7 +241,7 @@ ht-degree: 24%
     <div>
     <a href="handsonproject.md"><strong>나만의 얼굴 마스크 만들기</strong></a>
     </div>
-    <em>Design to Print Adobe 플러그인을 사용하면 수백 가지 Zazzle 제품에 대한 디자인을 시각화하고 온라인 마켓플레이스에 바로 게시할 수 있습니다</em>
+    Adobe <em>Design to Print 플러그인을 사용하면 수백 가지 Zazzle 제품에서 디자인을 시각화하고 온라인 마켓플레이스에 바로 게시할 수 있습니다</em>
     <br>
   </td>
   <td>

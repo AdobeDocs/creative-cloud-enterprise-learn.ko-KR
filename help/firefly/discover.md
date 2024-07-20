@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # 탐색 Adobe Firefly
 
-탐색 Adobe Firefly [창조성의 미래](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) 상업적 안전 사용 및 혁신을 위해 설계된 생성형 인공지능 Adobe Firefly 사용해 보기 [여기](https://firefly.adobe.com/).
+상업적 안전과 혁신을 위해 설계된 생성형 인공지능을 통해 [창의성의 미래](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html)를 Adobe Firefly 하세요. Adobe Firefly [여기](https://firefly.adobe.com/)를 사용해 보세요.
 
 <br> 
 

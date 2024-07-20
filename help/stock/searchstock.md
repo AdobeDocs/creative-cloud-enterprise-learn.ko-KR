@@ -1,6 +1,6 @@
 ---
-title: 검색 Adobe [!DNL Stock] 라이선스 내역
-description: 조직의 Adobe을 빠르게 검색하는 방법에 대해 알아봅니다. [!DNL Stock] 기업용 Creative Cloud의 라이선싱 기록
+title: Adobe [!DNL Stock] 라이선스 내역 검색
+description: 기업용 Creative Cloud에서 조직의 Adobe [!DNL Stock] 라이선싱 기록을 빠르게 검색하는 방법 알아보기
 feature: Licensable Assets
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 검색 Adobe [!DNL Stock] 라이선스 내역
+# Adobe [!DNL Stock] 라이선스 내역 검색
 
-이 비디오 튜토리얼에서는 조직의 Adobe을 빠르게 검색하는 방법을 살펴봅니다 [!DNL Stock] 기업용 Creative Cloud의 라이선스 내역
+이 비디오 튜토리얼에서는 기업용 Creative Cloud에서 조직의 Adobe [!DNL Stock] 라이선싱 내역을 빠르게 검색하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
