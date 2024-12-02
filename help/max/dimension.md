@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Dimension]"
-description: "[!DNL Dimension]을(를) 사용하면 브랜드 시각화, 일러스트레이션, 제품 목업, 패키징 디자인 및 기타 크리에이티브 작업을 쉽게 빌드할 수 있습니다."
+title: '[!DNL Dimension]'
+description: '[!DNL Dimension]을(를) 사용하면 브랜드 시각화, 일러스트레이션, 제품 목업, 패키징 디자인 및 기타 크리에이티브 작업을 쉽게 빌드할 수 있습니다.'
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -64,4 +64,4 @@ Jim Babbage, 수석 솔루션 컨설턴트(디지털 미디어)
 
 **2020년 10월 릴리스**
 
-이러한 기능 사용을 시작해 보세요! Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.
+Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드하여 이러한 기능(및 기타!)을 사용하십시오.

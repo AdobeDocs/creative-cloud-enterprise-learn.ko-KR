@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Rush]"
+title: '[!DNL Rush]'
 description: Premiere [!DNL Rush] 은(는) 그 어느 때보다 쉽게 온라인 콘텐츠를 만들고 공유할 수 있는 최초의 올인원 크로스 디바이스 비디오 편집 앱입니다
 feature: Video Editing
 role: User
@@ -68,4 +68,4 @@ A.J. Wood, 솔루션 컨설턴트(디지털 미디어)
 
 **2020년 10월 릴리스**
 
-이러한 기능 사용을 시작해 보세요! Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.
+Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드하여 이러한 기능(및 기타!)을 사용하십시오.

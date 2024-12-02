@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Stock]"
+title: '[!DNL Stock]'
 description: Adobe [!DNL Stock] for enterprise를 사용하면 크리에이티브 팀이 2억 개가 넘는 이미지, 비디오, 템플릿, 일러스트레이션, 오디오 파일 및 3D 에셋을 이용할 수 있습니다.
 feature: Licensable Assets
 role: User
@@ -88,4 +88,4 @@ Emily Palmer, 솔루션 컨설턴트(디지털 미디어)
 
 **2020년 10월 릴리스**
 
-이러한 기능 사용을 시작해 보세요! Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.
+Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드하여 이러한 기능(및 기타!)을 사용하십시오.
