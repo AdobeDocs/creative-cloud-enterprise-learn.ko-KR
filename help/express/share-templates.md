@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="레이어를 잠그는 방법 및 이유" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="레이어를 잠그는 방법 및 이유" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>레이어를 잠그는 방법 및 이유</strong></a>
+            </div>
+            <em>템플릿의 다양한 요소를 잠그는 것이 중요한 이유를 알아보세요</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="템플릿 만들기" src="assets/create-template.png" />
+            <img alt="효율성 극대화: 재사용 가능한 템플릿 만들기" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>효율성 극대화: 재사용 가능한 템플릿 만들기</strong></a>
+         </div>
+         <em>템플릿을 사용하여 브랜드 일관성, 효율성, 전문성 및 비용 절감을 조직에 제공하는 방법</em>을 살펴보세요.
+         <br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="템플릿 사용 방법" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="템플릿과의 원활한 브랜드 일관성" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>템플릿과의 브랜드 일관성 유지</strong></a>
+         </div>
+         <em>조직 전체에서 온브랜드 콘텐츠를 빠르고 효율적으로 만드는 방법을 알아보세요</em>
+         <br>
+   </td>
     <td>
       <img alt="스페이서" src="../assets/Whitespacer.png" />
       <div>
