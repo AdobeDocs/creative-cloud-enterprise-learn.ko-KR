@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Adobe Firefly 기반의 생성형 인공지능으로 돋보이는 놀라운 작�
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="레이어를 잠그는 방법 및 이유" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>레이어를 잠그는 방법 및 이유</strong></a>
+            </div>
+            <em>템플릿의 다양한 요소를 잠그는 것이 중요한 이유를 알아보세요</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="템플릿 만들기" src="assets/create-template.png" />
+            <img alt="효율성 극대화: 재사용 가능한 템플릿 만들기" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>효율성 극대화: 재사용 가능한 템플릿 만들기</strong></a>
+         </div>
+         <em>템플릿을 사용하여 브랜드 일관성, 효율성 및 비용을 조직에 절감하는 방법에 대해 알아보세요</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="템플릿 저장 및 공유" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>템플릿 저장 및 공유</strong></a>
+         </div>
+         <em>팀의 브랜드 키트 또는 라이브러리에 템플릿을 저장하고 공유하는 방법</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="템플릿 사용 방법" src="assets/use-templates.png" />
+            <img alt="템플릿과의 원활한 브랜드 일관성" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>템플릿과의 브랜드 일관성 유지</strong></a>
+         </div>
+         <em>조직 전체에서 온브랜드 콘텐츠를 빠르고 효율적으로 만드는 방법을 알아보세요</em>
+         <br>
    </td>
 </tr>
 </table>

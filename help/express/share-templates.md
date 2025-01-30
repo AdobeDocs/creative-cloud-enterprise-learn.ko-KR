@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
          <div>
          <a href="create-templates.md"><strong>효율성 극대화: 재사용 가능한 템플릿 만들기</strong></a>
          </div>
-         <em>템플릿을 사용하여 브랜드 일관성, 효율성, 전문성 및 비용 절감을 조직에 제공하는 방법</em>을 살펴보세요.
+         <em>템플릿을 사용하여 브랜드 일관성, 효율성 및 비용을 조직에 절감하는 방법에 대해 알아보세요</em>
          <br>
    </td>
     <td>
