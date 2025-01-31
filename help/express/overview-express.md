@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: c55874d6e3477aa49d6ef4e35569c3d582d0816a
+source-git-commit: d529664e5d0bb6f97c2624e6ce6e655cfc1e0ac9
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 5%
+source-wordcount: '251'
+ht-degree: 10%
 
 ---
 
@@ -40,122 +40,211 @@ ht-degree: 5%
   {target = _self}
   {title = Getting started}
   {description = Learn how to navigate, use Quick actions, and explore thousands of professionally designed templates}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_11da3118b5b5e9240cee54d84d0a53b93a5f564d5.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1931f3f4ac79ea58a02023597b968a59c73086f91.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks
   {target = _self}
   {title = Basic tasks}
   {description = Learn how to make content that really stands out}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1d371d6487ef5279f42ce3392bd7c9e0449ad2e63.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_15cf8f0d1a7756e41a06cfd9c0c469e0301b1a58f.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation
   {target = _self}
   {title = Animation}
   {description = Take your content to the next level with custom animations}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_10ccd063d4336b984c17c2419090f01454111660c.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1a693e4a61f73529a4dd9febe4d323f68896708b1.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks
   {target = _self}
   {title = Advanced tasks}
   {description = Dive deeper into Gen AI, PDF editing, and more}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_14ac40625ddf85c6af4a99cc2cd27732a564508eb.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_113c07a6e630639c6f64ca07cc60414d1ccf56275.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video
   {target = _self}
   {title = Video}
   {description = Video made easy. Add Adobe Stock videos and music for content that really stands out}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1eee90d39e1002d4ed1ebae216c1b0603de61461b.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_130da8dfc5fdde71219cabb873d95e84e3d0cbc03.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates
   {target = _self}
   {title = Templates}
   {description = Learn how bring brand consistency, efficiency, and cost savings to your organization}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1493c9be9ea581855e841c9b9d5479977f4df8cab.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials
   {target = _self}
   {title = Use cases}
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
-  {https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_173c02cd2ed892e1d570e939c3b2f463bc14da843.png?width=400&format=webply&optimize=medium}
+  {https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1bf41d6490283a6dd13de00d05c2860c9b389a3fe.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
   
 -->
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="get-started.md">
-         <img alt="시작" src="assets/get-started.png" />
-      </a>
-      <div>
-          <a href="get-started.md"><strong>시작</strong></a>
-          </div>
-          <em>수천 개에 이르는 전문적으로 디자인된 템플릿을 탐색하고, 빠른 작업을 사용하고, 탐색하는 방법을 알아보세요</em>
-          <br>
-   </td>
-   <td>
-      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks">
-         <img alt="기본 작업" src="assets/basic-tasks.png" />
-      </a>
-      <div>
-          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks"><strong>기본 작업</strong></a>
-          </div>
-          <em>돋보이는 콘텐츠를 만드는 방법</em>
-        <br>
-   </td>
-   <td>
-      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to?#animation">
-         <img alt="애니메이션" src="assets/animation.png" />
-      </a>
-      <div>
-          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to?#animation"><strong>애니메이션</strong></a>
-          </div>
-          <em>사용자 지정 애니메이션으로 콘텐츠의 수준 향상</em>
-        <br>
-   </td>
-   <td>
-      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks">
-         <img alt="고급 작업" src="assets/advanced-tasks.png" />
-      </a>
-      <div>
-          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks"><strong>고급 작업</strong></a>
-          </div>
-          <em>AI 세대, PDF 편집 등에 대해 자세히 알아보기</em>
-        <br>
-   </td>
-</tr>
-<tr>
-  <td>
-      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video">
-         <img alt="비디오" src="assets/video.png" />
-      </a>
-      <div>
-          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video"><strong>비디오</strong></a>
-          </div>
-          <em>비디오가 간단해졌습니다. 돋보이는 콘텐츠에 Adobe Stock 비디오 및 음악 추가</em>
-        <br>
-   </td>
-   <td>
-      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates">
-         <img alt="템플릿" src="assets/templates.png" />
-      </a>
-      <div>
-          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates"><strong>템플릿</strong></a>
-          </div>
-          <em>브랜드 일관성, 효율성 및 비용 절감을 조직에 제공하는 방법</em>을 살펴보세요.
-        <br>
-   </td>
-   <td>
-      <a href="overview-express-use-case-tutorials.md">
-         <img alt="사용 사례" src="assets/use-case-tutorials.png" />
-      </a>
-      <div>
-          <a href="overview-express-use-case-tutorials.md"><strong>사용 사례</strong></a>
-          </div>
-          <em>조직 내의 여러 팀이 Adobe Express을 사용하여 이익을 얻는 방법에 대해 알아보세요</em>
-        <br>
-   </td>
-</tr>
-</table>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" title="시작" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1931f3f4ac79ea58a02023597b968a59c73086f91.png?width=400&format=webply&optimize=medium" alt="시작"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" title="시작">시작</a>
+                    </p>
+                    <p class="is-size-6">수천 개에 이르는 전문적으로 디자인된 템플릿을 탐색하고, 빠른 작업을 사용하고, 탐색하는 방법에 대해 알아보십시오</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Basic tasks">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" title="기본 작업" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_15cf8f0d1a7756e41a06cfd9c0c469e0301b1a58f.png?width=400&format=webply&optimize=medium" alt="기본 작업"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" title="기본 작업">기본 작업</a>
+                    </p>
+                    <p class="is-size-6">돋보이는 콘텐츠를 만드는 방법 알아보기</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Animation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" title="애니메이션" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1a693e4a61f73529a4dd9febe4d323f68896708b1.png?width=400&format=webply&optimize=medium" alt="애니메이션"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" title="애니메이션">애니메이션</a>
+                    </p>
+                    <p class="is-size-6">맞춤형 애니메이션으로 콘텐츠를 한 차원 높여 보세요.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced tasks">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" title="고급 작업" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_113c07a6e630639c6f64ca07cc60414d1ccf56275.png?width=400&format=webply&optimize=medium" alt="고급 작업"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" title="고급 작업">고급 작업</a>
+                    </p>
+                    <p class="is-size-6">Gen AI, PDF 편집 등에 대해 자세히 알아보기</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" title="비디오" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_130da8dfc5fdde71219cabb873d95e84e3d0cbc03.png?width=400&format=webply&optimize=medium" alt="비디오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" title="비디오">비디오</a>
+                    </p>
+                    <p class="is-size-6">간편하게 비디오를 제작할 수 있습니다. 돋보이는 콘텐츠에 Adobe Stock 비디오 및 음악 추가</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Templates">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" title="템플릿" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1493c9be9ea581855e841c9b9d5479977f4df8cab.png?width=400&format=webply&optimize=medium" alt="템플릿"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" title="템플릿">템플릿</a>
+                    </p>
+                    <p class="is-size-6">브랜드 일관성, 효율성 및 비용 절감을 실현하는 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Use cases">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" title="사용 사례" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials./media_1c09c87fff32e8ed0ffe00c509b216e6dd8f44206.png?width=400&format=png&optimize=medium" alt="사용 사례"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" title="사용 사례">사용 사례</a>
+                    </p>
+                    <p class="is-size-6">조직 내 다양한 팀이 Adobe Express을 사용하여 얻는 이점에 대해 알아보십시오</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
