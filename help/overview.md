@@ -5,9 +5,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: b19c63ed79c7baabb40dc0272de4578a73ef6e2b
+source-git-commit: e3a0f88410bba532ef108f64c41946031478ca7f
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '260'
 ht-degree: 11%
 
 ---
@@ -262,92 +262,3 @@ ht-degree: 11%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="cce/overview-cce.md">
-         <img alt="기업 튜토리얼에 대한 Creative Cloud" src="assets/CCecard.png" />
-      </a>
-      <div>
-          <a href="cce/overview-cce.md"><strong>기업 튜토리얼 Creative Cloud</strong></a>
-          </div>
-          <em>엔터프라이즈 관점에서 최신 Creative Cloud 릴리스의 새로운 기능에 대해 알아보세요</em>
-          <br>
-   </td>
-   <td>
-      <a href="express/overview-express.md">
-         <img alt="Adobe Express" src="assets/Expresscard.png" />
-      </a>
-      <div>
-          <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
-          </div>
-          <em>돋보이는 멋진 콘텐츠를 만들기 시작</em>
-        <br>
-   </td>
-   <td>
-      <a href="firefly/overview-firefly.md">
-         <img alt="Firefly" src="assets/Fireflycard.png" />
-      </a>
-      <div>
-          <a href="firefly/overview-firefly.md"><strong>Firefly</strong></a>
-          </div>
-          <em>Adobe 제품의 생성형 인공지능 모델에 대해 자세히 알아보기</em>
-        <br>
-   </td>
-   <td>
-      <a href="stock/overview-stock.md">
-         <img alt="Adobe Stock" src="assets/Stockcard.png" />
-      </a>
-      <div>
-          <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
-          </div>
-          <em>고품질 디지털 이미지, 일러스트레이션, 비디오, 오디오, 템플릿 등</em>
-        <br>
-   </td>
-</tr>
-<tr>
-  <td>
-      <a href="3di/overview-3di.md">
-         <img alt="Adobe 3D 및 VR" src="assets/3Dcard.png" />
-      </a>
-      <div>
-          <a href="3di/overview-3di.md"><strong>3D 및 VR Adobe</strong></a>
-          </div>
-          <em>브랜딩, 제품 샷 및 패키지 디자인을 위한 사실적인 3D 이미지 만들기</em>
-        <br>
-   </td>
-   <td>
-      <a href="dva/overview-dva.md">
-         <img alt="Adobe 비디오" src="assets/Videocard.png" />
-      </a>
-      <div>
-          <a href="dva/overview-dva.md"><strong>Adobe 비디오</strong></a>
-          </div>
-          <em>비디오로 아이디어를 실현하세요</em>
-        <br>
-   </td>
-   <td>
-      <a href="xd/overview-xd.md">
-         <img alt="Adobe XD" src="assets/XDcard.png" />
-      </a>
-      <div>
-          <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-          </div>
-          <em>사용자 경험 디자인, 프로토타이핑 및 공유</em>
-        <br>
-   </td>
-    <td>
-      <a href="max/overview-max.md">
-         <img alt="Adobe MAX" src="assets/Maxcard.png" />
-      </a>
-      <div>
-          <a href="max/overview-max.md"><strong>Adobe MAX</strong></a>
-          </div>
-          <em>MAX 2020 Enterprise 세션에 대해 자세히 알아보기</em>
-        <br>
-   </td>
-</tr>
-</table>
-<!-- END COMMENT -->
