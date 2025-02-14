@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [오디오를 추가하는 방법](express/add-audio-video.md)
       + [비디오 내보내기 방법](express/export-video.md)
       + [레이어를 잠그는 방법 및 이유](express/lock-layers.md)
-      + [템플릿 만들기](express/create-templates.md)
+      + [효율성 극대화: 재사용 가능한 템플릿 만들기](express/create-templates.md)
       + [템플릿 저장 및 공유](express/share-templates.md)
       + [템플릿 사용 방법](express/use-templates.md)
    + 사례 자습서 {#expressusecase} 사용

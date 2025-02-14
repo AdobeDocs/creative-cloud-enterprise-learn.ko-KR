@@ -1,14 +1,14 @@
 ---
-title: 효율성 극대화—재사용 가능한 템플릿 만들기
+title: 효율성 극대화 - 재사용 가능한 템플릿 만들기
 description: Adobe Express 템플릿을 사용하여 브랜드의 일관성, 효율성, 전문성 및 비용을 절감하는 방법에 대해 알아보십시오
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
