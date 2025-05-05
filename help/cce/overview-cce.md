@@ -486,7 +486,7 @@ ht-degree: 1%
       <img alt="Photoshop 및 Adobe을 사용하여 Cinemagraphs를 빠르게 제작 [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Photoshop 및 Adobe [!DNL Stock](PDF)을(를) 사용하여 Cinemagraphs를 빠르게 만들기</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Photoshop 및 Adobe [!DNL Stock] (PDF)을(를) 사용하여 Cinemagraphs를 빠르게 만들기</strong></a>
     </div>
     <em>Photoshop에서 시선을 사로잡는 시네마그래프를 빠르게 조합하기 위해 [!DNL Stock] Adobe에서 비디오를 매끄럽게 반복하는 중</em>
     <br>

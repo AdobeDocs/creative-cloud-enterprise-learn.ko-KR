@@ -19,7 +19,7 @@ ht-degree: 0%
 
 위의 이미지를 보면, 보이는 모든 것이 실재한다고 가정해도 무리가 아닙니다. 그러나 실사적인 3D 이미지 렌더링의 기술적 진보로 인해 무엇이 실제이고 무엇이 가상인지 파악하는 것이 그 어느 때보다 어려워졌습니다. 이 경우 이미지는 실제, 사진, 렌더링된 3D 콘텐츠가 혼합되어 있으며, 이는 바로 기업이 투자하고 있는 3D 디자인 유형입니다.
 
-James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면](assets/Photorealistic_2.jpg)![
+James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면![&#128279;](assets/Photorealistic_2.jpg)
 
 3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
 

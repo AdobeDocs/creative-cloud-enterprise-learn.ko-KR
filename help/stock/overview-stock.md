@@ -318,7 +318,7 @@ ht-degree: 0%
          <img alt="Photoshop CC 및 Adobe으로 핼러윈 영화 만들기 [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Photoshop CC 및 Adobe [!DNL Stock](PDF)을(를) 사용하여 핼러윈 시네마그래프 만들기</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Photoshop CC 및 Adobe [!DNL Stock] (PDF)을(를) 사용하여 핼러윈 시네마그래프 만들기</strong></a>
       </div>
       <em>Adobe Photoshop으로 비디오, 일러스트레이션 및 사진을 합성하여 시네마그래프 만들기</em>
       <br>

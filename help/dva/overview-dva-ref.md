@@ -141,7 +141,7 @@ ht-degree: 1%
       <img alt="Adobe Premiere에서 모션 그래픽 템플릿을 사용하여 애니메이션 타이틀 만들기 [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Adobe Premiere [!DNL Rush](PDF)에서 모션 그래픽 템플릿을 사용하여 애니메이션 타이틀 만들기</strong></a>
+   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Adobe Premiere [!DNL Rush] (PDF)에서 모션 그래픽 템플릿을 사용하여 애니메이션 타이틀 만들기</strong></a>
     </div>
     <em>스토리에 맞게 전문적으로 디자인된 모션 그래픽 템플릿을 추가하거나 개인 브랜드에 어울리는 동영상을 더욱 멋지게 만들어 보세요</em>
     <br>
@@ -178,7 +178,7 @@ ht-degree: 1%
          <img alt="Adobe Premiere에서 자동 더킹으로 음악과 대화 또는 내레이션을 매끄럽게 결합 [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
       </a>
       <div>
-      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>음악 및 대화 또는 내레이션을 [!DNL Adobe Premiere Rush](PDF)의 자동 더킹과 매끄럽게 결합</strong></a>
+      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>음악 및 대화 또는 내레이션을 [!DNL Adobe Premiere Rush] (PDF)의 자동 더킹과 매끄럽게 결합</strong></a>
       </div>
       <em>Adobe Premiere [!DNL Rush]은(는) 사용하기 쉬운 앱에서 고급 비디오 편집 기능을 제공하므로 누구나 전문가 수준의 비디오를 빠르게 만들 수 있습니다</em>
       <br>

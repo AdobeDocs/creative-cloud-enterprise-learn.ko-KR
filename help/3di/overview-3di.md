@@ -34,7 +34,7 @@ ht-degree: 0%
       <img alt="Adobe [!DNL Stock]을(를) 사용하여 사실적인 3D 목업 만들기 [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Adobe [!DNL Stock] 및 [!DNL Dimension](PDF)로 사실적인 3D 목업 만들기</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Adobe [!DNL Stock] 및 [!DNL Dimension] (PDF)로 사실적인 3D 목업 만들기</strong></a>
     </div>
     <em>Adobe [!DNL Stock]을(를) 사용하여 2D 디자인과 3D 모델을 쉽게 결합하고 Adobe [!DNL Dimension]</em>에 그래픽을 배치합니다.
     <br>
@@ -44,7 +44,7 @@ ht-degree: 0%
       <img alt="Adobe을 사용하여 3D 오브젝트에서 텍스타일 디자인 또는 패턴 시각화 [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Adobe [!DNL Dimension](PDF)을(를) 사용하여 3D 개체에서 텍스타일 디자인 또는 패턴 시각화</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Adobe [!DNL Dimension] (PDF)을(를) 사용하여 3D 개체에서 텍스타일 디자인 또는 패턴 시각화</strong></a>
     </div>
     <em>몇 분 안에 최종 제품의 초현실적인 표현 만들기</em>
     <br>

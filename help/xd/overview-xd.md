@@ -44,7 +44,7 @@ Adobe XD은 웹 사이트, 앱, 음성 인터페이스, 게임 및 기타 유형
       <img alt="XD 및 Adobe으로 확대/축소 가능한 전자상거래 사진 만들기 [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>XD 및 Adobe [!DNL Stock](PDF)로 확대 가능한 전자 상거래 사진 만들기</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>XD 및 Adobe [!DNL Stock] (PDF)로 확대 가능한 전자 상거래 사진 만들기</strong></a>
     </div>
     <em>고해상도 사진과 Adobe XD의 자동 애니메이트 기능을 결합하면 웹 사이트에 더 매력적인 경험을 디자인할 수 있습니다</em>
     <br>

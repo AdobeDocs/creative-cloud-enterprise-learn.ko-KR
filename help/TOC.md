@@ -19,7 +19,7 @@ ht-degree: 4%
 # 기업 Tutorials Creative Cloud {#cce-learning-hub}
 
 + [개요](overview.md)
-+ 기업 {#cceoverview}에 대한 Creative Cloud
++ 기업에 대한 Creative Cloud {#cceoverview}
    + [개요](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
       + [콘텐츠 크리에이터용 Acrobat](cce/acrobat-content-creators.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [효율성 극대화: 재사용 가능한 템플릿 만들기](express/create-templates.md)
       + [템플릿 저장 및 공유](express/share-templates.md)
       + [템플릿 사용 방법](express/use-templates.md)
-   + 사례 자습서 {#expressusecase} 사용
+   + 사례 자습서 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
       + [이벤트에 대한 다중 채널 HR 콘텐츠 만들기](express/create-hr-content.md)
       + [온라인 학습 강의의 프로모션 시각적 요소 만들기](express/promo-visual.md)
@@ -174,7 +174,7 @@ ht-degree: 4%
    + [개요](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
    + [Adobe XD에서 [!UICONTROL 구성 요소]에 익숙해지세요.](xd/components.md)
-+ {#deploy} 배포 및 관리
++ 배포 및 관리{#deploy}
    + [개요](deploy/overview-deploy.md)
    + [시리얼 번호 만료](deploy/cceserial.md)
    + [지정된 사용자 라이선싱](deploy/nameduserlicensing.md)
