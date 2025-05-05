@@ -17,7 +17,7 @@ ht-degree: 0%
 
 조직 전체에 걸쳐 온브랜드 콘텐츠를 빠르고 효율적으로 제작하는 방법에 대해 알아봅니다. 이 튜토리얼에서는 즉시 공유하고 지역화할 수 있는 새로운 온브랜드 콘텐츠를 만드는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436134?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

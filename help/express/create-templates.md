@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Adobe Express 템플릿을 사용하여 브랜드의 일관성, 효율성, 전문성 및 비용을 절감하는 방법에 대해 알아보십시오. 이 튜토리얼에서는 Photoshop, Illustrator, InDesign, PowerPoint 파일 등 기존 콘텐츠에서 재사용할 수 있는 항목을 만드는 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433971?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

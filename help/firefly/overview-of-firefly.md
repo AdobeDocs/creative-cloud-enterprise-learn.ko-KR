@@ -19,4 +19,4 @@ Adobe Firefly으로 무엇을 제작할 수 있는지 알아봅니다. Adobe Pho
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423650?quality=12&learn=on&hidetitle=true&captions=kor)

@@ -19,4 +19,4 @@ Adobe Photoshop에서 Adobe Firefly 기반의 생성형 채우기를 사용하�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444549?quality=12&learn=on&hidetitle=true&captions=kor)

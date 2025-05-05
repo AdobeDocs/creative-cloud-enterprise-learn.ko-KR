@@ -19,4 +19,4 @@ Firefly을 사용하여 영감을 주는 PowerPoint 프레젠테이션, 무드 �
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437063?quality=12&learn=on&hidetitle=true&captions=kor)

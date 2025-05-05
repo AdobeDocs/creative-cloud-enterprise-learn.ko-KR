@@ -17,7 +17,7 @@ ht-degree: 0%
 
 instagram과 같은 소셜 미디어 게시물에 내장 사전 설정을 사용하여 애니메이션 크기를 최적화하는 방법을 알아봅니다. 애니메이션의 크기를 조정하는 방식에 관계없이 설정은 유지되므로 다시 만들 필요가 없습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437729?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

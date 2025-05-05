@@ -17,7 +17,7 @@ ht-degree: 0%
 
 비디오를 드래그 앤 드롭하여 돋보이는 비디오를 빠르고 손쉽게 만드는 방법을 살펴보세요. 템플릿 또는 나만의 정적 디자인으로 시작하고 브랜드, 디자인 에셋, Adobe Stock 비디오 및 음악 등을 추가하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436434?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

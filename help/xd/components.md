@@ -16,7 +16,7 @@ ht-degree: 0%
 
 [!UICONTROL 구성 요소]를 사용하여 디자인 작업 과정에 속도와 일관성을 모두 적용하기 위한 탁월한 유연성을 제공하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410478?hidetitle=true&captions=kor)
 
 PDF 파일 아이콘을 클릭하여 이 튜토리얼의 PDF을 다운로드하십시오.
 

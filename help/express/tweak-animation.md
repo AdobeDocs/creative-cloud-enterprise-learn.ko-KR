@@ -17,7 +17,7 @@ ht-degree: 0%
 
 애니메이션의 설정을 조정하여 효과를 향상시키는 방법에 대해 알아봅니다. 애니메이션의 지속 시간, 개성, 속도 및 강도를 편집하여 특정 효과를 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438528?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

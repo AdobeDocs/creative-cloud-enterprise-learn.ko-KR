@@ -19,4 +19,4 @@ Adobe Illustrator에서 Adobe Firefly 기반의 [생성형 색상 변경]을 사
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442074?quality=12&learn=on&hidetitle=true&captions=kor)

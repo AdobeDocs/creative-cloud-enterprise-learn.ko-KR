@@ -17,4 +17,4 @@ ht-degree: 1%
 
 글로벌 호텔 마케팅 캠페인에서 Adobe Firefly Adobe Express 기반의 텍스트를 이미지로 사용하여 지역화된 콘텐츠를 제작하는 방법을 살펴보세요. 이 자습서는 새 [Adobe Express](https://www.adobe.com/express/)를 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443591?quality=12&learn=on&hidetitle=true&captions=kor)

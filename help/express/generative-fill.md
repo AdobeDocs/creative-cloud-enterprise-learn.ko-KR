@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Adobe Firefly 기반의 생성형 채우기를 사용하여 이미지에서 요소를 추가 및 제거하는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437839?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

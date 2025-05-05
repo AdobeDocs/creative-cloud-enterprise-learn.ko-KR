@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Adobe Firefly 기반의 [텍스트를 이미지로 변환]을 사용하여 웹, 블로그 및 소셜 캠페인용으로 고유한 그래픽 콘텐츠를 만드는 방법을 알아봅니다. 이 자습서는 새 [Adobe Express](https://www.adobe.com/express/)를 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423268?quality=12&learn=on&hidetitle=true&captions=kor)

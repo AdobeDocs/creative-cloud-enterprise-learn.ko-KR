@@ -17,4 +17,4 @@ ht-degree: 0%
 
 키워드를 사용하여 전문적으로 디자인된 템플릿을 검색하여 뉴스레터를 만드는 방법을 살펴보세요. 로고와 텍스트 사본을 변경한 후 동료에게 초대하여 공동 작업을 수행하고 고유한 콘텐츠를 추가할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439210?quality=12&learn=on&hidetitle=true&captions=kor)

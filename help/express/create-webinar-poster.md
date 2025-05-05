@@ -16,4 +16,4 @@ ht-degree: 1%
 
 Adobe Express에서 Adobe Firefly 기반의 [텍스트에 이미지]를 사용하여 가상 현실 이벤트용 웨비나 포스터를 만드는 방법을 알아봅니다. 이 자습서는 새 [Adobe Express](https://www.adobe.com/express/)를 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446870?quality=12&learn=on&hidetitle=true&captions=kor)

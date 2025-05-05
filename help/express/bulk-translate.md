@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >공유하거나 다운로드하기 전에 번역의 정확성을 검토하는 것이 중요합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438275?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

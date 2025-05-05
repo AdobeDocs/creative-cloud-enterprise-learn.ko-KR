@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Adobe Express에서 Adobe Firefly 기반의 텍스트를 이미지로 사용하여 소셜 미디어에 대한 홍보 캠페인을 만드는 방법을 살펴보세요. 이 자습서는 새 [Adobe Express](https://www.adobe.com/express/)를 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430563?quality=12&learn=on&hidetitle=true&captions=kor)

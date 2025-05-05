@@ -17,7 +17,7 @@ ht-degree: 0%
 
 버전 내역에 액세스하고 프로젝트의 이전 버전을 보고 복사하는 방법에 대해 알아봅니다. 프로젝트 진행률의 특정 시점으로 쉽게 돌아갈 수 있도록 개발의 핵심 포인트를 표시합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438704?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## 이 시리즈의 추가 비디오
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 이 자습서는 새 [Adobe Express](https://www.adobe.com/express/)를 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446167?quality=12&learn=on&hidetitle=true&captions=kor)
