@@ -22,7 +22,7 @@ NUL(Named User Licensing)을 통해 Adobe 제품에 라이선스를 부여하면
 
 ## 지정된 사용자 라이선싱 정보
 
-[지정된 사용자 라이선싱](https://helpx.adobe.com/enterprise/using/licensing.html)은(는) 일련 번호나 장치 대신 소프트웨어를 개인에게 할당할 수 있게 하는 소프트웨어 라이선싱 모델입니다. NUL은 IT 관리자에게 고급 사용자 ID 관리 기능을 통한 엔터프라이즈 수준의 보안을 제공하고 Adobe Admin Console을 사용하여 애플리케이션을 쉽게 배포하고 관리할 수 있도록 해 줍니다.
+[지정된 사용자 라이선싱](https://helpx.adobe.com/kr/enterprise/using/licensing.html)은(는) 일련 번호나 장치 대신 소프트웨어를 개인에게 할당할 수 있게 하는 소프트웨어 라이선싱 모델입니다. NUL은 IT 관리자에게 고급 사용자 ID 관리 기능을 통한 엔터프라이즈 수준의 보안을 제공하고 Adobe Admin Console을 사용하여 애플리케이션을 쉽게 배포하고 관리할 수 있도록 해 줍니다.
 
 ## 지정된 사용자 라이선싱의 이점:
 

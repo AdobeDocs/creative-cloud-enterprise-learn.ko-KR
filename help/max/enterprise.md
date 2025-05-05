@@ -62,6 +62,6 @@ Adobe Fonts의 거의 200여 가구와 Adobe Fonts 서비스의 사용 편의성
 
 **기업 관리 리소스:**
 
-[Adobe Fonts 사용 안내서](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fonts 사용 안내서](https://helpx.adobe.com/kr/fonts/user-guide.html)
 
-[기업 관리자 가이드](https://helpx.adobe.com/enterprise/admin-guide.html)
+[기업 관리자 가이드](https://helpx.adobe.com/kr/enterprise/admin-guide.html)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 콘텐츠 작가 가이드 설명서
 
-자세한 내용은 [콘텐츠 작가 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+자세한 내용은 [콘텐츠 작가 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko).
 
 ## 질문이 있습니까?
 
@@ -44,4 +44,4 @@ submitting a pull request!
 
 ## 보안 문제
 
-보안 문제는 이 문제 추적기에서 보고하면 안 됩니다. 대신 [보안 전문가에게 문제 신고](https://helpx.adobe.com/security/alertus.html)
+보안 문제는 이 문제 추적기에서 보고하면 안 됩니다. 대신 [보안 전문가에게 문제 신고](https://helpx.adobe.com/kr/security/alertus.html)

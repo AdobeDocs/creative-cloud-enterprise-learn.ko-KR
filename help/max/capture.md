@@ -62,7 +62,7 @@ Emily Palmer, 솔루션 컨설턴트(디지털 미디어)
 
 **[!DNL Capture]개 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/kr/mobile-apps/help/capture-faq.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

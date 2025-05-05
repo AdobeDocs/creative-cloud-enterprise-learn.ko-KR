@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Adobe 콘텐츠 기여 정보
 
-자세한 내용은 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+자세한 내용은 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko).
 
 기여 방법은 신분과 기여하려는 변경 사항의 종류에 따라 다릅니다.
 
 ### 사소한 변경 사항
 
-선의에서 사소한 업데이트로 기여 중인 경우 기사를 방문하여 **편집** 문서의 GitHub 소스로 이동하는 문서의 링크입니다. 그런 다음 GitHub UI를 사용하여 업데이트하면 됩니다. 일반 사항 보기 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 참조하십시오.
+선의에서 사소한 업데이트로 기여 중인 경우 기사를 방문하여 **편집** 문서의 GitHub 소스로 이동하는 문서의 링크입니다. 그런 다음 GitHub UI를 사용하여 업데이트하면 됩니다. 일반 사항 보기 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko) 참조하십시오.
 
 이 리포지토리의 설명서 및 코드 예제를 위해 제출하는 사소한 수정 사항 또는 설명 사항에는 Adobe 사용 약관이 적용됩니다.
 
@@ -43,7 +43,7 @@ Adobe Experience Cloud 솔루션 제품 팀의 테크니컬 라이터, 프로그
 
 커뮤니티 콘텐츠 작가는 기본 편집에 GitHub UI를 사용하거나 리포지토리를 활용하여 주요 기여 사항을 만들 수 있습니다.
 
-자세한 내용은 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 참조하십시오.
+자세한 내용은 [Adobe 문서 기여자 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko) 참조하십시오.
 
 ## 마크다운을 사용하여 주제의 형식을 지정하는 방법
 

@@ -163,7 +163,7 @@ Emilie Enke, Associate Solutions Consultant(디지털 미디어)
 
 **Acrobat 및 Adobe Sign 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/support/document-cloud.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/acrobat/using/whats-new.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/kr/support/document-cloud.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/kr/acrobat/using/whats-new.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

@@ -63,7 +63,7 @@ Dave Weinberg, 수석 솔루션 컨설턴트(디지털 미디어)
 
 **iPad 리소스의 Illustrator**
 
-[학습 및 지원](https://helpx.adobe.com/support/illustrator.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/kr/support/illustrator.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/kr/illustrator/using/whats-new/mobile-2021.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 
