@@ -21,10 +21,10 @@ Adobe Firefly 크리에이티브 프로덕션 노 코드 인터페이스는 일�
 <!-- COMMENT -->
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
+* https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
   {title = Overview of Adobe Firefly}
   {description = Learn what you can create with Adobe Firefly}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_11afa51a52fc9c6d940ee2b974589d4cd45cda4c7.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_11afa51a52fc9c6d940ee2b974589d4cd45cda4c7.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 
 -->
