@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 4%
+source-wordcount: '813'
+ht-degree: 5%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 4%
 # 기업 Tutorials Creative Cloud {#cce-learning-hub}
 
 + [개요](overview.md)
-+ 기업에 대한 Creative Cloud {#cceoverview}
++ Creative Cloud for enterprise {#cceoverview}
    + [개요](cce/overview-cce.md)
-   + Tutorials {#ccetutorials}
+   + 튜토리얼 {#ccetutorials}
       + [콘텐츠 크리에이터용 Acrobat](cce/acrobat-content-creators.md)
       + [CC Libraries으로 CC 워크플로우 개선](cce/cc-workflows-cc-libraries.md)
       + [길들이기 유형 불안](cce/taming-type-anxiety.md)
@@ -33,11 +33,11 @@ ht-degree: 4%
       + [Photoshop으로 시네마그래프 만들기](cce/cinemagraphps.md)
       + [그래픽 형식의 알파벳 수프 디코딩](cce/alphabetsoup.md)
       + [iPad 및 iPhone에서 Fresco 기능을 사용해 보세요.](cce/frescoworkshop.md)
-   + 빠른 참조 가이드 {#ccerefguides}
+   + 빠른 참조 안내선 {#ccerefguides}
       + [CCE 안내선](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [개요](express/overview-express.md)
-   + 방법 자습서 {#expresshowto}
+   + 방법 튜토리얼 {#expresshowto}
       + [개요](express/overview-express-how-to.md)
       + [홈페이지의 기능](express/get-started.md)
       + [빠른 작업 소개](express/quick-actions.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [효율성 극대화: 재사용 가능한 템플릿 만들기](express/create-templates.md)
       + [템플릿 저장 및 공유](express/share-templates.md)
       + [템플릿 사용 방법](express/use-templates.md)
-   + 사례 자습서 사용 {#expressusecase}
+   + 사례 튜토리얼 사용 {#expressusecase}
       + [개요](express/overview-express-use-case-tutorials.md)
       + [이벤트에 대한 다중 채널 HR 콘텐츠 만들기](express/create-hr-content.md)
       + [온라인 학습 강의의 프로모션 시각적 요소 만들기](express/promo-visual.md)
@@ -110,9 +110,10 @@ ht-degree: 4%
       + [Firefly으로 웨비나 포스터 만들기](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
-   + Tutorials {#firefly-tutorials}
+   + 튜토리얼 {#firefly-tutorials}
       + [ [!DNL Adobe Firefly]의 개요](firefly/overview-of-firefly.md)
       + [탐색 [!DNL Adobe Firefly]](firefly/discover.md)
+      + [배경 제거 및 크리에이티브 제작물로 바꾸기](firefly/creative-production/background.md)
       + [크리에이티브 아이디어 가속화](firefly/accelerate-ideas.md)
       + [재사용 가능한 상품 장면 만들기](firefly/reusable-scenes.md)
       + [피사체를 사용하여 사용자 정의 모델 만들기](firefly/custom-model-subject.md)
@@ -131,7 +132,7 @@ ht-degree: 4%
       + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [개요](stock/overview-stock.md)
-   + Tutorials {#stocktutorials}
+   + 튜토리얼 {#stocktutorials}
       + [놀라운 디지털 에셋](stock/stunning-digital-assets.md)
       + [Adobe [!DNL Stock] 라이선스 내역 검색](stock/searchstock.md)
       + [Adobe [!DNL Stock] 이미지에 손으로 그린 미적 요소 추가](stock/handdrawn.md)
@@ -158,29 +159,29 @@ ht-degree: 4%
       + [Adobe [!DNL Stock] 벡터 일러스트레이션에서 색상 사용자 지정](stock/customizecolors.md)
 + Adobe 3D 및 VR {#3doverview}
    + [개요](3di/overview-3di.md)
-   + Tutorials {#3dtutorials}
+   + 튜토리얼 {#3dtutorials}
       + [3D 디자인 및 렌더링](3di/substance-3d-stager.md)
       + [CGI에서 3D 조명 마스터를 위한 팁 및 기술](3di/mastering3dlighting.md)
       + [3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기](3di/photorealistic.md)
       + [ [!DNL Dimension] 및 Adobe [!DNL Stock]을(를) 사용하여 3D 모델 사용자 지정 및 브랜딩](3di/3ddimensionstock.md)
 + Adobe 비디오 {#videooverview}
    + [개요](dva/overview-dva.md)
-   + Tutorials {#videotutorials}
+   + 튜토리얼 {#videotutorials}
       + [전문적인 모션 그래픽 템플릿](dva/motion-graphics-templates.md)
       + [Frame.io로 비디오 검토](dva/video-review-frame-io.md)
-   + 빠른 참조 가이드 {#videorefguides}
+   + 빠른 참조 안내선 {#videorefguides}
       + [비디오 안내선](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [개요](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
+   + 튜토리얼 {#xdtutorials}
    + [Adobe XD에서 [!UICONTROL 구성 요소]에 익숙해지세요.](xd/components.md)
-+ 배포 및 관리{#deploy}
++ 배포 및 관리 {#deploy}
    + [개요](deploy/overview-deploy.md)
    + [시리얼 번호 만료](deploy/cceserial.md)
    + [지정된 사용자 라이선싱](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [개요](max/overview-max.md)
-   + Tutorials {#tutorials}
+   + 튜토리얼 {#tutorials}
       + [개요](max/maxtutorials.md)
       + 데스크탑 제품 {#desktop-products}
          + [Acrobat 및 Sign](max/acrobat-sign.md)
@@ -202,5 +203,5 @@ ht-degree: 4%
          + [InDesign Server](max/indesignserver.md)
          + [[!DNL Stock]](max/stock.md)
          + [기업 관리](max/enterprise.md)
-      + 실습형 프로젝트 {#project}
+      + 실습 프로젝트 {#project}
          + [나만의 얼굴 마스크 만들기](max/handsonproject.md)
