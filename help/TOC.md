@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
+source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '817'
 ht-degree: 5%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 5%
    + 튜토리얼 {#firefly-tutorials}
       + [ [!DNL Adobe Firefly]의 개요](firefly/overview-of-firefly.md)
       + [탐색 [!DNL Adobe Firefly]](firefly/discover.md)
-      + [배경 제거 및 크리에이티브 제작물로 바꾸기](firefly/creative-production/background.md)
       + [크리에이티브 아이디어 가속화](firefly/accelerate-ideas.md)
       + [재사용 가능한 상품 장면 만들기](firefly/reusable-scenes.md)
       + [피사체를 사용하여 사용자 정의 모델 만들기](firefly/custom-model-subject.md)
@@ -128,6 +127,9 @@ ht-degree: 5%
       + [ [!DNL Photoshop]의 배너 광고 변형](firefly/web-banner-ad.md)
       + [생성형 채우기  [!DNL Photoshop]](firefly/generative-fill.md)
       + [ [!DNL Illustrator]의 생성형 다시 칠하기](firefly/generative-recolor.md)
+   + Creative Production 튜토리얼 {#firefly-creative-production}
+      + [ [!DNL Adobe Firefly] 크리에이티브 제작 개요](firefly/creative-production/overview-firefly-creative-production.md)
+      + [배경 제거 및 교체](firefly/creative-production/background.md)
    + 웨비나 {#firefly-webinars}
       + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
