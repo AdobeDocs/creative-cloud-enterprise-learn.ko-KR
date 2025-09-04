@@ -21,8 +21,8 @@ Adobe Firefly 크리에이티브 프로덕션 노 코드 인터페이스는 일�
 <!-- COMMENT -->
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background
+  {image = https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 
 -->
@@ -36,8 +36,8 @@ Adobe Firefly 크리에이티브 프로덕션 노 코드 인터페이스는 일�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" title="배경 제거 및 교체" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="배경 제거 및 교체"
+                    <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" title="배경 제거 및 교체" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="배경 제거 및 교체"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,11 +45,11 @@ Adobe Firefly 크리에이티브 프로덕션 노 코드 인터페이스는 일�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" title="배경 제거 및 교체">배경 제거 및 교체</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" title="배경 제거 및 교체">배경 제거 및 교체</a>
                     </p>
                     <p class="is-size-6">Firefly 크리에이티브 프로덕션을 사용하여 대규모로 배경을 제거 및/또는 교체하는 방법을 알아봅니다</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
                 </a>
             </div>
