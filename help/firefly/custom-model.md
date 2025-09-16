@@ -1,26 +1,24 @@
 ---
 title: 사용자 정의 모델 만들기
-description: Firefly에서 사용자 정의 모델을 만들어 조직 브랜드에 맞는 새로운 이미지를 만드는 방법을 살펴보세요
+description: Firefly 맞춤형 모델을 교육하는 방법에 대해 알아봅니다. 자세한 내용은 [여기](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)에서 확인할 수 있습니다.
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-index: false
-hidefromtoc: true
-source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
+source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
 # 사용자 정의 모델 만들기
 
-Firefly에서 사용자 정의 모델을 만들어 배경, 색상, 색조와 같은 특정 유형의 스타일을 사용하여 조직의 브랜드에 맞는 새로운 이미지를 만드는 방법을 살펴보세요. 맞춤형 모델을 사용하면 규모에 맞게 관련성 있고 개인 맞춤화된 콘텐츠를 제작할 수 있습니다. Adobe Firefly [여기](https://firefly.adobe.com/)를 사용해 보세요.
+Firefly에서 사용자 정의 모델을 교육하여 조직 브랜드에 맞는 새로운 이미지를 만드는 방법을 알아봅니다. 맞춤형 모델을 사용하면 규모에 맞게 관련성 있고 개인 맞춤화된 콘텐츠를 제작할 수 있습니다. 사용자 지정 모델 교육에 대한 자세한 내용은 [여기](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)를 참조하세요.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474938?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Firefly 사용자 정의 모델이란 무엇입니까?
 
