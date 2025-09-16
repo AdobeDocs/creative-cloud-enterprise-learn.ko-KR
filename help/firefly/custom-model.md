@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 021afe1407edaac712da957b590a3096658e87c5
+source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,21 @@ Firefly에서 사용자 정의 모델을 만들어 배경, 색상, 색조와 같
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474938?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+
+## Firefly 사용자 정의 모델이란 무엇입니까?
+
+사용자 정의 모델을 사용하면 Firefly의 텍스트 변환 기능을 사용하여 브랜드 ID에 맞게 정렬된 이미지 콘텐츠를 생성할 수 있습니다.
+
+이러한 모델을 나만의 이미지로 교육하여 스타일, 주제 또는 기타 브랜딩 요소를 반영하는 콘텐츠를 제작할 수 있습니다.
+
+## 주요 이점 / 활용 사례
+
+**브랜드 일관적인 디자인** 브랜드의 미적인 요소를 충실히 따르는 비주얼을 빠르게 만들어 보세요.
+
+**캐릭터 테마** 장면, 조명, 포즈 등에서 캐릭터 기반 이미지에 대한 일관성을 유지합니다. 개발에 소요되는 시간을 단축합니다.
+
+**더 빠른 개념 반복** 브랜드 관련 아이디어와 개념을 더 빨리 소개하여 관련자들 간의 정렬을 가속화합니다.
 
 >[!IMPORTANT]
 >
