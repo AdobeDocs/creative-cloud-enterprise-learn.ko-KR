@@ -18,7 +18,7 @@ Firefly에서 사용자 정의 모델을 교육하여 조직 브랜드에 맞는
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474938?quality=12&learn=on&hidetitle=true&captions=kor)
 
 ## Firefly 사용자 정의 모델이란 무엇입니까?
 
