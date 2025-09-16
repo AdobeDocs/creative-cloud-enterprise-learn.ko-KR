@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 스타일을 사용하여 사용자 정의 모델 만들기
+# 사용자 정의 모델 만들기
 
 Firefly에서 사용자 정의 모델을 만들어 배경, 색상, 색조와 같은 특정 유형의 스타일을 사용하여 조직의 브랜드에 맞는 새로운 이미지를 만드는 방법을 살펴보세요. 맞춤형 모델을 사용하면 규모에 맞게 관련성 있고 개인 맞춤화된 콘텐츠를 제작할 수 있습니다. Adobe Firefly [여기](https://firefly.adobe.com/)를 사용해 보세요.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474938?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Firefly 사용자 정의 모델이란 무엇입니까?
 
