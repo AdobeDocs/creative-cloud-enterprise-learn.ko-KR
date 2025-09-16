@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 2efa4c0df1c67c0d2b0de252a2e719b6939af3ba
+source-git-commit: c97484d8abb8edb79e29c0b13c9b1c9db71d2f12
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -98,23 +98,23 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
   {description = Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1dc1240297425fddfa06e283d83a7c531dea2f934.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-* https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill
+* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill
   {target = _self}
   {title = Generative Fill in Photoshop}
   {description = Learn how to use Generative Fill, powered by Adobe Firefly, in Adobe Photoshop}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1b631102deda356dde85c6f8b14e8a5a1a5ff024d.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-* https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad
+* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad
   {target = _self}
   {title = Banner ad variations in Photoshop}
   {description = Learn how to use Generative Fill to accelerate web ad banner creation}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1db6acea1f5e330cb7bcb46eb7368f690e657aa83.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-* https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor
+* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor
   {target = _self}
   {title = Generative Recolor in Illustrator}
   {description = Learn how to use Generative Recolor, powered by Adobe Firefly, in Adobe Illustrator}
-  {image = https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_19bc35b610c89bc859531a1e33b29d8662f337fa3.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_19bc35b610c89bc859531a1e33b29d8662f337fa3.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 -->
 
@@ -242,8 +242,8 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject" title="사용자 정의 모델 만들기" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_102c0c47d65d716fcc039ff7eaba2add93c7db6d7.png?width=400&format=webply&optimize=medium" alt="피사체를 사용하여 사용자 정의 모델 만들기"
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="사용자 정의 모델 만들기" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_102c0c47d65d716fcc039ff7eaba2add93c7db6d7.png?width=400&format=webply&optimize=medium" alt="사용자 정의 모델 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -253,14 +253,13 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" title="사용자 정의 모델 만들기">사용자 지정 모델 만들기</a>
                     </p>
-                    <p class="is-size-6">Firefly 맞춤형 모델 교육 방법 알아보기</p>
+                    <p class="is-size-6">Firefly에서 사용자 정의 모델을 교육하여 조직 브랜드에 맞는 새로운 이미지를 만드는 방법을 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
                 </a>
             </div>
         </div>
-    </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Landing page">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
@@ -313,7 +312,7 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="텍스트 효과" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432216?quality=12&hidetitle=true&format=jpeg&nocache=1756924254317&captions=kor" alt="텍스트 효과"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758042897047" alt="텍스트 효과"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -427,7 +426,7 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" title="Photoshop의 생성형 채우기" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" title="Photoshop의 생성형 채우기" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1b631102deda356dde85c6f8b14e8a5a1a5ff024d.png?width=400&format=webply&optimize=medium" alt="Photoshop의 생성형 채우기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -436,11 +435,11 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" title="Photoshop의 생성형 채우기">Photoshop에서 생성형 채우기</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" title="Photoshop의 생성형 채우기">Photoshop에서 생성형 채우기</a>
                     </p>
                     <p class="is-size-6">Adobe Photoshop에서 Adobe Firefly 기반의 생성형 채우기를 사용하는 방법 알아보기</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
                 </a>
             </div>
@@ -450,7 +449,7 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" title="Photoshop의 배너 광고 변형" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" title="Photoshop의 배너 광고 변형" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1db6acea1f5e330cb7bcb46eb7368f690e657aa83.png?width=400&format=webply&optimize=medium" alt="Photoshop의 배너 광고 변형"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -459,11 +458,11 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" title="Photoshop의 배너 광고 변형">Photoshop의 배너 광고 변형</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" title="Photoshop의 배너 광고 변형">Photoshop의 배너 광고 변형</a>
                     </p>
                     <p class="is-size-6">생성형 채우기를 사용하여 웹 광고 배너 제작 시간을 단축하는 방법 알아보기</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
                 </a>
             </div>
@@ -473,8 +472,8 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" title="Illustrator의 생성형 색상 변경" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_19bc35b610c89bc859531a1e33b29d8662f337fa3.png?width=400&format=webply&optimize=medium" alt="Illustrator의 생성형 색상 변경"
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" title="Illustrator의 생성형 색상 변경" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_19bc35b610c89bc859531a1e33b29d8662f337fa3.png?width=400&format=webply&optimize=medium" alt="Illustrator의 생성형 색상 변경"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -482,11 +481,11 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" title="Illustrator의 생성형 색상 변경">Illustrator에서 생성형 다시 칠하기</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" title="Illustrator의 생성형 색상 변경">Illustrator에서 생성형 다시 칠하기</a>
                     </p>
                     <p class="is-size-6">Adobe Illustrator에서 Adobe Firefly 기반의 생성형 색상 변경 기능을 사용하는 방법에 대해 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 보기</span>
                 </a>
             </div>
