@@ -313,7 +313,7 @@ Firefly은 Adobe 제품에 출시될 크리에이티브 제너레이티브 AI �
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="텍스트 효과" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1756924254317" alt="텍스트 효과"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432216?quality=12&hidetitle=true&format=jpeg&nocache=1756924254317&captions=kor" alt="텍스트 효과"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
