@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Adobe Substance 3D Stager에서 콘텐츠를 가져오고, 장면을 정렬하�
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![튜토리얼의 첫 페이지 이미지](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![튜토리얼의 첫 페이지 이미지](assets/Substance3DStager.png){width="680"}](assets/Adobe-Substance-Stager.pdf){target="blank"}

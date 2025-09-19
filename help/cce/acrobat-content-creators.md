@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 이 PDF 튜토리얼을 보거나 다운로드하려면 아래 이미지를 선택하십시오.
 
-[![튜토리얼의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
+[![튜토리얼의 첫 페이지 이미지](assets/Acrobatforcontentcreators.png){width="680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
