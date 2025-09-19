@@ -23,4 +23,4 @@ Adobe Stock을 CC Libraries과 통합하여 인쇄 및 화면에 대해 일관�
 
 >[!NOTE]
 >
->CC Libraries에 저장된 Adobe Stock 에셋을 Microsoft PowerPoint 및 Word에 원활하게 추가할 수 있습니다. Adobe Creative Cloud 추가 기능을 다운로드하고 설치하는 방법에 대한 지침은 [여기](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html) 또는 Microsoft App Store에서 확인할 수 있습니다. 프로세스는 두 앱 모두에서 간단합니다. 특히 Illustrator, InDesign 또는 Photoshop에서 Adobe Stock을 사용한 경험이 있는 사용자의 경우 더욱 간편합니다. 자세한 내용은 [Microsoft Office 365에서 Adobe Stock 통합 플러그인 탐색](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html)을 참조하십시오.
+>CC Libraries에 저장된 Adobe Stock 에셋을 Microsoft PowerPoint 및 Word에 원활하게 추가할 수 있습니다. Adobe Creative Cloud 추가 기능을 다운로드하고 설치하는 방법에 대한 지침은 [여기](https://helpx.adobe.com/kr/creative-cloud/help/libraries-addin-microsoft-office.html) 또는 Microsoft App Store에서 확인할 수 있습니다. 프로세스는 두 앱 모두에서 간단합니다. 특히 Illustrator, InDesign 또는 Photoshop에서 Adobe Stock을 사용한 경험이 있는 사용자의 경우 더욱 간편합니다. 자세한 내용은 [Microsoft Office 365에서 Adobe Stock 통합 플러그인 탐색](https://helpx.adobe.com/kr/stock/help/microsoft-office-plug-ins.html)을 참조하십시오.
