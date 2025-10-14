@@ -99,7 +99,7 @@ Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 **이미지를 클릭하여 흰색 마스크의 3D 모델이 포함된 [!DNL Dimension] 파일을 다운로드합니다.**
 
-[![비교 이미지](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
+[![비교 이미지](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
 **발표자:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
