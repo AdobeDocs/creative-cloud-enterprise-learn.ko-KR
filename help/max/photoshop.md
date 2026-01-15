@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Photoshop은 세계 최고 수준의 이미징 및 그래픽 디자인 소프트
 </tr>
 </table>
 
-## 캠페인에 맞게 이미지 편집(5:45) {#tutorial1}
+## 캠페인(5:45)에 맞게 이미지 편집 {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
@@ -59,7 +59,7 @@ Adobe Photoshop의 강력한 선택 및 색상 편집 도구를 사용하여 기
 * 개체 선택 도구 를 사용하면 항목 선택이 더 빠르고 간단해집니다
 * 내용 인식 채우기를 사용하면 소스 이미지 내의 샘플 영역을 더 잘 제어하여 대상 영역의 클론 작업 및 패치 작업을 향상시킬 수 있습니다
 * 더 나은 결과를 위해 브러시를 다양한 모양으로 만들 수 있습니다.
-* Adobe Sensei은 일상적인 작업에 인공 지능을 활용할 수 있도록 지원합니다.
+* Adobe AI가 인공 지능을 활용하여 일상적인 작업을 수행한다
 
 **발표자:**
 A.J Wood, 선임 솔루션 컨설턴트(디지털 미디어)
@@ -83,8 +83,8 @@ A.J Wood, 선임 솔루션 컨설턴트(디지털 미디어)
 
 **Photoshop 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/kr/support/photoshop.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/kr/photoshop/using/whats-new.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/support/photoshop.html)은(는) 추가 자습서, [새로운 기능](https://helpx.adobe.com/photoshop/using/whats-new.html) 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 
-이러한 기능 사용을 시작해 보세요! Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.
+Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드하여 이러한 기능(및 기타!)을 사용하십시오.

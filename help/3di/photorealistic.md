@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 가상 포토그래피, 100개 글로벌 MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 위의 이미지를 보면, 보이는 모든 것이 실재한다고 가정해도 무리가 아닙니다. 그러나 실사적인 3D 이미지 렌더링의 기술적 진보로 인해 무엇이 실제이고 무엇이 가상인지 파악하는 것이 그 어느 때보다 어려워졌습니다. 이 경우 이미지는 실제, 사진, 렌더링된 3D 콘텐츠가 혼합되어 있으며, 이는 바로 기업이 투자하고 있는 3D 디자인 유형입니다.
 
-James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면![&#128279;](assets/Photorealistic_2.jpg)
+James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면![](assets/Photorealistic_2.jpg)
 
 3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
 
@@ -28,7 +28,7 @@ James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지�
 
 ![Adobe [!DNL Dimension] 합성에서 금속 구 모델의 평면 편집](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension]이(가) Adobe Sensei에서 제공하는 이미지 일치 기능을 사용하여 사용자가 앱에서 직접 2D와 3D 요소를 원활하게 결합할 수 있도록 했습니다. 이러한 방식으로 요소를 합성했을 때 가장 큰 이점은 완전히 구현된 3D 장면을 현실의 배경 이미지로 대체하여 실사적인 이미지를 만드는 프로세스를 더욱 효과적으로 향상시킬 수 있다는 것입니다.
+Adobe [!DNL Dimension]을(를) 통해 사용자가 Adobe AI를 사용하여 앱에서 직접 2D와 3D 요소를 원활하게 결합할 수 있습니다. 이러한 방식으로 요소를 합성했을 때 가장 큰 이점은 완전히 구현된 3D 장면을 현실의 배경 이미지로 대체하여 실사적인 이미지를 만드는 프로세스를 더욱 효과적으로 향상시킬 수 있다는 것입니다.
 
 ![Adobe [!DNL Dimension]의 이미지 일치 기능은 배경 이미지를 분석하고, 이를 캡처하는 데 사용한 카메라의 초점 거리와 위치를 예상합니다.](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Adobe [!DNL Dimension]이(가) Adobe Sensei에서 제공하는 이미지 일치 
 
 ![거실에 있는 모페드의 실사적인 3D 합성 이미지](assets/Photorealistic_5.png)
 
-이미지 일치를 사용하면 촬영한 배경 이미지의 조명 환경이 &#39;환각&#39;을 일으키려고 합니다. 간단한 순서로 훌륭한 결과를 얻을 수 있는 인상적인 작업을 수행하지만 배경 이미지와 함께 환경을 캡처하면 훨씬 더 실사적인 결과를 얻을 수 있습니다. 이는 Adobe Sensei 기능이 이를 자체적으로 수행하도록 훈련하는 데 사용되는 방법이기도 합니다.
+이미지 일치를 사용하면 촬영한 배경 이미지의 조명 환경이 &#39;환각&#39;을 일으키려고 합니다. 간단한 순서로 훌륭한 결과를 얻을 수 있는 인상적인 작업을 수행하지만 배경 이미지와 함께 환경을 캡처하면 훨씬 더 실사적인 결과를 얻을 수 있습니다. 심지어 Adobe AI를 교육하는 데 사용되는 방법도 여기에 해당합니다.
 
 ![사무실 공간의 360도 HDR 파노라마](assets/Photorealistic_6.png)
 
@@ -168,4 +168,4 @@ EV에 대해 색상을 조정한 후 개별 파일로 임시로 내보내고 Pho
 
 최종 결과는 최종 사용자가 최소한의 노력으로 실사적인 이미지를 만드는 목표를 달성하도록 지원하는 현실과 3D의 설득력 있는 혼합입니다. 작업 과정을 시연하기 위해 만든 [무료 [!DNL Dimension] 장면](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338)을 사용해 보세요.
 
-지금 [최신 릴리스](https://creativecloud.adobe.com/apps/download/dimension)([!DNL Dimension])를 다운로드하고 사실적인 이미지를 만들어 보세요.
+지금 [최신 릴리스](https://creativecloud.adobe.com/apps/download/dimension)&#x200B;([!DNL Dimension])를 다운로드하고 사실적인 이미지를 만들어 보세요.

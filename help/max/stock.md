@@ -5,9 +5,9 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
     <div>
    <a href="stock.md#tutorial1"><strong>Adobe [!DNL Stock]</strong></a>을(를) 사용하여 더 빠르게 최고의 에셋 찾기
     </div>
-    <em>인공 지능 엔진인 Adobe Sensei에서 제공하는 더 빠르고 나은 검색 결과를 사용하여 크리에이티브 프로젝트를 향상시키기 위한 완벽한 로열티 프리 스톡 이미지를 찾아보세요</em>
+    <em>Adobe AI를 통해 더욱 빠르고 개선된 검색 결과를 사용하여 크리에이티브 프로젝트를 향상시키기 위한 완벽한 로열티 프리 스톡 이미지 찾기</em>
     <br>
   </td>
   <td>
@@ -49,14 +49,15 @@ Adobe Experience Manager</strong></a>
 </tr>
 </table>
 
-## Adobe [!DNL Stock]을(를) 사용하여 더 빠르게 최고의 에셋 찾기(10:49) {#tutorial1}
+## Adobe [!DNL Stock]&#x200B;(10:49)을(를) 사용하여 최고의 에셋 더 빠르게 찾기 {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **설명**
-인공 지능 엔진인 Adobe Sensei에서 제공하는 더 빠르고 나은 검색 결과를 사용하여 크리에이티브 프로젝트를 향상시키기 위한 완벽한 로열티 프리 스톡 이미지를 찾아보십시오.
+Adobe AI를 통해 더욱 빠르고 개선된 검색 결과를 사용하여 크리에이티브 프로젝트를 향상시킬 수 있는 완벽한 로열티 프리 스톡 이미지를 찾아보세요.
 
 이 튜토리얼에서는 다음과 같은 방법을 배웁니다.
+
 * 고품질 이미지 및 비디오 검색에 소요되는 시간과 스트레스를 줄이십시오
 * 기업 내 에셋 라이선스 및 사용을 간편하게 관리 및 추적
 * Adobe Creative Cloud 앱에서 바로 검색, 미리보기 및 라이선스 부여
@@ -65,7 +66,7 @@ Adobe Experience Manager</strong></a>
 
 Victoria Torres, [!DNL Stock] 솔루션 컨설턴트(디지털 미디어)
 
-## AEM에서 [!DNL Stock] 에셋 검색 및 라이선스 부여(6:46) {#tutorial2}
+## AEM(6[!DNL Stock])에서 :46 에셋 검색 및 라이선스 부여 {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -84,7 +85,7 @@ Emily Palmer, 솔루션 컨설턴트(디지털 미디어)
 
 **Adobe [!DNL Stock] 리소스**
 
-[학습 및 지원](https://helpx.adobe.com/kr/support/stock.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/support/stock.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 
