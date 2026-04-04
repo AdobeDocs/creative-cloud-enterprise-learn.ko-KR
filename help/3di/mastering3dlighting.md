@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ![사진, 3D 스튜디오 장면 및 추상적인 3D 장면으로 만들어진 환경 조명의 예](assets/Mastering3dlighting_5.jpg)
 
-[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)에서 새 장면을 만들면 기본 환경 조명이 자동으로 만들어집니다. 이것이 바로 여러분이 장면에서 즉시 어떤 것을 실제로 볼 수 있는 이유입니다. Adobe [!DNL Dimension] 스타터 에셋에는 즉시 사용할 수 있는 특정 수의 환경 조명이 포함되어 있습니다. 또한 [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp)에서는 방대한 양의 큐레이션된 환경 조명을 제공합니다.
+[[!DNL Dimension]](https://www.adobe.com/kr/products/dimension.html)에서 새 장면을 만들면 기본 환경 조명이 자동으로 만들어집니다. 이것이 바로 여러분이 장면에서 즉시 어떤 것을 실제로 볼 수 있는 이유입니다. Adobe [!DNL Dimension] 스타터 에셋에는 즉시 사용할 수 있는 특정 수의 환경 조명이 포함되어 있습니다. 또한 [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp)에서는 방대한 양의 큐레이션된 환경 조명을 제공합니다.
 
 환경 조명은 매우 현실적인 결과를 만들어 내고 시간을 많이 절약할 수 있습니다. 이와 유사한 결과를 수동으로 달성하려면 실제로 전체 환경을 3D(다양한 광원 포함)로 생성해야 하는데, 이 작업량은 상당히 많습니다.
 
