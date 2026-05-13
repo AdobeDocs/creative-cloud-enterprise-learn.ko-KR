@@ -5,10 +5,18 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/bXF9O1Y3PfAlrKtbwH5oFVzAqQIAabdyjjkRZ6-99kM
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 2%
+source-wordcount: 238
+ht-degree: 4%
 
 ---
 
@@ -48,7 +56,7 @@ ht-degree: 2%
 </tr>
 </table>
 
-## CC Libraries 만들기(4:38) {#tutorial1}
+## CC Libraries(4:38) 만들기 {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
@@ -59,7 +67,7 @@ Adobe Creative Cloud Libraries를 통해 즐겨 사용하는 Creative Cloud 앱�
 * 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
 * 신규! Adobe XD과 완벽하게 통합
 
-**발표자:**
+**제공:**
 Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 
 ## CC Libraries 공유(4:14) {#tutorial2}
@@ -73,7 +81,7 @@ Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 * 에셋을 손에 보관하고 프로젝트를 브랜드에 보관하세요.
 * 즐겨 사용하는 앱에서 바로 프로젝트 공동 작업을 손쉽게 수행할 수 있습니다
 
-**발표자:**
+**제공:**
 Ashley Dvorin, 선임 솔루션 컨설턴트(디지털 미디어)
 
 ![CC Libraries 로고](../assets/cc_appicon_96.png)

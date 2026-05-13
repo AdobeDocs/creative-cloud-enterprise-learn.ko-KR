@@ -5,9 +5,19 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/S-3QmGjQ01zs-lcchZd9czs7sp6QovHvmYAxYguUpGg
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: 199
 ht-degree: 0%
 
 ---
@@ -43,7 +53,7 @@ Adobe [!DNL Capture]은(는) 휴대폰과 태블릿을 디자인 컬렉션 도�
 </tr>
 </table>
 
-## 주변의 세계로부터 영감 얻기(2분 56초) {#tutorial1}
+## 주변의 세계로부터 영감을 얻으세요(2:56) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
@@ -55,7 +65,7 @@ Adobe [!DNL Capture]은(는) 휴대폰과 태블릿을 디자인 컬렉션 도�
 * CC Libraries을 통해 데스크탑 앱과 통합
 * 수천 개에 이르는 Adobe Fonts 액세스
 
-**발표자:**
+**제공:**
 Emily Palmer, 솔루션 컨설턴트(디지털 미디어)
 
 ![로고 캡처](../assets/ca_appicon_96.png)

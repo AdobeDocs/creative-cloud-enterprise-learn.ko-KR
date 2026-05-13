@@ -5,9 +5,21 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/wnMrg715kEB-P7ae3MopL9Q5lL037-tpYHfY9u-zOHE
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 251
 ht-degree: 0%
 
 ---
@@ -57,7 +69,7 @@ Premiere [!DNL Rush]은(는) 그 어느 때보다 쉽게 온라인 콘텐츠를 
 * 소셜 미디어 채널로 쉽게 내보내고 바로 게시
 * Adobe Premiere Pro에서 [!DNL Rush]개 프로젝트 열기
 
-**발표자:**
+**제공:**
 A.J. Wood, 솔루션 컨설턴트(디지털 미디어)
 
 ![Rush 로고](../assets/ru_appicon_96.png)
@@ -68,4 +80,4 @@ A.J. Wood, 솔루션 컨설턴트(디지털 미디어)
 
 **2020년 10월 릴리스**
 
-Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드하여 이러한 기능(및 기타!)을 사용하십시오.
+이러한 기능 사용을 시작해 보세요! Creative Cloud 데스크탑 앱에서 최신 업데이트를 다운로드합니다.

@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14838
 exl-id: 9b13b1c3-1868-4b53-82bf-2cfb0d657891
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/81oaKeYCi-mB6zBYLOFLrpocLUfTL9XHL56PYYHnvHE
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 97
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 instagram과 같은 소셜 미디어 게시물에 내장 사전 설정을 사용하여 애니메이션 크기를 최적화하는 방법을 알아봅니다. 애니메이션의 크기를 조정하는 방식에 관계없이 설정은 유지되므로 다시 만들 필요가 없습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437729?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3437729?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

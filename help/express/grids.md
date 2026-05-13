@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14826
 exl-id: a8e11845-ad80-4f40-93e1-12b05e3c4201
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/llP1jCSiv2ZbBj9Fy8ijmbmNe5i7gff8LS92D-ANC1c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 그리드를 사용하여 사진 콜라주, 무드 보드 및 시선을 사로잡는 포스터를 만드는 방법을 살펴보세요. 40가지 격자 레이아웃을 사용하여 이미지나 Adobe Stock 사진을 사용자 정의할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439999?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3439999?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

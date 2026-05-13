@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-13417
 exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+TQID: https://experienceleague.adobe.com/JYD8EkA9UM6xGJalICaolk0hqYo3aSfN9h61JYHFsiI
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: 137
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 브랜드 에셋 컬렉션을 만들어 비즈니스 또는 개인 프로젝트를 위한 일관되고 전문적인 디자인을 제작하는 방법에 대해 알아봅니다. 브랜드 키트는 로고, 색상, 글꼴, 그래픽 및 템플릿과 같은 브랜드 에셋의 컬렉션입니다. 이 파일은 처음부터 만들거나 기존 라이브러리에서 만들 수 있으며 편집 또는 보기 권한을 가질 수 있는 동료와 공유할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449372?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3449372?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 
