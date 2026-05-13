@@ -26,4 +26,4 @@ ht-degree: 3%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448474?captions=kor&quality=12&learn=on&hidetitle=true)
