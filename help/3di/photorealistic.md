@@ -31,7 +31,7 @@ ht-degree: 0%
 
 James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면![&#128279;](assets/Photorealistic_2.jpg)
 
-3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
+3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/kr/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
 
 
 ## [!DNL Dimension] Adobe에서 합성 이미지를 만드는 기술
@@ -68,7 +68,7 @@ Ricoh Theta, Gopro MAX 및 Insta 360과 같은 카메라는 360 파노라마를 
 
 ### 위치 선택
 
-컨텍스트와 조명을 위한 흥미로운 위치를 찾습니다. 컨텍스트를 고려할 때는 장면의 잠재적 사용에 대해 상상하는 것이 도움이 될 수 있습니다. 예를 들어, 빈 도로 뷰는 3D 자동차에 추가할 때 사용할 수 있고 커피숍의 테이블 뷰는 식품의 [포장 표시](https://www.adobe.com/products/dimension/packaging-design-mockup.html)에 사용할 수 있습니다.
+컨텍스트와 조명을 위한 흥미로운 위치를 찾습니다. 컨텍스트를 고려할 때는 장면의 잠재적 사용에 대해 상상하는 것이 도움이 될 수 있습니다. 예를 들어, 빈 도로 뷰는 3D 자동차에 추가할 때 사용할 수 있고 커피숍의 테이블 뷰는 식품의 [포장 표시](https://www.adobe.com/kr/products/dimension/packaging-design-mockup.html)에 사용할 수 있습니다.
 
 가상 사진의 ![4개 위치 장면이 3D 합성을 사용하여 동일한 장면과 대조](assets/Photorealistic_8.png)
 

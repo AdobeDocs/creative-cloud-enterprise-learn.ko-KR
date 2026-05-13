@@ -73,21 +73,21 @@ Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/kr/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server: 구매 안내서" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: 구매 가이드</strong></a>
+   <a href="https://www.adobe.com/kr/products/indesignserver/buying-guide.html"><strong>InDesign Server: 구매 가이드</strong></a>
     </div>
     <em>사내 개발자 또는 파트너가 사용할 수 있는 리소스</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/kr/products/indesignserver/partner.html">
       <img alt="InDesign Server: 파트너 찾기" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: 파트너 찾기</strong></a>
+   <a href="https://www.adobe.com/kr/products/indesignserver/partner.html"><strong>InDesign Server: 파트너 찾기</strong></a>
     </div>
     <em>자체 개발 전문 지식이 있지만, Adobe은 파트너와 협력하여 요구 사항을 충족하는 솔루션을 찾는 것이 좋습니다</em>
     <br>
@@ -104,7 +104,7 @@ Eric Rowse, 수석 솔루션 컨설턴트(디지털 미디어)
 
 **InDesign Server 리소스**
 
-[학습 및 지원](https://www.adobe.com/products/indesignserver.html)은(는) 추가 자습서, 새로운 기능 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://www.adobe.com/kr/products/indesignserver.html)은(는) 추가 자습서, 새로운 기능 및 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 
