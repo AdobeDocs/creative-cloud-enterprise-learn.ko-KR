@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: KT-14836
 exl-id: 0483dabf-1d14-47f0-9835-8a018da04e38
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/iExg6ohh7SZjgF1SMLZmHFn22PBQBdpVM2RfbgysyCk
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 애니메이션에 이미지, 헤드라인 등의 요소를 추가하여 애니메이션의 수준을 높여 보세요. 애니메이션을 그대로 유지하면서 장면에 요소를 추가, 복제, 재정렬 또는 교체하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433927?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: KT-14833
 exl-id: cbdb531e-64ee-4c34-878a-3fd61dcf297c
-source-git-commit: d2ce81cbf60a65c9a79bb1e9dd0c3adc88d79ed9
+TQID: https://experienceleague.adobe.com/daoudAoTEoTYt93fV2nLbNN2LE5pCW-UF5M0FhbH4oM
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 애니메이션의 설정을 조정하여 효과를 향상시키는 방법에 대해 알아봅니다. 애니메이션의 지속 시간, 개성, 속도 및 강도를 편집하여 특정 효과를 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438528?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

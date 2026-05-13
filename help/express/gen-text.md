@@ -6,9 +6,13 @@ role: User
 level: Intermediate
 jira: KT-14847
 exl-id: 13ed15ce-adc3-453c-98c8-365319d4d985
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/f3IH3o6tPKEt5CMCOR7uukzFGkwLYbS5SWqygzP1vA8
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 116
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Adobe Firefly 기반의 텍스트 효과를 사용하여 인상적인 디자인을 만드는 방법을 살펴보세요. 텍스트 프롬프트를 사용하여 다듬고 다듬을 수 있는 뛰어난 텍스트 효과를 생성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438822?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

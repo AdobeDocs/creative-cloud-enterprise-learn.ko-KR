@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D 조명, 600 글로벌 MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -56,7 +61,7 @@ ht-degree: 0%
 
 ![사진, 3D 스튜디오 장면 및 추상적인 3D 장면으로 만들어진 환경 조명의 예](assets/Mastering3dlighting_5.jpg)
 
-[[!DNL Dimension]](https://www.adobe.com/kr/products/dimension.html)에서 새 장면을 만들면 기본 환경 조명이 자동으로 만들어집니다. 이것이 바로 여러분이 장면에서 즉시 어떤 것을 실제로 볼 수 있는 이유입니다. Adobe [!DNL Dimension] 스타터 에셋에는 즉시 사용할 수 있는 특정 수의 환경 조명이 포함되어 있습니다. 또한 [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp)에서는 방대한 양의 큐레이션된 환경 조명을 제공합니다.
+[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)에서 새 장면을 만들면 기본 환경 조명이 자동으로 만들어집니다. 이것이 바로 여러분이 장면에서 즉시 어떤 것을 실제로 볼 수 있는 이유입니다. Adobe [!DNL Dimension] 스타터 에셋에는 즉시 사용할 수 있는 특정 수의 환경 조명이 포함되어 있습니다. 또한 [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)에서는 방대한 양의 큐레이션된 환경 조명을 제공합니다.
 
 환경 조명은 매우 현실적인 결과를 만들어 내고 시간을 많이 절약할 수 있습니다. 이와 유사한 결과를 수동으로 달성하려면 실제로 전체 환경을 3D(다양한 광원 포함)로 생성해야 하는데, 이 작업량은 상당히 많습니다.
 

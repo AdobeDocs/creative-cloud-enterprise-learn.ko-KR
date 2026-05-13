@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a09a5a04-e30b-4d55-b031-38e6f5ec86dbid: e9001ce2-5245-4a8e-8601-dd958009072f
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: 462
 ht-degree: 0%
 
 ---
@@ -44,7 +49,7 @@ Adobe XD은 웹 사이트, 앱, 음성 인터페이스, 게임 및 기타 유형
       <img alt="XD 및 Adobe으로 확대/축소 가능한 전자상거래 사진 만들기 [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>XD 및 Adobe [!DNL Stock] (PDF)로 확대 가능한 전자 상거래 사진 만들기</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>XD 및 Adobe [!DNL Stock](PDF)로 확대 가능한 전자 상거래 사진 만들기</strong></a>
     </div>
     <em>고해상도 사진과 Adobe XD의 자동 애니메이트 기능을 결합하면 웹 사이트에 더 매력적인 경험을 디자인할 수 있습니다</em>
     <br>

@@ -5,9 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/N68AN3n3lBaxQ3mlKPFSg6ZMIQFHroUaYZLtWCnkSN0
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: 378
 ht-degree: 0%
 
 ---
@@ -64,7 +70,7 @@ Photoshop용 Design to Print 플러그인을 설치하는 방법에 대해 알�
 * 의류, 액세서리, 문구, 벽 예술과 같은 제품에 대한 디자인을 실시간으로 시각화하세요!
 * Publish에서 Dazzle 온라인 마켓플레이스로
 
-**발표자:**
+**제공:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 ## 인쇄용 디자인으로 얼굴 마스크 사용자 정의(7:54) {#tutorial2}
@@ -82,7 +88,7 @@ Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 [![인쇄할 디자인 학습](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
-**발표자:**
+**제공:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 ## 얼굴 마스크의 3D 시각화 만들기(7:54) {#tutorial3}
@@ -101,5 +107,5 @@ Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)
 
 [![비교 이미지](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
-**발표자:**
+**제공:**
 Patti Sokol, 수석 솔루션 컨설턴트(디지털 미디어)

@@ -5,9 +5,15 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/LGtlNdEpPGoeGyMlNwi3UfUCRJ5ICMDXu4kLt--bgbE
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: 206
 ht-degree: 2%
 
 ---
@@ -43,7 +49,7 @@ Photoshop은 세계 최고 수준의 이미징 및 그래픽 디자인 소프트
 </tr>
 </table>
 
-## iPad에서 Photoshop 소개 (5:14) {#tutorial1}
+## iPad(5:14)에서 Photoshop 소개 {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
@@ -56,14 +62,14 @@ Photoshop은 세계 최고 수준의 이미징 및 그래픽 디자인 소프트
 * 더욱 매력적이고 자연스러운 경험
 * 클라우드 문서를 통한 원활한 워크플로우
 
-**발표자:**
+**제공:**
 Dan Armstrong, 솔루션 컨설턴트(디지털 미디어)
 
 ![iPad 로고의 Photoshop](../assets/ps_appicon_96.png)
 
 **iPad 리소스의 Photoshop**
 
-[학습 및 지원](https://helpx.adobe.com/kr/support/photoshop.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
+[학습 및 지원](https://helpx.adobe.com/support/photoshop.html)은(는) 추가 자습서와 커뮤니티 포럼에 대한 링크를 위한 허브입니다.
 
 **2020년 10월 릴리스**
 

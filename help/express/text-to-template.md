@@ -6,9 +6,13 @@ role: User
 level: Intermediate
 jira: KT-14848
 exl-id: 8160e596-4df5-42b1-a764-871fe31b5457
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/x85eRQcflxfWXRUb85kOFJqDhV64aaWdhAmJLF5HJF8
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 122
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 텍스트 설명으로 몇 초 내에 소셜 게시물, 포스터, 전단지 및 카드용 편집 가능한 템플릿을 생성하는 방법을 알아봅니다. 다운로드하거나 공유하기 전에 디자인을 편집하고, 글꼴을 변경하고, 프로젝트를 추가로 브랜딩할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438129?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

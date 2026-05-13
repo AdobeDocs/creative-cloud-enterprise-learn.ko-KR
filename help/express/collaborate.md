@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: null
 exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+TQID: https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 동료 초대, 권한 설정, 댓글 해결 및 프로젝트 동시 작업을 포함하여 크리에이티브 프로젝트에서 동료와 공동 작업하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439544?quality=12&learn=on&hidetitle=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 
