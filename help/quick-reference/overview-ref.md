@@ -7,11 +7,19 @@ level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42aid: b29e1156-4668-4c0c-84e3-9347e94225edid: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 1212
@@ -296,7 +304,7 @@ ht-degree: 0%
       <img alt="독창적인 프로젝트 및 Adobe으로 Portfolio 향상 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>고유한 프로젝트 및 Adobe [!DNL Stock](PDF)</strong></a>을(를) 사용하여 Portfolio 향상
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>고유한 프로젝트 및 Adobe [!DNL Stock] (PDF)</strong></a>을(를) 사용하여 Portfolio 향상
     </div>
     <em>Adobe [!DNL Stock]의 이미지를 결합하여 디자인 프로젝트에 사용할 완전히 새로운 이미지를 만드세요</em>
     <br>
@@ -306,7 +314,7 @@ ht-degree: 0%
       <img alt="Adobe의 모션으로 더 많은 주목을 끌기 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>Adobe [!DNL Stock](PDF)의 모션으로 더 많은 관심을 끌기</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>Adobe [!DNL Stock] (PDF)의 모션으로 더 많은 관심을 끌기</strong></a>
     </div>
     <em>[!DNL Capture] Adobe [!DNL Stock]</em>의 사진과 비디오를 결합하여 모든 화면에서 관객의 주의를 끕니다.
     <br>
@@ -338,7 +346,7 @@ ht-degree: 0%
       <img alt="Adobe을 사용하여 전자 메일에서 애니메이션 만들기 팁 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Adobe [!DNL Stock](PDF)이(가) 있는 전자 메일에서 애니메이션을 만드는 방법에 대한 팁</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Adobe [!DNL Stock] (PDF)이(가) 있는 전자 메일에서 애니메이션을 만드는 방법에 대한 팁</strong></a>
     </div>
     <em>Photoshop에서 정적 이미지와 비디오를 결합하여 광범위한 고객 전자 메일 응용 프로그램에 적합한 캠페인에 적합한 매력적인 애니메이션 GIF을 만듭니다.</em>
     <br>
@@ -365,7 +373,7 @@ ht-degree: 0%
       <img alt="Adobe [!DNL Stock]을(를) 사용하여 사실적인 3D 목업 만들기 및 [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Adobe [!DNL Stock] 및 [!DNL Dimension](PDF)을(를) 사용하여 사실적인 3D 목업 만들기</strong></a>
+   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Adobe [!DNL Stock] 및 [!DNL Dimension] (PDF)을(를) 사용하여 사실적인 3D 목업 만들기</strong></a>
     </div>
     <em>Adobe [!DNL Stock]의 3D 모델을 [!DNL Dimension]</em>의 사용자 지정 데칼과 결합하여 디자인이 실제 개체로 변환되는 방식을 확인하세요.
     <br>
