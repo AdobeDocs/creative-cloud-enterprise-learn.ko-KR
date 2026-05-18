@@ -7,10 +7,15 @@ level: Beginner, Intermediate
 keywords: 가상 포토그래피, 100개 글로벌 MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
 TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 2406
@@ -24,7 +29,7 @@ ht-degree: 0%
 
 위의 이미지를 보면, 보이는 모든 것이 실재한다고 가정해도 무리가 아닙니다. 그러나 실사적인 3D 이미지 렌더링의 기술적 진보로 인해 무엇이 실제이고 무엇이 가상인지 파악하는 것이 그 어느 때보다 어려워졌습니다. 이 경우 이미지는 실제, 사진, 렌더링된 3D 콘텐츠가 혼합되어 있으며, 이는 바로 기업이 투자하고 있는 3D 디자인 유형입니다.
 
-James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면](assets/Photorealistic_2.jpg)![
+James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면![&#128279;](assets/Photorealistic_2.jpg)
 
 3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
 
