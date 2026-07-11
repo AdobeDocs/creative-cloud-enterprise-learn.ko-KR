@@ -33,7 +33,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" title="Firefly 그래프란?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1c8848f3fe12b166eda2891db416bc533231107c8.png?width=400&format=webply&optimize=medium" alt="Firefly 그래프란?"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1c8848f3fe12b166eda2891db416bc533231107c8.png?width=400&format=webply&optimize=medium" alt="Firefly 그래프란?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" title="Firefly 그래프 주요 개념" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1241ec7a897ee7101ae8354ba98163a2bb9fee2fa.png?width=400&format=webply&optimize=medium" alt="Firefly 그래프 주요 개념"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1241ec7a897ee7101ae8354ba98163a2bb9fee2fa.png?width=400&format=webply&optimize=medium" alt="Firefly 그래프 주요 개념"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="첫 그래프 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1522002b4ca9a5ead61abc2b0f367e873cc12c731.png?width=400&format=webply&optimize=medium" alt="첫 그래프 만들기"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1522002b4ca9a5ead61abc2b0f367e873cc12c731.png?width=400&format=webply&optimize=medium" alt="첫 그래프 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +109,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" title="템플릿 사용자 정의" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1caebbd45d337e6a6ff699be8a27cf0ec94a0fe03.png?width=400&format=webply&optimize=medium" alt="템플릿 사용자 정의"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1caebbd45d337e6a6ff699be8a27cf0ec94a0fe03.png?width=400&format=webply&optimize=medium" alt="템플릿 사용자 정의"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,7 +139,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library" title="Firefly 그래프 템플릿 라이브러리" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1922dda5ae5fcff927ebe700a90487f6dc5a49fe7.png?width=400&format=webply&optimize=medium" alt="Firefly 그래프 템플릿 라이브러리"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1922dda5ae5fcff927ebe700a90487f6dc5a49fe7.png?width=400&format=webply&optimize=medium" alt="Firefly 그래프 템플릿 라이브러리"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
