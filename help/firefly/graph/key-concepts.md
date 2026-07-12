@@ -1,0 +1,43 @@
+---
+title: Firefly 그래프 주요 개념
+description: Firefly 그래프 멘탈 모델을 다루는 네 가지 아이디어 - 노드, 연결, 작업 과정 및 템플릿
+feature: Image Editing, Gen AI
+role: User
+level: Beginner
+jira: KT-
+hide: true
+hidefromtoc: true
+source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 0%
+
+---
+
+# Firefly 그래프 주요 개념
+
+네 가지 아이디어는 Firefly 그래프를 시작하는 데 필요한 멘탈 모델을 다룹니다.
+
+## 노드
+
+노드는 워크플로에서 한 단계(노드, 작업)를 수행합니다. 노드는 이미지를 생성하거나, 마스크를 적용하거나, 색상을 이동하거나, 기타 단일 크리에이티브 작업을 실행할 수 있습니다.
+
+## 연결
+
+연결은 두 노드 사이에서 입력 또는 출력을 전달한다. 그래프는 소스 입력에서 최종 출력까지 왼쪽에서 오른쪽으로 읽습니다.
+
+## 워크플로우(또는 그래프)
+
+워크플로 또는 그래프는 첫 번째 입력에서 최종 출력까지 연결된 노드의 완전한 종단간 체인입니다. 빌드된 후에는 이를 실행하고, 다듬고, 저장하고, 공유할 수 있습니다.
+
+## 템플릿
+
+템플릿은 다른 사용자가 이미 빌드한 그래프입니다. 템플릿에서 시작하여 빈 캔버스를 제거하고 나만의 브리프에 적응할 수 있는 작업 시작점을 제공합니다.
+
+## 빌드하기 전에 이 문제가 중요한 이유
+
+그래프는 설계에 따라 융통성이 있습니다. 이렇게 유연하다는 것은 빌드를 시작하기 *전에*&#x200B;원하는 결과와 워크플로에 대해 구체화할 필요가 있다는 것을 의미합니다. 즉, 템플릿과 노드 라이브러리가 올바른 작업을 쉽게 가리킬 수 있습니다.
+
+## 다음 단계
+
+뭔가를 만들 준비가 되셨습니까? [첫 번째 그래프 만들기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)로 이동하여 단계별 연습을 진행합니다.
