@@ -1,5 +1,5 @@
 ---
-title: 첫 그래프 만들기
+title: ​3. 첫 그래프 만들기
 description: 빈 캔버스에서 내보내기에 이르기까지 첫 번째 Firefly 그래프 워크플로우를 구축하기 위한 단계별 워크스루
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# 첫 번째 그래프 만들기
+# &#x200B;3. 첫 번째 그래프 만들기
 
 노드, 연결 및 템플릿이 무엇인지 알게 되면 첫 번째 워크플로우를 빌드할 준비가 된 것입니다.
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## 다음 단계
 
-템플릿에서 시작하시겠습니까? [템플릿 사용자 지정](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)&#x200B;(으)로 이동하여 자신만의 간략한 정보를 반영합니다.
+템플릿에서 시작하시겠습니까? [4로 이동합니다. 템플릿 ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
