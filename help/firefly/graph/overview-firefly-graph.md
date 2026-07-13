@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
+source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="사탕 쟁반" src="../assets/graph-what-is.png" />
+      <img alt="사탕 쟁반" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Firefly 그래프란?</strong></a>
@@ -36,7 +36,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="종이접기" src="../assets/graph-key-concepts.png" />
+      <img alt="종이접기" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>주요 개념</strong></a>
@@ -46,7 +46,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="메이크업 한 병" src="../assets/graph-first.png" />
+      <img alt="메이크업 한 병" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>첫 번째 그래프 만들기</strong></a>
@@ -56,7 +56,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="벌" src="../assets/graph-template.png" />
+      <img alt="벌" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>템플릿 사용자 지정</strong></a>
@@ -68,7 +68,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="디지털 북" src="../assets/graph-library.png" />
+      <img alt="디지털 북" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>템플릿 라이브러리</strong></a>
