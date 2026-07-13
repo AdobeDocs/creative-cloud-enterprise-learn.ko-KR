@@ -26,4 +26,4 @@ ht-degree: 3%
 
 ## 다음 단계
 
-시작할 템플릿을 모르시겠습니까? [템플릿 라이브러리](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)에서 사용 사례와 가까운 템플릿을 찾습니다.
+시작할 템플릿을 모르시겠습니까? [템플릿 라이브러리](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)에서 사용 사례와 가까운 템플릿을 찾습니다.

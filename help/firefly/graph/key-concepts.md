@@ -38,4 +38,4 @@ ht-degree: 0%
 
 ## 다음 단계
 
-뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
+뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
