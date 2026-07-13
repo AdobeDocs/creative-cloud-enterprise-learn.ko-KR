@@ -1,5 +1,5 @@
 ---
-title: ​4. 템플릿 사용자 정의
+title: ​5. 템플릿 사용자 정의
 description: Firefly 그래프 템플릿을 작업 과정으로 전환하기 위한 간단한 체크리스트로, 간단한 작업 과정과 에셋에 대해 설명합니다
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 3%
 
 ---
 
-# &#x200B;4. 템플릿 맞춤화
+# &#x200B;5. 템플릿 맞춤화
 
 모든 템플릿은 샘플 입력 및 일반적인 사용 사례와 함께 제공됩니다. 사용자의 간략한 정보, 에셋 및 결과를 반영해야 *사용자*&#x200B;에게 작동하는 워크플로가 됩니다.
 
@@ -26,4 +26,4 @@ ht-degree: 3%
 
 ## 다음 단계
 
-시작할 템플릿을 모르시겠습니까? [템플릿 라이브러리](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)에서 사용 사례와 가까운 템플릿을 찾습니다.
+시작할 템플릿을 모르시겠습니까? [템플릿 라이브러리](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)에서 사용 사례와 가까운 템플릿을 찾습니다.

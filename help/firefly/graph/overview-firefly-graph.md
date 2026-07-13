@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
@@ -52,23 +52,23 @@ ht-degree: 2%
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="메이크업 항아리 다른 배경" src="../assets/graph-4.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>4. 템플릿 사용자 지정</strong></a></div>
-    <em>템플릿을 나만의 시작 아이디어를 반영하도록 설정</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
    <a href="template-library.md">
       <img alt="최종 배경의 메이크업 단지" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>5. 템플릿 라이브러리</strong></a></div>
+   <a href="template-library.md"><strong>4. 템플릿 라이브러리</strong></a></div>
     <em>각 항목에 대한 설명 및 링크가 포함된 모든 템플릿 검색</em>
+    
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="메이크업 항아리 다른 배경" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. 템플릿 사용자 지정</strong></a></div>
+    <em>템플릿을 나만의 시작 아이디어를 반영하도록 설정</em>
     
   </td>
   <td>

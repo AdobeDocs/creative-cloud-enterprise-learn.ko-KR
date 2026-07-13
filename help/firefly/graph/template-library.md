@@ -1,5 +1,5 @@
 ---
-title: ​5. Firefly 그래프 템플릿 라이브러리
+title: ​4. Firefly 그래프 템플릿 라이브러리
 description: 직접 프로젝트를 열고 조정할 수 있는 준비된 Firefly 그래프 템플릿을 찾아보세요
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Firefly 그래프 템플릿 라이브러리
+# &#x200B;4. Firefly 그래프 템플릿 라이브러리
 
 각 템플릿은 다른 사용자가 이미 작성한 완전한 그래프입니다. 파일을 열어 정확하게 작동 방식을 확인한 다음 사용자 입력을 변경하여 원하는 버전으로 만듭니다.
 
