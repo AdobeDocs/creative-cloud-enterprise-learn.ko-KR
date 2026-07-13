@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: cea3bda4e2e40bc93cf279c2720c537a95902bd7
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [개요](firefly/overview-firefly.md)
    + 튜토리얼 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]의 개요](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]의 개요](firefly/overview-of-firefly.md)
       + [탐색 [!DNL Adobe Firefly]](firefly/discover.md)
       + [크리에이티브 아이디어 가속화](firefly/accelerate-ideas.md)
       + [재사용 가능한 상품 장면 만들기](firefly/reusable-scenes.md)
@@ -121,22 +121,22 @@ ht-degree: 4%
       + [텍스트 효과](firefly/text-effects.md)
       + [생성형 채우기](firefly/gen-fill.md)
       + [생성형 색상 변경](firefly/gen-recolor.md)
-      + [&#x200B; [!DNL Firefly] 사용 방법의 예](firefly/examples.md)
+      + [ [!DNL Firefly] 사용 방법의 예](firefly/examples.md)
       + [크리에이티브 효율성 활성화](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]의 배너 광고 변형](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]의 배너 광고 변형](firefly/web-banner-ad.md)
       + [생성형 채우기  [!DNL Photoshop]](firefly/generative-fill.md)
-      + [&#x200B; [!DNL Illustrator]의 생성형 다시 칠하기](firefly/generative-recolor.md)
+      + [ [!DNL Illustrator]의 생성형 다시 칠하기](firefly/generative-recolor.md)
    + Creative Production 튜토리얼 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] 크리에이티브 제작 개요](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] 크리에이티브 제작 개요](firefly/creative-production/overview-firefly-creative-production.md)
       + [배경 제거 및 교체](firefly/creative-production/background.md)
-   + 그래프 튜토리얼 {#firefly-graph}
-      + [&#x200B; [!DNL Adobe Firefly Graph]의 개요](firefly/graph/overview-firefly-graph.md)
-      + [Firefly 그래프란?](firefly/graph/what-is-firefly-graph.md)
-      + [Firefly 그래프 주요 개념](firefly/graph/key-concepts.md)
-      + [첫 번째 그래프 만들기](firefly/graph/create-your-first-graph.md)
-      + [템플릿 맞춤화](firefly/graph/customize-template.md)
-      + [템플릿 라이브러리](firefly/graph/template-library.md)
-      + [Firefly 그래프 웨비나 소개](firefly/graph/introducing-graph.md)
+   + 그래프 자습서 {hide-from-toc}개 {#firefly-graph}
+      + {hide-from-toc}[개요 [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Firefly 그래프란?](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Firefly 그래프 주요 개념](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[첫 번째 그래프 만들기](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[템플릿 사용자 지정](firefly/graph/customize-template.md)
+      + {hide-from-toc}[템플릿 라이브러리](firefly/graph/template-library.md)
+      + {hide-from-toc}[Firefly 그래프 웨비나 소개](firefly/graph/introducing-graph.md)
    + 웨비나 {#firefly-webinars}
       + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
@@ -148,7 +148,7 @@ ht-degree: 4%
       + [마스크와 애니메이션을 사용하여 타이포그래피에 멋스러움 더하기](stock/flairtypography.md)
       + [Photoshop에서 Adobe [!DNL Stock] 벡터 일러스트레이션 애니메이트](stock/animatevector.md)
       + [Adobe [!DNL Stock] 와 Spark Video으로 만든 비디오로 연간 보고서 시작](stock/annualreport.md)
-      + [&#x200B; [!DNL Stock] Adobe의 맞춤 애니메이션으로 창의력 발휘](stock/customanimations.md)
+      + [ [!DNL Stock] Adobe의 맞춤 애니메이션으로 창의력 발휘](stock/customanimations.md)
       + [Adobe [!DNL Stock] 이미지의 색상을 스토리에 맞게 변경](stock/changecolors.md)
       + [Adobe [!DNL Stock] 이미지를 사용하여 포스터의 3D 콜라주 만들기](stock/collage.md)
       + [Adobe [!DNL Stock] 템플릿과 Photoshop 고급 개체로 굵은 레이블 만들기](stock/boldlabel.md)
@@ -172,7 +172,7 @@ ht-degree: 4%
       + [3D 디자인 및 렌더링](3di/substance-3d-stager.md)
       + [CGI에서 3D 조명 마스터를 위한 팁 및 기술](3di/mastering3dlighting.md)
       + [3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기](3di/photorealistic.md)
-      + [&#x200B; [!DNL Dimension] 및 Adobe [!DNL Stock]을(를) 사용하여 3D 모델 사용자 지정 및 브랜딩](3di/3ddimensionstock.md)
+      + [ [!DNL Dimension] 및 Adobe [!DNL Stock]을(를) 사용하여 3D 모델 사용자 지정 및 브랜딩](3di/3ddimensionstock.md)
 + Adobe 비디오 {#videooverview}
    + [개요](dva/overview-dva.md)
    + 튜토리얼 {#videotutorials}
