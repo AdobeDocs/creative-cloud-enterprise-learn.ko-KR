@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 2d9ac7a1afbf639af4ba701833fb26cf1f60ee85
+source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -78,7 +78,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="디지털 북" src="../assets/graph-library.png" />
+      <img alt="디지털 북" src="../assets/graph-introducing.png" />
    </a>
     <div>
    <a href="introducing-graph.md"><strong>Firefly 그래프 소개</strong></a>
@@ -87,12 +87,12 @@ ht-degree: 0%
     
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Whitespacer.png" />
+    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
