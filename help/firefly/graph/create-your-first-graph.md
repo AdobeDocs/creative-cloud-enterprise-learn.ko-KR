@@ -24,4 +24,4 @@ ht-degree: 2%
 
 ## 다음 단계
 
-템플릿에서 시작하시겠습니까? [4로 이동합니다. 템플릿 &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
+템플릿에서 시작하시겠습니까? [4로 이동합니다. 템플릿 &#x200B;](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
