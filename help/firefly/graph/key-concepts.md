@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -38,4 +38,6 @@ ht-degree: 0%
 
 ## 다음 단계
 
-뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
+뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
