@@ -1,5 +1,5 @@
 ---
-title: Firefly 그래프 주요 개념
+title: ​2. Firefly 그래프 주요 개념
 description: Firefly 그래프 멘탈 모델을 다루는 네 가지 아이디어 - 노드, 연결, 작업 과정 및 템플릿
 feature: Image Editing, Gen AI
 role: User
@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Firefly 그래프 주요 개념
+# &#x200B;2. Firefly 그래프 주요 개념
 
 네 가지 아이디어는 Firefly 그래프를 시작하는 데 필요한 멘탈 모델을 다룹니다.
+
+![주요 개념](../assets/concepts.png)
 
 ## 노드
 
@@ -25,10 +27,6 @@ ht-degree: 0%
 ## 연결
 
 연결은 두 노드 사이에서 입력 또는 출력을 전달한다. 그래프는 소스 입력에서 최종 출력까지 왼쪽에서 오른쪽으로 읽습니다.
-
-## 워크플로우(또는 그래프)
-
-워크플로 또는 그래프는 첫 번째 입력에서 최종 출력까지 연결된 노드의 완전한 종단간 체인입니다. 빌드된 후에는 이를 실행하고, 다듬고, 저장하고, 공유할 수 있습니다.
 
 ## 템플릿
 
@@ -40,4 +38,4 @@ ht-degree: 0%
 
 ## 다음 단계
 
-뭔가를 만들 준비가 되셨습니까? [첫 번째 그래프 만들기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)로 이동하여 단계별 연습을 진행합니다.
+뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.

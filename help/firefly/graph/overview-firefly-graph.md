@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ ht-degree: 0%
       <img alt="메이크업 단지" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>Firefly 그래프란?</strong></a>
-    </div>
-    <em>단일 프롬프트와 그래프를 비교하는 방법</em>
+   <a href="what-is-firefly-graph.md"><strong>1. Firefly 그래프란?</strong></a></div>
+    <em>Firefly 그래프가 무엇인지, 단일 프롬프트와 어떻게 비교되는지 알아보세요</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ ht-degree: 0%
       <img alt="배경이 있는 메이크업 항아리" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>주요 개념</strong></a>
-    </div>
-    <em>노드, 연결 및 템플릿</em>
+   <a href="key-concepts.md"><strong>2. 주요 개념</strong></a></div>
+    <em>노드, 연결 및 템플릿에 대해 알아보기</em>
     
   </td>
   <td>
@@ -49,36 +47,33 @@ ht-degree: 0%
       <img alt="메이크업 항아리 새로운 배경" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>첫 번째 그래프 만들기</strong></a>
-    </div>
-    <em>캔버스에서 내보내기까지 5단계 연습</em>
+   <a href="create-your-first-graph.md"><strong>3. 첫 번째 그래프 만들기</strong></a></div>
+    <em>캔버스에서 내보내기까지의 연습</em>
     
   </td>
+  <td>
+   <a href="template-library.md">
+      <img alt="최종 배경의 메이크업 단지" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>4. 템플릿 라이브러리</strong></a></div>
+    <em>각 항목에 대한 설명 및 링크가 포함된 모든 템플릿 검색</em>
+    
+  </td>
+</tr>
+<tr>
   <td>
    <a href="customize-template.md">
       <img alt="메이크업 항아리 다른 배경" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>템플릿 사용자 지정</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>5. 템플릿 사용자 지정</strong></a></div>
     <em>템플릿을 나만의 시작 아이디어를 반영하도록 설정</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
-   <a href="template-library.md">
-      <img alt="최종 배경의 메이크업 단지" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>템플릿 라이브러리</strong></a>
-    </div>
-    <em>각 항목에 대한 설명 및 링크가 포함된 모든 템플릿 검색</em>
     
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="디지털 북" src="../assets/graph-introducing.png" />
+      <img alt="초콜릿 상자" src="../assets/graph-introducing.png" />
    </a>
     <div>
    <a href="introducing-graph.md"><strong>Firefly 그래프 웨비나 소개</strong></a>
@@ -87,12 +82,12 @@ ht-degree: 0%
     
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <img alt="스페이서" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/Gray_thumbnail.png" />
+    <img alt="스페이서" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
