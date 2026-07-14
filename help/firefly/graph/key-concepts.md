@@ -1,24 +1,24 @@
 ---
 title: ​2. Firefly 그래프 주요 개념
-description: Firefly 그래프 멘탈 모델을 다루는 네 가지 아이디어 - 노드, 연결, 작업 과정 및 템플릿
+description: Firefly 그래프를 시작하는 데 도움이 되는 주요 개념에 대해 알아보십시오
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 # &#x200B;2. Firefly 그래프 주요 개념
 
-네 가지 아이디어는 Firefly 그래프를 시작하는 데 필요한 멘탈 모델을 다룹니다.
+Firefly 그래프를 시작하는 데 도움이 되는 주요 개념에 대해 알아보십시오.
 
-![주요 개념](../assets/concepts.png)
+![주요 개념](../assets/concepts.png){align="center"}
 
 ## 노드
 
@@ -39,3 +39,5 @@ ht-degree: 0%
 ## 다음 단계
 
 뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

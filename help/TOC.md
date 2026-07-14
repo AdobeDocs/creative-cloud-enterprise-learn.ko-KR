@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '787'
 ht-degree: 3%
 
 ---
@@ -135,7 +135,6 @@ ht-degree: 3%
       + {hide-from-toc}[Firefly 그래프 주요 개념](firefly/graph/key-concepts.md)
       + {hide-from-toc}[첫 번째 그래프 만들기](firefly/graph/create-your-first-graph.md)
       + {hide-from-toc}[템플릿 사용자 지정](firefly/graph/customize-template.md)
-      + {hide-from-toc}[템플릿 라이브러리](firefly/graph/template-library.md)
       + {hide-from-toc}[Firefly 그래프 웨비나 소개](firefly/graph/introducing-graph.md)
    + 웨비나 {#firefly-webinars}
       + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
