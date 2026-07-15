@@ -30,7 +30,7 @@ ht-degree: 0%
 
    초대된 사용자, 조직의 모든 사용자 또는 링크를 보유한 모든 사용자 라는 세 가지 액세스 수준을 사용할 수 있습니다.
 
-1. 회사 내의 모든 사용자가 링크가 있는 그래프를 열 수 있도록 **조직]의 모든 사용자가 볼 수 있음**&#x200B;을 선택합니다.[
+1. 회사 내의 모든 사용자가 링크가 있는 그래프를 열 수 있도록 **조직&rbrack;의 모든 사용자가 볼 수 있음**&#x200B;을 선택합니다.&lbrack;
 
    ![액세스](../assets/share_3.png){align="center"}
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
 ## 다음 단계
 
-템플릿에서 시작하시겠습니까? [5로 이동합니다. 템플릿 ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
+템플릿에서 시작하시겠습니까? [5로 이동합니다. 템플릿 &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
 
 [Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
