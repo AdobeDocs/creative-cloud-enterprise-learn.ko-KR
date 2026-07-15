@@ -8,7 +8,8 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
+nudge: true
+source-git-commit: dccb91143eafcea26362e77f119b0bcbfef7d3b6
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 3%
@@ -187,3 +188,4 @@ ht-degree: 3%
    + [개요](deploy/overview-deploy.md)
    + [시리얼 번호 만료](deploy/cceserial.md)
    + [지정된 사용자 라이선싱](deploy/nameduserlicensing.md)
+
