@@ -4,10 +4,10 @@ description: Firefly 그래프 템플릿을 작업 과정으로 전환하기 위
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%
@@ -24,4 +24,4 @@ ht-degree: 3%
 4. **변수 하나를 변경하고 다시 실행**&#x200B;하면 해당 단계의 컨트롤을 정확하게 확인할 수 있습니다.
 5. **사용자 지정 버전을 고유한 이름으로 저장합니다.**
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

@@ -4,10 +4,10 @@ description: 첫 번째 Firefly 그래프를 만들기 위한 단계별 연습
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22054
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 1%
@@ -25,10 +25,10 @@ ht-degree: 1%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495917?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
 
 ## 다음 단계
 
-템플릿에서 시작하시겠습니까? [4로 이동합니다. 템플릿 &#x200B;](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
+템플릿에서 시작하시겠습니까? [4로 이동합니다. 템플릿 ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
