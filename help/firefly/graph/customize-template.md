@@ -24,4 +24,4 @@ ht-degree: 3%
 4. **변수 하나를 변경하고 다시 실행**&#x200B;하면 해당 단계의 컨트롤을 정확하게 확인할 수 있습니다.
 5. **사용자 지정 버전을 고유한 이름으로 저장합니다.**
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
