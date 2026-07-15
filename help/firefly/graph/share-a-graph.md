@@ -4,12 +4,12 @@ description: 다른 사용자와 그래프를 공유하는 방법 알아보기
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -30,14 +30,15 @@ ht-degree: 0%
 
    초대된 사용자, 조직의 모든 사용자 또는 링크를 보유한 모든 사용자 라는 세 가지 액세스 수준을 사용할 수 있습니다.
 
-1. 회사 내의 모든 사용자가 링크가 있는 그래프를 열 수 있도록 **조직&rbrack;의 모든 사용자가 볼 수 있음**&#x200B;을 선택합니다.&lbrack;
+1. 회사 내의 모든 사용자가 링크가 있는 그래프를 열 수 있도록 **조직]의 모든 사용자가 볼 수 있음**&#x200B;을 선택합니다.[
 
    ![액세스](../assets/share_3.png){align="center"}
 
-   구성원이 링크를 전혀 사용하지 않고 그래프를 찾을 수 있도록 검색을 통해 검색 가능 기능을 켭니다.
-확인 배너에는 링크를 사용하여 그래프를 볼 수 있는 사용자가 정확하게 표시됩니다. 링크를 어디든 보내기 전에 이 확인란을 선택합니다. 다음에 초대된 사용자만 해당 링크의 향후 모든 수신자에게 적용됩니다.
+1. 구성원이 링크를 전혀 사용하지 않고 그래프를 찾을 수 있도록 검색을 통해 검색 가능 기능을 켭니다.
 
    ![배너](../assets/share_4.png){align="center"}
+
+   확인 배너에는 링크를 사용하여 그래프를 볼 수 있는 사용자가 정확하게 표시됩니다. 링크를 어디든 보내기 전에 이 확인란을 선택합니다. 다음에 초대된 사용자만 해당 링크의 향후 모든 수신자에게 적용됩니다.
 
 1. 초대 필드에 이메일 주소를 직접 입력하여 일반적인 링크 설정과 별도로 한 사람에게 액세스 권한을 부여합니다. 필드 아래에 표시되는 제안에서 해당 입력을 선택합니다.
 
@@ -55,6 +56,6 @@ ht-degree: 0%
 
 ## 다음 단계
 
-템플릿에서 시작하시겠습니까? [5로 이동합니다. 템플릿 &#x200B;](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
+템플릿에서 시작하시겠습니까? [5로 이동합니다. 템플릿 ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
