@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dccb91143eafcea26362e77f119b0bcbfef7d3b6
+source-git-commit: 2228d76351909fe09423f9715f15e644b5d74d12
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '790'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
       + {hide-from-toc}[Firefly 그래프란?](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Firefly 그래프 주요 개념](firefly/graph/key-concepts.md)
       + {hide-from-toc}[첫 번째 그래프 만들기](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[그래프 공유](firefly/graph/share-a-graph.md)
       + {hide-from-toc}[템플릿 사용자 지정](firefly/graph/customize-template.md)
       + {hide-from-toc}[Firefly 그래프 웨비나 소개](firefly/graph/introducing-graph.md)
    + 웨비나 {#firefly-webinars}
