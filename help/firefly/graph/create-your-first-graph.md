@@ -29,6 +29,6 @@ ht-degree: 1%
 
 ## 다음 단계
 
-[4로 이동합니다. 다른 사용자와 그래프 공유](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) 다른 사용자와 그래프를 공유합니다.
+[4로 이동합니다. 다른 사용자와 그래프 공유](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) 다른 사용자와 그래프를 공유합니다.
 
 [Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
