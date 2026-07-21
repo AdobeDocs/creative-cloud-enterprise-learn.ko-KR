@@ -29,4 +29,4 @@ ht-degree: 1%
 * **음료** - 여름 프로모션을 위한 따뜻한 라이프스타일 배경과 계절별 태그라인을 함께 합니다.
 * **소매** - 빠른 판매 공지를 위해 빠른 스타일의 텍스트 및 배경 에셋을 생성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

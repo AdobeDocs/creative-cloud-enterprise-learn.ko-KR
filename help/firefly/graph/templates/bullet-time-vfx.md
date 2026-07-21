@@ -29,4 +29,4 @@ ht-degree: 1%
 * **리테일** - 제품 출시 페이지용 새 스니커즈의 360도 고정 프레임 샷을 만듭니다.
 * **오토모티브** - 턴테이블 스튜디오 세션 없이 디지털 쇼룸용 차량의 회전하는 히어로 샷을 생성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
