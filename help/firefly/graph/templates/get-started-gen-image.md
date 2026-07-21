@@ -1,21 +1,21 @@
 ---
 title: 시작하기 - 이미지 생성
-description: 가능한 가장 간단한 그래프를 시작하는 방법 알아보기
+description: 하나의 프롬프트 노드를 하나의 생성 노드로 하나의 출력으로 만드는 기본 그래프를 만드는 방법을 알아봅니다.
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # 시작하기 - 이미지 생성
 
-가능한 가장 간단한 그래프를 사용하여 기본 사항을 알아보십시오. 하나의 프롬프트 노드를 하나의 생성 노드로 하나의 출력으로 변환합니다. [시작하기 열기 - 이미지 템플릿 생성](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+하나의 프롬프트 노드를 하나의 생성 노드로 하나의 출력으로 변환하는 기본 그래프를 만드는 방법을 알아봅니다. [시작하기 열기 - 이미지 템플릿 생성](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ ht-degree: 1%
 * **교육** - 실제 프로젝트 작업을 할당하기 전에 새 팀원에게 그래프를 보여 주는 첫 번째 샘플 이미지를 빌드합니다.
 
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

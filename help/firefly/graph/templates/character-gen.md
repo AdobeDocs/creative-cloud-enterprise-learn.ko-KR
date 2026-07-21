@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # 일관된 문자 생성
 
-주변 장면이 변경되는 동안 일관된 문자 참조를 생성하는 방법을 알아봅니다. [일관된 문자 생성 서식 파일을 엽니다](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+캐릭터의 참조 이미지 하나를 로드한 다음 새로운 샷마다 장면 또는 포즈 프롬프트를 바꾸는 방법을 알아봅니다. [일관된 문자 생성 서식 파일을 엽니다](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **소매** - 수십 개의 시즌 제품 사진과 소셜 게시물에서 하나의 브랜드 스포크 캐릭터를 유지합니다.
 * **교육** - 과정의 모든 강의 비디오에서 애니메이션 강사 캐릭터를 일관되게 유지합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
