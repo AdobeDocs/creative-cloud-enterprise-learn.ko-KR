@@ -29,4 +29,4 @@ ht-degree: 1%
 * **소매** - 일관되지 않은 조명 하에서 사진 세트 사진 전체에 걸쳐 제품 색상을 표준화합니다.
 * **재무** - 게시하기 전에 여러 마케팅 사진에서 흩어진 브랜드 색상을 교정합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
