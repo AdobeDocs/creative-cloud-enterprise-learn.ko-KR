@@ -4,9 +4,9 @@ description: 히어로 제품 또는 피사체 이미지를 공급하여 그 주
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22104
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,8 +15,7 @@ ht-degree: 1%
 
 # 글머리 기호 시간 VFX
 
-히어로 제품 또는 피사체 이미지를 공급하여 회전 시퀀스를 생성하는 방법 알아보기
-프레임 주변의 각도를 조정한 다음 고정 프레임을 자동으로 스윕합니다. [글머리 기호 시간 VFX 템플릿 열기](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
+히어로 제품 또는 피사체 이미지를 공급하여 그 주위에 회전하는 각도 시퀀스를 생성한 다음 고정 프레임 스윕을 자동으로 스티치하는 방법을 알아봅니다. [글머리 기호 시간 VFX 템플릿 열기](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
 >[!TIP]
 >
@@ -30,4 +29,4 @@ ht-degree: 1%
 * **리테일** - 제품 출시 페이지용 새 스니커즈의 360도 고정 프레임 샷을 만듭니다.
 * **오토모티브** - 턴테이블 스튜디오 세션 없이 디지털 쇼룸용 차량의 회전하는 히어로 샷을 생성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

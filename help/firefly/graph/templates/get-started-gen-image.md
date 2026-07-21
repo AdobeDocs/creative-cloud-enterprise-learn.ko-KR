@@ -4,9 +4,9 @@ description: 하나의 프롬프트 노드를 하나의 생성 노드로 하나�
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
-source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -30,4 +30,4 @@ ht-degree: 1%
 * **교육** - 실제 프로젝트 작업을 할당하기 전에 새 팀원에게 그래프를 보여 주는 첫 번째 샘플 이미지를 빌드합니다.
 
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

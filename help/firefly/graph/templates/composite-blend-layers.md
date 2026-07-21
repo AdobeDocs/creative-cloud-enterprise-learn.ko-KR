@@ -3,9 +3,9 @@ title: 레이어 합성 및 혼합
 description: 제품 컷아웃과 배경 장면을 별도의 레이어 입력으로 누적하는 방법을 알아봅니다
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **소매** - 홈페이지 배너를 위해 제품 컷아웃을 계절별 라이프스타일 배경에 혼합합니다.
 * **여행** - 공동 브랜드 프로모션을 위해 제품 사진 뒤에 목적지 배경을 합성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
