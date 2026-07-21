@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
+source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -66,14 +66,24 @@ ht-degree: 4%
 </tr>
 <tr>
   <td>
-   <a href="customize-template.md">
-      <img alt="메이크업 항아리 다른 배경" src="../assets/graph-5.png" />
+   <a href="template-library.md">
+      <img alt="변주된 메이크업 항아리" src="../assets/graph-templates.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. 템플릿 사용자 지정</strong></a>
+   <a href="template-library.md"><strong>5. 템플릿 라이브러리</strong></a>
     </div>
-    <em>템플릿을 나만의 시작 아이디어를 반영하도록 설정</em>
+    <em>다양한 템플릿에 대해 모두 알아보기</em>
     <br>
+  </td>
+  <td>
+    <a href="customize-template.md">
+        <img alt="메이크업 항아리 다른 배경" src="../assets/graph-5.png" />
+    </a>
+      <div>
+    <a href="customize-template.md"><strong>6. 템플릿 사용자 정의</strong></a>
+      </div>
+      <em>템플릿을 나만의 시작 아이디어를 반영하도록 설정</em>
+      <br>
   </td>
   <td>
    <a href="introducing-graph.md">
@@ -83,11 +93,6 @@ ht-degree: 4%
    <a href="introducing-graph.md"><strong>Firefly 그래프 웨비나 소개</strong></a>
     </div>
     <em>이 웨비나에서 Firefly의 시각적 워크플로 시스템 그래프에 대해 자세히 알아보세요</em>
-    <br>
-  </td>
-  <td>
-    <img alt="스페이서" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
