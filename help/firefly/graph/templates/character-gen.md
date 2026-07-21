@@ -29,4 +29,4 @@ ht-degree: 1%
 * **소매** - 수십 개의 시즌 제품 사진과 소셜 게시물에서 하나의 브랜드 스포크 캐릭터를 유지합니다.
 * **교육** - 과정의 모든 강의 비디오에서 애니메이션 강사 캐릭터를 일관되게 유지합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

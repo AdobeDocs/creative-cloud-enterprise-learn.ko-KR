@@ -29,4 +29,4 @@ ht-degree: 1%
 * **리테일** - 한 히어로 사진에서 아트 디렉터리의 승인된 모양을 추출하고 전체 시즌의 제품 사진에 적용합니다.
 * **음료** - 새 포장을 일치시키면 수상 경력에 빛나는 캠페인 사진의 분위기를 연출할 수 있습니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
