@@ -1,21 +1,21 @@
 ---
 title: 브랜딩 시각화
-description: 제품 장면에서 로고를 시각화하는 방법 알아보기
+description: 제품 장면에서 로고 또는 브랜드를 시각화하는 방법 알아보기
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '192'
 ht-degree: 1%
 
 ---
 
 # 브랜딩 시각화
 
-제품 장면에서 로고를 시각화하는 방법을 알아봅니다. 브랜드 가이드라인이나 로고 및 색상 팔레트로 피드 및 그래프를 사용하면 한 번의 실행으로 정적 키 아트와 짧은 모션 패스가 모두 출력되므로 두 포맷 모두 시각적으로 정렬된 상태를 유지할 수 있습니다.[브랜딩 시각화 서식 파일을 엽니다](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
+제품 장면에서 로고 또는 브랜드를 시각화하는 방법을 알아봅니다. 브랜드 가이드라인이나 로고 및 색상 팔레트로 피드 및 그래프를 사용하면 한 번의 실행으로 정적 키 아트와 짧은 모션 패스가 모두 출력되므로 두 포맷 모두 시각적으로 정렬된 상태를 유지할 수 있습니다.[브랜딩 시각화 서식 파일을 엽니다](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **음료** - 프로덕션으로 이동할 로고 하나를 선택하기 전에 세 가지 로고 및 색상 팔레트 방향을 완성 버전의 핵심 아트로 테스트합니다.
 * **재무** - 새 카드 또는 앱 ID가 디자인 검토에 도달하기 전에 브랜디드 비주얼로 미리 봅니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
