@@ -29,4 +29,4 @@ ht-degree: 1%
 * **음료** - 시즌 캠페인을 위해 장면 스토리보드별로 장면을 만들고 비트를 재배열하여 컷을 잠그기 전에 페이싱을 테스트합니다.
 * **여행** - 스토리보드는 촬영 목록에 커밋하기 전에 대상 캠페인의 서사적 아크입니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

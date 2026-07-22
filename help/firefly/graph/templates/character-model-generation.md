@@ -29,4 +29,4 @@ ht-degree: 1%
 * **기술** - 정리를 위해 모델러에게 전달할 준비가 된 서면 설명서에서 기본 3D 문자 모델을 생성합니다.
 * **교육** - 강의 비디오 수업에 사용할 3D 강사 문자 모델을 빌드합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

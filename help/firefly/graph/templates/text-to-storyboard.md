@@ -29,4 +29,4 @@ ht-degree: 1%
 * **소매** - 스토리보드는 감독이 예약되기 전에 캠페인 브리프에서 바로 제품 출시 비디오입니다.
 * **기술** - 스토리보드는 애니메이션이 시작되기 전에 관련자를 정렬하기 위한 기능 스크립트의 설명 비디오입니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

@@ -29,4 +29,4 @@ ht-degree: 1%
 * **자동차** - 초기 차량 개념 스케치를 회전형 3D 턴어라운드로 시각화하여 내부 검토를 수행합니다.
 * **엔터테인먼트** - 캐릭터 콘셉트 스케치를 피치 데크의 3D 전환으로 전환합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

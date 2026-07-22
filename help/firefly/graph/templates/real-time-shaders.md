@@ -29,4 +29,4 @@ ht-degree: 1%
 * **자동차** - 실제 프로토타입이 존재하기 전에 차량 모델에서 사용자 정의 페인트 및 재질 셰이더를 미리 봅니다.
 * **소매** - 디지털 선반 디스플레이용 3D 제품 렌더링에서 스타일이 적용된 재질을 테스트합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
