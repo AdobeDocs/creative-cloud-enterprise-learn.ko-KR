@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-![디자인 시스템 생성기](../../assets/design-system.png){align="center"}
-
 [!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
 
 * **기술** - 분기별 기능 출시를 위한 재사용 가능한 아이콘 및 배경 패턴 세트를 생성하고, 광고, 랜딩 페이지 및 소셜 전체에서 디자인을 다시 설명하지 않고 재사용할 수 있습니다.
 * **재무** - 개발을 시작하기 전에 새 앱 재설계를 위해 일관된 아이콘과 색상 시스템을 빌드하세요.
 * **통신 및 통신** - 웹 및 매장 간판에서 새 플랜 계층에 일치하는 시각적 언어를 생성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+![디자인 시스템 생성기](../../assets/design-system.png){align="center"}
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

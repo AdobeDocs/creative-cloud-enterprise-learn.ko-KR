@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-![실시간 셰이더](../../assets/real-time-shaders.png){align="center"}
-
 [!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
 
 * **기술** - 대화형 박람회 데모에서 사용되는 3D 제품 구성자를 위해 사용자 정의 스타일 셰이더 룩을 빌드합니다.
 * **자동차** - 실제 프로토타입이 존재하기 전에 차량 모델에서 사용자 정의 페인트 및 재질 셰이더를 미리 봅니다.
 * **소매** - 디지털 선반 디스플레이용 3D 제품 렌더링에서 스타일이 적용된 재질을 테스트합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+![실시간 셰이더](../../assets/real-time-shaders.png){align="center"}
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-![3D로 스케치](../../assets/sketch-to-3d.png){align="center"}
-
 [!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
 
 * **기술** - 실제 프로토타입 빌드를 커밋하기 전에 초기 하드웨어 개념 스케치를 디자인 검토를 위한 3D 전환으로 전환합니다.
 * **자동차** - 초기 차량 개념 스케치를 회전형 3D 턴어라운드로 시각화하여 내부 검토를 수행합니다.
 * **엔터테인먼트** - 캐릭터 콘셉트 스케치를 피치 데크의 3D 전환으로 전환합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+![3D로 스케치](../../assets/sketch-to-3d.png){align="center"}
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-![문자 모델 생성](../../assets/character-model-generation.png){align="center"}
-
 [!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
 
 * **야외** - 승인된 단일 캐릭터 브리프에서 시작하여 패키징 렌더링 및 비디오에 사용할 트레일 마스코트 캐릭터의 3D 모델을 빌드합니다.
 * **기술** - 정리를 위해 모델러에게 전달할 준비가 된 서면 설명서에서 기본 3D 문자 모델을 생성합니다.
 * **교육** - 강의 비디오 수업에 사용할 3D 강사 문자 모델을 빌드합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+![문자 모델 생성](../../assets/character-model-generation.png){align="center"}
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

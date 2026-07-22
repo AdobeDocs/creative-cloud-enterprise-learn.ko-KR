@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-![비닐 장난감 디자인](../../assets/vinyl-toy-design.png){align="center"}
-
 [!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
 
 * **리테일** - 로열티 프로그램 시작과 관련된 한정 버전의 컬렉션이 디자인되고, 제조 실행을 커밋하기 전에 개념으로 검토됩니다.
 * **음료** - 한정 판매 상품 드롭을 위해 브랜드 마스코트의 수집 가능한 인물을 목격한 것.
 * **엔터테인먼트** - 라이선싱 피치 데크에 사용할 캐릭터를 비닐 장난감 형식으로 미리 봅니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+![비닐 장난감 디자인](../../assets/vinyl-toy-design.png){align="center"}
+
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
