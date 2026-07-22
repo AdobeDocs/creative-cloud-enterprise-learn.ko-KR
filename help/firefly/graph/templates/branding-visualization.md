@@ -29,4 +29,4 @@ ht-degree: 1%
 * **음료** - 프로덕션으로 이동할 로고 하나를 선택하기 전에 세 가지 로고 및 색상 팔레트 방향을 완성 버전의 핵심 아트로 테스트합니다.
 * **재무** - 새 카드 또는 앱 ID가 디자인 검토에 도달하기 전에 브랜디드 비주얼로 미리 봅니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

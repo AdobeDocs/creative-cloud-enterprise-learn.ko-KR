@@ -29,4 +29,4 @@ ht-degree: 1%
 * **재무** - 개발을 시작하기 전에 새 앱 재설계를 위해 일관된 아이콘과 색상 시스템을 빌드하세요.
 * **통신 및 통신** - 웹 및 매장 간판에서 새 플랜 계층에 일치하는 시각적 언어를 생성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

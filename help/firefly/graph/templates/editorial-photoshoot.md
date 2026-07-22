@@ -29,4 +29,4 @@ ht-degree: 1%
 * **뷰티** - 하나의 모델 참조를 사용하여 여러 제품 룩에 걸쳐 일관된 에디토리얼 시리즈를 빌드합니다.
 * **야외** - 단일 모델 촬영에서 새로운 재킷 컬러웨이 라인업에 전체 에디토리얼 세트를 생성합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

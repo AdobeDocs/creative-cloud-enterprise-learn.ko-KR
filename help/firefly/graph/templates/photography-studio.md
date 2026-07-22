@@ -29,4 +29,4 @@ ht-degree: 1%
 * **기술** - 장치를 촬영하기 전에 시작 페이지에 대한 새 장치의 스튜디오 품질 렌더링을 만듭니다.
 * **소매** - 개별 사진 세션을 예약하지 않고 전체 제품군에 걸쳐 일관성 있는 스튜디오 사진을 빌드하세요.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

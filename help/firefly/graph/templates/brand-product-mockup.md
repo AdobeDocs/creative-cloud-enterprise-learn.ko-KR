@@ -29,4 +29,4 @@ ht-degree: 1%
 * **음료** - 제작을 앞두고 완전히 브랜딩된 리테일 쿨러 장면에서 새로운 병 디자인을 미리 봅니다.
 * **기술** - 출시 데크를 위해 브랜디드 소매 선반 장면 내에 새 장치를 목업합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

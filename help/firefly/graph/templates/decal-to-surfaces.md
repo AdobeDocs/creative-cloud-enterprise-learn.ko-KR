@@ -29,4 +29,4 @@ ht-degree: 1%
 * **자동차** - 랩 프로덕션 전에 차량 모델에서 새 라이버 또는 데칼 디자인을 미리 봅니다.
 * **소매** - 인쇄 승인 전에 전체 의류 목업 라인에 새 로고 배치를 테스트합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

@@ -30,4 +30,4 @@ ht-degree: 1%
 * **재무** - 팀별 모임 페이지에 대한 관리자 팀의 헤드샷을 표준화합니다.
 * **상태** - 통일된 웹 사이트 모양을 위해 여러 클리닉 위치에서 직원 헤드샷을 표준화합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
