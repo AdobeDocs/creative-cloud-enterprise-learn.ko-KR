@@ -4,18 +4,18 @@ description: 주변 장면이 변경되는 동안 일관된 문자 참조를 생
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # 일관된 문자 생성
 
-주변 장면이 변경되는 동안 일관된 문자 참조를 생성하는 방법을 알아봅니다. [일관된 문자 생성 서식 파일을 엽니다](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+캐릭터의 참조 이미지 하나를 로드한 다음 새로운 샷마다 장면 또는 포즈 프롬프트를 바꾸는 방법을 알아봅니다. [일관된 문자 생성 서식 파일을 엽니다](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >

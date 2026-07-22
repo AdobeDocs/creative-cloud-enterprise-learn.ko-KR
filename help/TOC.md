@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '825'
 ht-degree: 3%
 
 ---
@@ -144,6 +144,11 @@ ht-degree: 3%
       + {hide-from-toc}[일관된 문자 생성](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[스타일 추출](firefly/graph/templates/style-extraction.md)
       + {hide-from-toc}[일몰 분위기](firefly/graph/templates/sunset-vibes.md)
+      + {hide-from-toc}[시작하기 - 이미지 세그먼트](firefly/graph/templates/get-started-segment-image.md)
+      + {hide-from-toc}[레이어 합성 및 혼합](firefly/graph/templates/composite-blend-layers.md)
+      + {hide-from-toc}[선택 색상 교정](firefly/graph/templates/selective-color-correction.md)
+      + {hide-from-toc}[시작 - 비디오 생성](firefly/graph/templates/get-started-video-gen.md)
+      + {hide-from-toc}[글머리 기호 시간 VFX](firefly/graph/templates/bullet-time-vfx.md)
   + 웨비나 {#firefly-webinars}
     + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
