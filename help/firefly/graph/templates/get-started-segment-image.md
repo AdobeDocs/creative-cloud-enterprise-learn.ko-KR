@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-![이미지 세그먼트](../../assets/get-started-segment-image.png){align="center"}
-
 [!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
 
 * **건강** - 배경 다시 검사 없이 사용 중인 스튜디오 사진에서 의료 장치를 분할하여 제품 페이지의 깨끗한 임상 배경에 놓습니다.
 * **소매** - 깨끗한 제품 전용 카탈로그 이미지를 만들기 위해 라이프스타일 사진에서 의류를 분리합니다.
 * **자동차** - 장소 촬영에서 차량을 잘라내어 인쇄용 스튜디오 배경에 배치합니다.
+
+![이미지 세그먼트](../../assets/get-started-segment-image.png){align="center"}
 
 [Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

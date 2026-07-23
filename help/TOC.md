@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '861'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,19 @@ ht-degree: 3%
       + {hide-from-toc}[선택 색상 교정](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[시작 - 비디오 생성](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[글머리 기호 시간 VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[스토리보드에 텍스트 추가](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[스토리보드 빌더](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[실시간 셰이더](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[문자 모델 생성](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[비닐 장난감 디자인](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[3D 턴어라운드로 스케치](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc}[브랜딩 시각화](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc}[브랜드 제품 목업](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc}[에디토리얼 사진 촬영](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc}[사진 스튜디오](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc}[표면에 데칼 적용](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc}[디자인 시스템 생성기](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc}[헤드샷 생성](firefly/graph/templates/headshots-generation.md)
   + 웨비나 {#firefly-webinars}
     + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
