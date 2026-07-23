@@ -4,9 +4,9 @@ description: 텍스트 프롬프트를 사용하여 아이디어를 자동으로
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-22131
+jira: KT-22136
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+source-git-commit: 8933daea4c9aeb7ad61e1cf407a8e838b7a82131
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 ![스토리보드 빌더](../../assets/storyboard-builder.png){align="center"}
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
