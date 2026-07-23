@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22096
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-[!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
+![원본 이미지](../../assets/get-started-gen-image.png){align="center"}
+
+[!BADGE 업계 예]{type=Informative tooltip="사용 사례"}
 
 * **소매** - 실제 캠페인 에셋을 터치하기 전에 기본 노드 흐름을 학습하기 위해 간략한 첫 번째 제품 히어로 이미지를 생성합니다.
 * **상태** - 전체 내용 달력으로 크기 조절하기 전에 자리 표시자 제품 사진에서 가장 간단한 이미지 생성 흐름을 테스트합니다.
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![원본 이미지](../../assets/get-started-gen-image.png){align="center"}
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

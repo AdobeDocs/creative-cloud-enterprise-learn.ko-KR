@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22097
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
-[!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
+![일관된 문자 세대](../../assets/character-gen.png){align="center"}
+
+[!BADGE 업계 예]{type=Informative tooltip="사용 사례"}
 
 * **여행** - 모든 장면에 대해 illustrator를 다시 설명하지 않고 반복 안내선 또는 마스코트 캐릭터를 멀티 비디오 대상 시리즈 및 소셜 콘텐츠에서 일관되게 유지합니다.
 * **소매** - 수십 개의 시즌 제품 사진과 소셜 게시물에서 하나의 브랜드 스포크 캐릭터를 유지합니다.
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![일관된 문자 세대](../../assets/character-gen.png){align="center"}
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly 그래프 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
