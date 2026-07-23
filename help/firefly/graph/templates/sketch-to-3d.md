@@ -4,12 +4,12 @@ description: 스케치를 3D 캐릭터로 변환하는 방법 알아보기
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22130
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 스케치를 3D 캐릭터로 변환하는 방법에 대해 알아봅니다. 이 그래프는 실제 프로토타입 전에 내부 디자인을 검토할 수 있도록 3D 턴어라운드를 회전시킵니다. [3D 턴어라운드 템플릿으로 Sketch 열기](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:984a5ded-67e1-5a78-9283-52a0126bf8b2).
 
->[!TIP]
->
->**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
-
-[!BADGE 사용 사례]{type=Informative tooltip="사용 사례"}
+[!BADGE 업계 예]{type=Informative tooltip="업계 예"}
 
 * **기술** - 실제 프로토타입 빌드를 커밋하기 전에 초기 하드웨어 개념 스케치를 디자인 검토를 위한 3D 전환으로 전환합니다.
 * **자동차** - 초기 차량 개념 스케치를 회전형 3D 턴어라운드로 시각화하여 내부 검토를 수행합니다.
 * **엔터테인먼트** - 캐릭터 콘셉트 스케치를 피치 데크의 3D 전환으로 전환합니다.
+
+>[!TIP]
+>
+>**시작하기 전** - 최상의 결과를 얻으려면 이 템플릿을 나만의 브랜드, 제품 및 워크플로로 사용자 지정하세요. 출력을 사용하기 전에 참조 이미지, 프롬프트 및 사본을 스왑합니다.
 
 ![3D로 스케치](../../assets/sketch-to-3d.png){align="center"}
 
