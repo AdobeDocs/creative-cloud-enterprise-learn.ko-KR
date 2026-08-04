@@ -24,7 +24,7 @@ ht-degree: 0%
 
 재질, 환경 속성, 조명 및 사진을 사용하여 [!DNL Dimension]에서 3D 모델을 사용자 정의하고 브랜딩하여 모든 디자인 프로젝트에 사용할 실사적인 이미지를 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410485?captions=kor&hidetitle=true)
 
 PDF 파일 아이콘을 클릭하여 이 튜토리얼의 빠른 참조 안내서를 다운로드하십시오.
 

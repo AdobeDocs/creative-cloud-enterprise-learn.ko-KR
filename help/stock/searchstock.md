@@ -25,4 +25,4 @@ ht-degree: 0%
 
 이 비디오 튜토리얼에서는 기업용 Creative Cloud에서 조직의 Adobe [!DNL Stock] 라이선싱 내역을 빠르게 검색하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410411?captions=kor&hidetitle=true)
