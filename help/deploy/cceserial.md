@@ -76,7 +76,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 다음 정보는 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 짧은 비디오가 있고 그 뒤에 최종 사용자 경험을 검토합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439966?captions=kor&hidetitle=true)
 
 
 **만료 전**
