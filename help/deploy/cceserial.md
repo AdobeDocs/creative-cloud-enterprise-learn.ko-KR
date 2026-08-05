@@ -42,7 +42,7 @@ ETLA 계약과 관련된 시리얼 번호 라이선스는 [Adobe 라이선싱 �
 
 ### 만료일 확인
 
-[AdobeExpiryCheck](https://helpx.adobe.com/kr/enterprise/kb/volume-license-expiration-check.html)은 IT 관리자가 컴퓨터의 Adobe 제품에서 만료되거나 만료될 시리얼 번호를 사용하고 있는지 확인할 수 있는 명령줄 유틸리티입니다. 이 도구는 제품 라이선싱 식별자(LEID), 암호화된 시리얼 번호 및 만료 날짜와 같은 정보를 표시합니다. 이 [페이지](https://helpx.adobe.com/kr/enterprise/kb/volume-license-expiration-check.html)에는 Mac 또는 Windows 컴퓨터에서 도구를 다운로드하고 사용하는 방법에 대한 지침이 포함되어 있습니다.
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)은 IT 관리자가 컴퓨터의 Adobe 제품에서 만료되거나 만료될 시리얼 번호를 사용하고 있는지 확인할 수 있는 명령줄 유틸리티입니다. 이 도구는 제품 라이선싱 식별자(LEID), 암호화된 시리얼 번호 및 만료 날짜와 같은 정보를 표시합니다. 이 [페이지](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)에는 Mac 또는 Windows 컴퓨터에서 도구를 다운로드하고 사용하는 방법에 대한 지침이 포함되어 있습니다.
 
 ## 시리얼 번호 만료 전후의 최종 사용자 경험 이해
 
@@ -99,7 +99,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 ## 도움이 필요한 경우 당사에 문의
 
-[AdobeExpiryCheck](https://helpx.adobe.com/kr/enterprise/kb/volume-license-expiration-check.html) 도구 사용에 대한 질문이 있거나 시리얼 번호 배포에서 지정된 사용자로 마이그레이션하는 데 도움이 필요한 경우, 다음과 같은 몇 가지 옵션을 사용할 수 있습니다.
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) 도구 사용에 대한 질문이 있거나 시리얼 번호 배포에서 지정된 사용자로 마이그레이션하는 데 도움이 필요한 경우, 다음과 같은 몇 가지 옵션을 사용할 수 있습니다.
 * Adobe Enterprise 온보딩 팀으로 전자 메일 보내기 - **entonb@adobe.com**
 * [Admin Console](https://adminconsole.adobe.com/support/?locale=ko)에서 지원 티켓 열기
 * Adobe 계정 팀에 문의
