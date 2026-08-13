@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -130,6 +130,8 @@ ht-degree: 3%
   + Creative Production 튜토리얼 {#firefly-creative-production}
     + [&#x200B; [!DNL Adobe Firefly] 크리에이티브 제작 개요](firefly/creative-production/overview-firefly-creative-production.md)
     + [배경 제거 및 교체](firefly/creative-production/background.md)
+    + {hide-from-toc}[사진 촬영 사전 시각화](firefly/photoshoot-pre-visualization.md)
+    + {hide-from-toc}[회의, 마커 및 목업 없이 제품 아이디어 탐색](firefly/explore-product-ideas.md)
   + {hide-from-toc}그래프 자습서 개 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly 그래프 개요](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Firefly 그래프란?](firefly/graph/what-is-firefly-graph.md)
