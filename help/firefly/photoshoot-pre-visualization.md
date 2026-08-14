@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Gen AI를 사용하여 전체 사진을 미리 시각화하고 원하는 환경에 제품을 배치하여 클라이언트 로그오프로 위치, 설정 및 문자를 잠그고 단일 프레임을 캡처하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497054?captions=kor&quality=12&learn=on&hidetitle=true)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 고객이 즉각적으로 반응할 수 있도록 크리에이티브 팀의 아이디어를 마음껏 발휘하고 공유 스타일을 조기에 정의하는 방법을 알아봅니다. Adobe Firefly으로 개념은 단어를 넘어 오해의 여지를 남기지 않는 풍부한 비주얼로 이동한다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497191?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497200?captions=kor&quality=12&learn=on&hidetitle=true)

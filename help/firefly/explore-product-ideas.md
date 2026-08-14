@@ -18,4 +18,4 @@ ht-degree: 0%
 
 제품 개념은 3D 아티스트와 일러스트레이터를 기다려서 아이디어가 구체화되기를 기다리는 것을 의미합니다. Firefly 보드를 사용하여 아이디어를 생동감 있게 전달하는 정적 및 3D 렌더링을 통해 마커 없이, 목업 없이, 멋진 사실감 있게 콘셉트를 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497134?captions=kor&quality=12&learn=on&hidetitle=true)
