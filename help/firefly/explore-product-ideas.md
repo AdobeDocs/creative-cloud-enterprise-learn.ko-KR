@@ -1,21 +1,21 @@
 ---
 title: 회의, 마커 및 목업 없이 제품 아이디어 탐색
-description: Firefly 보드는 팀에 최상의 브레인스토밍 환경을 제공합니다.
+description: Firefly 보드를 사용하여 멋진 사실주의로 개념을 생성하는 방법을 알아봅니다.
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22321
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # 회의, 마커 및 목업 없이 제품 아이디어 탐색
 
-Firefly 보드는 팀에 최상의 브레인스토밍 환경을 제공하여 거친 개념을 텍스트 목록 및 막대 모양을 훨씬 뛰어넘는 공유 가능한 비주얼로 바꿔 줍니다.
+제품 개념은 3D 아티스트와 일러스트레이터를 기다려서 아이디어가 구체화되기를 기다리는 것을 의미합니다. Firefly 보드를 사용하여 아이디어를 생동감 있게 전달하는 정적 및 3D 렌더링을 통해 마커 없이, 목업 없이, 멋진 사실감 있게 콘셉트를 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497134?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
