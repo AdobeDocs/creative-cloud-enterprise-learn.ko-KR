@@ -18,4 +18,4 @@ ht-degree: 0%
 
 강력한 Adobe Firefly 기능을 통해 전체 사진 촬영 영상을 미리 볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497054?captions=kor&quality=12&learn=on&hidetitle=true)
