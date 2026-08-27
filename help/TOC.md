@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
+source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '885'
 ht-degree: 3%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 3%
     + {hide-from-toc}[사진 촬영 사전 시각화](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[회의, 마커 및 목업 없이 제품 아이디어 탐색](firefly/explore-product-ideas.md)
     + {hide-from-toc}[한 단어를 공유된 크리에이티브 비전으로 변환](firefly/creative-vision.md)
+    + {hide-from-toc}[카메라 롤 앞에 정렬](firefly/align-camera-roll.md)
   + {hide-from-toc}그래프 자습서 개 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly 그래프 개요](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Firefly 그래프란?](firefly/graph/what-is-firefly-graph.md)
