@@ -168,7 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[헤드샷 생성](firefly/graph/templates/headshots-generation.md)
   + 웨비나 {#firefly-webinars}
     + [Adobe Firefly 실험](firefly/webinar-experimenting.md)
-    + [당당하게 생각해보세요. 아이디어를 놀라운 비주얼로 바꿔 보세요.](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
+    + [당당하게 생각해보세요. 아이디어를 놀라운 비주얼로 바꿔 보세요.](https://experienceleague.adobe.com/ko/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [개요](stock/overview-stock.md)
   + 튜토리얼 {#stocktutorials}
