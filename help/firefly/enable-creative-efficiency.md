@@ -37,4 +37,4 @@ Adobe Photoshop 및 Illustrator의 생성형 인공지능 기반 도구를 사�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446244?captions=kor&quality=12&learn=on&hidetitle=true)
