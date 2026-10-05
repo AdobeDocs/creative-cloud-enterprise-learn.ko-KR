@@ -54,6 +54,6 @@ Firefly Graph는 다르게 작동합니다. 단일 프롬프트 대신 모든 �
 
 ## 다음 단계
 
-아이디어가 마음에 들면 [2로 이동하세요. 주요 개념: 실제로 그래프를 작성하는 데 사용할 어휘를 학습하는 데 사용할 노드, 연결 및 템플릿](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)입니다.
+아이디어가 마음에 들면 [2로 이동하세요. 주요 개념: 실제로 그래프를 작성하는 데 사용할 어휘를 학습하는 데 사용할 노드, 연결 및 템플릿](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)입니다.
 
-[Firefly Graph 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly Graph 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

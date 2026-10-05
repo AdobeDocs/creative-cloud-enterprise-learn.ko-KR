@@ -64,6 +64,6 @@ Firefly Graph를 시작하는 데 도움이 되는 주요 개념에 대해 알�
 
 ## 다음 단계
 
-뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
+뭔가를 만들 준비가 되셨습니까? [3으로 이동합니다. 단계별 연습을 위한 첫 번째 그래프](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)을(를) 만듭니다.
 
-[Firefly Graph 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly Graph 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
