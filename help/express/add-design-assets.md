@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-14827
 exl-id: a432839d-443c-4ae9-9d71-f8c6883151cd
-TQID: https://experienceleague.adobe.com/-XdqZQ3pCZFv8Wks4KLOHQxSF3OthXKbbeTTVLcE1oo
+TQID: 'https://experienceleague.adobe.com/-XdqZQ3pCZFv8Wks4KLOHQxSF3OthXKbbeTTVLcE1oo'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: '130'
 ht-degree: 0%
-
 ---
-
 # 요소를 사용하는 방법
 
 프로젝트에 시각 디자인 요소를 추가하여 더욱 매력적이고 매력적으로 만드는 방법을 살펴보세요. 요소에는 디자인 에셋, 배경, 모양 및 아이콘의 네 가지 유형이 있습니다. 각 요소 유형에는 선택할 수 있는 수백 개의 다양한 구성 요소가 있습니다. 각 요소는 전문적으로 디자인되어 프로젝트에 추가할 준비가 되어 있습니다.

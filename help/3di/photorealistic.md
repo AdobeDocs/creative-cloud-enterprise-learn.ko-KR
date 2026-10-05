@@ -6,32 +6,37 @@ role: User
 level: Beginner, Intermediate
 keywords: 가상 포토그래피, 100개 글로벌 MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+TQID: 'https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 2406
+source-wordcount: '2406'
 ht-degree: 0%
-
 ---
-
 # 3D 렌더링 및 합성을 사용하여 실사적인 가상 사진 만들기
 
 ![Adobe [!DNL Dimension]](assets/Photorealistic_1.png)을(를) 사용하여 디자인된 실사적인 가상 사진의 특징을 구현한 콜라주 예시
 
 위의 이미지를 보면, 보이는 모든 것이 실재한다고 가정해도 무리가 아닙니다. 그러나 실사적인 3D 이미지 렌더링의 기술적 진보로 인해 무엇이 실제이고 무엇이 가상인지 파악하는 것이 그 어느 때보다 어려워졌습니다. 이 경우 이미지는 실제, 사진, 렌더링된 3D 콘텐츠가 혼합되어 있으며, 이는 바로 기업이 투자하고 있는 3D 디자인 유형입니다.
 
-James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면![&#128279;](assets/Photorealistic_2.jpg)
+James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지기 위해 손을 뻗는 장면](assets/Photorealistic_2.jpg)![
 
-3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/kr/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
+3D 모델을 이미지나 비디오에 레이어링 또는 &#39;합성&#39;하는 이 기법은 새로운 것이 아니며, 기원은 초기 VFX(1980년대)로 거슬러 올라갑니다. 새롭고 흥미진진한 점은 이 기술이 [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) 사용자를 위한 강력한 도구이자 포토그래퍼를 위한 흥미롭고 새로운 작업 과정이 되었다는 점입니다.
 
 
 ## [!DNL Dimension] Adobe에서 합성 이미지를 만드는 기술
@@ -40,9 +45,9 @@ James Cameron의 The Abyss에서 Mary Mastrantonio가 CGI 물 촉수를 만지�
 
 Adobe [!DNL Dimension]을(를) 통해 사용자가 Adobe AI를 사용하여 앱에서 직접 2D와 3D 요소를 원활하게 결합할 수 있습니다. 이러한 방식으로 요소를 합성했을 때 가장 큰 이점은 완전히 구현된 3D 장면을 현실의 배경 이미지로 대체하여 실사적인 이미지를 만드는 프로세스를 더욱 효과적으로 향상시킬 수 있다는 것입니다.
 
-![Adobe [!DNL Dimension]의 이미지 일치 기능은 배경 이미지를 분석하고, 이를 캡처하는 데 사용한 카메라의 초점 거리와 위치를 예상합니다.](assets/Photorealistic_4.gif)
+![Adobe [!DNL Dimension]의 이미지 일치 기능은 배경 이미지를 분석하고, 이를 캡처하는 데 사용한 카메라의 초점 거리와 위치를 예상합니다](assets/Photorealistic_4.gif)
 
-이미지 일치 기능은 배경 이미지를 분석하고, 이를 캡처하는 데 사용한 카메라의 초점 거리와 위치를 예상합니다. 그러면 배경 이미지와 동일한 원근 내에서 3D 요소를 렌더링하는 데 사용할 수 있는 3D 카메라가 [!DNL Dimension] 장면에서 만들어져 함께 합성됩니다.
+이미지 일치 기능은 배경 이미지를 분석하고, 이를 캡처하는 데 사용한 카메라의 초점 거리 및 위치를 예상합니다. 그러면 배경 이미지와 같은 원근감 내에서 3D 요소를 렌더링하는 데 사용할 수 있는 3D 카메라가 [!DNL Dimension] 장면에서 만들어져 함께 합성됩니다.
 
 하지만 카메라 프레임 안에 포착되지 않은 것들은 어떨까요?  이미지가 캡처되는 전체 환경은 그 안의 모든 것이 어떻게 보이는지를 정의하기 때문에 매우 중요합니다. 이미지 안의 개체는 카메라 뒤의 모든 것을 포함하여, 그것을 둘러싼 세계의 조명을 반사하고 있습니다. 따라서 레이어 3D 요소가 이미지의 배경과 제대로 혼합되도록 하려면 이미지가 촬영된 환경의 조명을 완전히 반사해야 합니다.
 
@@ -56,7 +61,7 @@ Adobe [!DNL Dimension]을(를) 통해 사용자가 Adobe AI를 사용하여 앱�
 
 ![Ricoh Theta 360도 카메라의 제품 이미지](assets/Photorealistic_7.png)
 
-Ricoh Theta, Gopro MAX 및 Insta 360과 같은 카메라는 360 파노라마를 캡처할 수 있습니다. Ricoh Theta는 캡처 과정의 중요한 부분인 자동 노출 브래키팅이 내장되어 있습니다. 이를 통해 HDR을 캡처하는 시간과 노력을 줄이고 포토그래퍼에게 보다 친숙하게 다가갈 수 있습니다.
+Ricoh Theta, Gopro MAX 및 Insta 360과 같은 카메라는 360 파노라마를 캡처할 수 있습니다. Ricoh Theta는 캡처 과정의 중요한 부분인 자동 노출 브래키팅이 내장되어 있습니다. 이렇게 하면 HDR을 캡처하는 데 드는 시간과 노력을 줄이고 포토그래퍼에게 보다 친숙하게 다가갈 수 있습니다.
 
 ## 실사적인 합성 이미지 만들기 프로세스
 
@@ -68,7 +73,7 @@ Ricoh Theta, Gopro MAX 및 Insta 360과 같은 카메라는 360 파노라마를 
 
 ### 위치 선택
 
-컨텍스트와 조명을 위한 흥미로운 위치를 찾습니다. 컨텍스트를 고려할 때는 장면의 잠재적 사용에 대해 상상하는 것이 도움이 될 수 있습니다. 예를 들어, 빈 도로 뷰는 3D 자동차에 추가할 때 사용할 수 있고 커피숍의 테이블 뷰는 식품의 [포장 표시](https://www.adobe.com/kr/products/dimension/packaging-design-mockup.html)에 사용할 수 있습니다.
+컨텍스트와 조명을 위한 흥미로운 위치를 찾습니다. 컨텍스트를 고려할 때는 장면의 잠재적 사용에 대해 상상하는 것이 도움이 될 수 있습니다. 예를 들어, 빈 도로 뷰는 3D 자동차에 추가할 때 사용할 수 있고 커피숍의 테이블 뷰는 식품의 [포장 표시](https://www.adobe.com/products/dimension/packaging-design-mockup.html)에 사용할 수 있습니다.
 
 가상 사진의 ![4개 위치 장면이 3D 합성을 사용하여 동일한 장면과 대조](assets/Photorealistic_8.png)
 
@@ -94,7 +99,7 @@ Ricoh Theta, Gopro MAX 및 Insta 360과 같은 카메라는 360 파노라마를 
 
 ### 일괄 노출 값
 
-360° 카메라를 사용하여 HDR 환경을 만들려면 여러 EV를 캡처하여 게시물에서 HDR 이미지로 결합해야 합니다. EV의 양은 표준화되어 있지 않지만 일반적으로 노출 범위의 높은 값은 그림자에 더 이상의 정보가 없는 지점으로 가고, 노출 범위의 낮은 값은 하이라이트에 더 이상의 정보가 없는 지점으로 가는 것을 선호합니다.
+360° 카메라로 HDR 환경을 만들려면 여러 EV를 캡처하여 게시물에서 HDR 이미지로 결합해야 합니다. EV의 양은 표준화되어 있지 않지만 일반적으로 노출 범위의 높은 값은 그림자에 더 이상의 정보가 없는 지점으로 가고, 노출 범위의 낮은 값은 하이라이트에 더 이상의 정보가 없는 지점으로 가는 것을 선호합니다.
 
 360° 카메라에는 카메라로 다양한 노출을 일괄 처리할 수 있는 자동 브래키팅 기능이 있는 것이 이상적입니다. 노이즈를 방지하기 위해 가장 낮은 ISO 값을 사용하고 선명도를 위해 높은 조리개 값을 사용하는 것이 이상적인 설정입니다. 그런 다음 셔터 속도를 사용하여 노출 값을 변경할 수 있으며 노출을 절반으로 줄이거나 두 배로 늘려 정지점별로 분리할 수 있습니다.
 
@@ -116,17 +121,17 @@ Ricoh Theta, Gopro MAX 및 Insta 360과 같은 카메라는 360 파노라마를 
 
 ![Adobe Photoshop의 HDR Pro로 병합 파일 선택 메뉴](assets/Photorealistic_13.png)
 
-EV에 대해 색상을 조정한 후 개별 파일로 임시로 내보내고 Photoshop에서 병합할 수 있습니다. 파일 유형은 소스에 따라 다르지만 두 경우 모두 JPEG과 같은 압축된 형식은 사용하지 않습니다. Photoshop에서 파일 > 자동화 > HDR Pro로 병합을 선택한 뒤 내보낸 모든 EV를 선택합니다.
+EV에 대해 색상을 조정한 후 개별 파일로 임시로 내보내고 Photoshop에서 병합할 수 있습니다. 파일 유형은 소스에 따라 다르지만 두 경우 모두 JPEG과 같은 압축된 형식은 사용하지 않습니다. Photoshop에서 파일 > 자동화 > HDR Pro로 병합... 을 사용하여 내보낸 모든 EV를 선택합니다.
 
-![Adobe Photoshop의 HDR Pro로 병합 미리 보기 화면](assets/Photorealistic_14.png)
+![Adobe Photoshop에서 HDR Pro로 병합 미리 보기 화면](assets/Photorealistic_14.png)
 
-![Adobe Photoshop의 HDR Pro로 병합 구성 설정](assets/Photorealistic_15.png)
+![Adobe Photoshop에서 HDR Pro로 병합 구성 설정](assets/Photorealistic_15.png)
 
 &#39;모드&#39;가 32비트로 설정되어 있는지 확인하세요. &#39;고스트 제거&#39;를 사용하면 EV 간에 변경된 세부 사항을 제거하는 데 도움이 될 수 있지만 필요하지 않은 경우 사용하지 마십시오. 히스토그램 아래의 슬라이더는 미리보기 노출에만 영향을 주므로 무시합니다. &#39;Adobe Camera Raw에서 톤 조절 완료&#39;의 선택을 취소하고 확인을 누릅니다.
 
 ![바닥에 그림자가 보이는 사무실 공간의 360도 HDR 파노라마](assets/Photorealistic_16.png)
 
-그 결과 3D에서 장면을 밝히는 데 사용할 수 있는 HDR 이미지가 만들어집니다.
+그 결과 3D로 장면을 비추는 데 사용할 수 있는 HDR 이미지가 만들어집니다.
 
 ![바닥에 그림자가 보이는 사무실 공간의 360도 HDR 파노라마](assets/Photorealistic_17.png)
 
@@ -154,19 +159,19 @@ EV에 대해 색상을 조정한 후 개별 파일로 임시로 내보내고 Pho
 
 환경 조명을 선택하고 이미지 입력에 추가하여 HDR 파노라마를 추가합니다.
 
-![환경 광원을 [!DNL Dimension]](assets/Photorealistic_21.png) Adobe의 장면 메뉴에서 가상 사진의 배경 이미지에 추가할 수 있습니다.
+![환경 조명 소스는 [!DNL Dimension]](assets/Photorealistic_21.png) Adobe의 장면 메뉴에서 가상 사진의 배경 이미지에 추가할 수 있습니다.
 
-그런 다음 배경에서 &quot;이미지 일치&quot;를 사용하여 해상도와 모양 및 카메라 원근과 일치시킬 수 있습니다. 배경 이미지에서 환경을 생성하는 대신, 캡처한 HDR 파노라마 이미지를 사용하여 장면에 조명을 적용하므로 &#39;조명 만들기&#39; 옵션을 선택 해제할 수 있습니다.
+그런 다음 배경에서 &quot;이미지 일치&quot;를 사용하여 해상도와 모양 및 카메라 원근감과 일치시킬 수 있습니다. 배경 이미지에서 환경을 생성하는 대신, 캡처한 HDR 파노라마 이미지를 사용하여 장면에 조명을 적용하므로 &#39;조명 만들기&#39; 옵션을 선택 해제할 수 있습니다.
 
 ![Adobe [!DNL Dimension]의 이미지 일치 기능을 사용하여 HDR 파노라마에서 환경 조명으로 3D 금속 구 이미지 렌더링](assets/Photorealistic_22.png)
 
 이제 장면에 추가된 개체는 이미지가 촬영된 환경에 의해 조명을 받고 있으므로 배경에 사실적으로 합성됩니다.
 
-배경에 대한 HDR 파노라마의 방향과 노출을 빠르게 평가하기 위해 [!DNL Dimension]의 무료 에셋 패널에서 가져온 금속 재질의 구 기본 모양을 장면에 배치할 수 있습니다. 그런 다음 반사가 올바르게 보이도록 환경 조명의 회전을 배치할 수 있습니다. HDR 파노라마의 조명이 구를 과도하게 노출하거나 부족하게 노출하는 경우, HDR 파노라마의 노출을 늘리거나 줄여 보정할 수 있습니다.
+배경에 대한 HDR 파노라마의 방향과 노출을 빠르게 평가하기 위해 [!DNL Dimension]의 무료 에셋 패널에서 가져온 금속 재질의 구 기본 모양을 장면에 배치할 수 있습니다. 그런 다음 반사가 올바르게 보이도록 환경 조명 회전을 배치할 수 있습니다. HDR 파노라마의 조명이 구를 과도하게 노출하거나 부족하게 노출하는 경우, HDR 파노라마의 노출을 늘리거나 줄여 보정할 수 있습니다.
 
 ![금속 구의 실사적인 가상 사진은 사무실 공간의 배경 이미지에 합성됩니다](assets/Photorealistic_23.png)
 
-배경에 대한 HDR 파노라마의 방향과 노출을 빠르게 평가하기 위해 [!DNL Dimension]의 무료 에셋 패널에서 가져온 금속 재질의 구 기본 모양을 장면에 배치할 수 있습니다. 그런 다음 반사가 올바르게 보이도록 환경 조명의 회전을 배치할 수 있습니다. HDR 파노라마의 조명이 구를 과도하게 노출하거나 부족하게 노출하는 경우, HDR 파노라마의 노출을 늘리거나 줄여 보정할 수 있습니다.
+배경에 대한 HDR 파노라마의 방향과 노출을 빠르게 평가하기 위해 [!DNL Dimension]의 무료 에셋 패널에서 가져온 금속 재질의 구 기본 모양을 장면에 배치할 수 있습니다. 그런 다음 반사가 올바르게 보이도록 환경 조명 회전을 배치할 수 있습니다. HDR 파노라마의 조명이 구를 과도하게 노출하거나 부족하게 노출하는 경우, HDR 파노라마의 노출을 늘리거나 줄여 보정할 수 있습니다.
 
 ## 최종 결과: 실사적인 합성 이미지
 

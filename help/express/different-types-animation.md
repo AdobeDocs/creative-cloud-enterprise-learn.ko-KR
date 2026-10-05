@@ -6,25 +6,29 @@ role: User
 level: Beginner
 jira: KT-14832
 exl-id: 9675124e-a1d4-47c4-be4f-704b7c43590f
-TQID: https://experienceleague.adobe.com/zTBbsyfVc4UlV3J84LtT4Lc-16dni-T3CDI1TAd-cLs
+TQID: 'https://experienceleague.adobe.com/zTBbsyfVc4UlV3J84LtT4Lc-16dni-T3CDI1TAd-cLs'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # 다양한 유형의 애니메이션
 
 프로젝트에 더 매력적으로 보이도록 추가할 수 있는 세 가지 애니메이션 유형(인트로, 루핑, 아웃트로)에 대해 알아봅니다. 애니메이션마다 미리 보고 선택할 수 있는 스타일이 다릅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433949?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

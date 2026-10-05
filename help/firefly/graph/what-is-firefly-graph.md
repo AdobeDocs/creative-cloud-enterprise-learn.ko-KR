@@ -1,23 +1,38 @@
 ---
-title: ​1.  [!DNL Firefly Graph]이란 무엇입니까?
+title: 1. [!DNL Firefly Graph]이란 무엇입니까?
 description: 그래프가 단일 프롬프트와 어떻게 비교되는지 그리고 모든 단계를 표시하고 다시 사용할 수 있도록 하는 이유를 알아보십시오
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22055
 hide: true
-source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # &#x200B;1. [!DNL Firefly Graph]이란 무엇입니까?
 
 대부분의 생성형 인공지능 도구는 한 가지 프롬프트에서 한 가지 출력을 제공합니다. 만약 약간이 바뀌면 손으로 전체를 재건하고 최종 파일만 넘길 게 없어
 
-Firefly 그래프는 다르게 작동합니다. 단일 프롬프트 대신 모든 입력, 변환 및 출력이 함께 캡처되는 시각적 단계별 작업 과정인 **그래프**&#x200B;을 만듭니다. 한 단계를 변경하고 다시 실행합니다. 전체 체인을 다시 작성하지는 않습니다. 모든 단계는 팀이 검사하고, 조정하고, 그대로 전달할 수 있는 눈에 보이는 노드입니다.
+Firefly Graph는 다르게 작동합니다. 단일 프롬프트 대신 모든 입력, 변환 및 출력이 함께 캡처되는 시각적 단계별 작업 과정인 **그래프**&#x200B;을 만듭니다. 한 단계를 변경하고 다시 실행합니다. 전체 체인을 다시 작성하지는 않습니다. 모든 단계는 팀이 검사하고, 조정하고, 그대로 전달할 수 있는 눈에 보이는 노드입니다.
 
 ![시각적 그래프 스크린샷](../assets/graph.png){align="center"}
 
@@ -39,6 +54,6 @@ Firefly 그래프는 다르게 작동합니다. 단일 프롬프트 대신 모�
 
 ## 다음 단계
 
-아이디어가 마음에 들면 [2로 이동하세요. 주요 개념: 실제로 그래프를 작성하는 데 사용할 어휘를 학습하는 데 사용할 노드, 연결 및 템플릿](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)입니다.
+아이디어가 마음에 들면 [2로 이동하세요. 주요 개념: 실제로 그래프를 작성하는 데 사용할 어휘를 학습하는 데 사용할 노드, 연결 및 템플릿](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)입니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly Graph 시작하기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

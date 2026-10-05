@@ -5,21 +5,26 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+TQID: 'https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 871
+source-wordcount: '871'
 ht-degree: 4%
-
 ---
-
 # 기업 및 Acrobat 시리얼 번호 만료에 대한 Creative Cloud 이해
 
 이전에는 Adobe이 앱(예: Creative Suite, 기업용 Creative Cloud, Acrobat XI, Acrobat DC)과 함께 Enterprise Term License Agreements(ETLA)를 사용하는 고객에게 발급한 시리얼 번호입니다. 이러한 시리얼 번호는 만료 날짜가 있습니다. 만료 날짜가 지나면 제품은 더 이상 작동하지 않으므로 시리얼 번호가 만료되기 전에 마이그레이션을 계획하는 것이 중요합니다. 이 페이지에서는 최종 사용자가 Adobe 앱 및 서비스에 계속 액세스할 수 있도록 하는 데 필요한 단계를 설명합니다.
@@ -42,7 +47,7 @@ ETLA 계약과 관련된 시리얼 번호 라이선스는 [Adobe 라이선싱 �
 
 ### 만료일 확인
 
-[AdobeExpiryCheck](https://helpx.adobe.com/kr/enterprise/kb/volume-license-expiration-check.html)은 IT 관리자가 컴퓨터의 Adobe 제품에서 만료되거나 만료될 시리얼 번호를 사용하고 있는지 확인할 수 있는 명령줄 유틸리티입니다. 이 도구는 제품 라이선싱 식별자(LEID), 암호화된 시리얼 번호 및 만료 날짜와 같은 정보를 표시합니다. 이 [페이지](https://helpx.adobe.com/kr/enterprise/kb/volume-license-expiration-check.html)에는 Mac 또는 Windows 컴퓨터에서 도구를 다운로드하고 사용하는 방법에 대한 지침이 포함되어 있습니다.
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)은 IT 관리자가 컴퓨터의 Adobe 제품에서 만료되거나 만료될 시리얼 번호를 사용하고 있는지 확인할 수 있는 명령줄 유틸리티입니다. 이 도구는 제품 라이선싱 식별자(LEID), 암호화된 시리얼 번호 및 만료 날짜와 같은 정보를 표시합니다. 이 [페이지](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)에는 Mac 또는 Windows 컴퓨터에서 도구를 다운로드하고 사용하는 방법에 대한 지침이 포함되어 있습니다.
 
 ## 시리얼 번호 만료 전후의 최종 사용자 경험 이해
 
@@ -52,7 +57,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 다음 정보는 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 짧은 비디오가 있고 그 뒤에 최종 사용자 경험을 검토합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441283?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
 **만료 전**
 
@@ -76,7 +81,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 다음 정보는 최종 사용자 경험에 대한 간략한 설명입니다. 아래에 짧은 비디오가 있고 그 뒤에 최종 사용자 경험을 검토합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439966?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
 
 **만료 전**
@@ -99,7 +104,7 @@ Acrobat 및 기업용 Creative Cloud 앱 모두 만료 60일 전부터 앱에 �
 
 ## 도움이 필요한 경우 당사에 문의
 
-[AdobeExpiryCheck](https://helpx.adobe.com/kr/enterprise/kb/volume-license-expiration-check.html) 도구 사용에 대한 질문이 있거나 시리얼 번호 배포에서 지정된 사용자로 마이그레이션하는 데 도움이 필요한 경우, 다음과 같은 몇 가지 옵션을 사용할 수 있습니다.
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) 도구 사용에 대한 질문이 있거나 시리얼 번호 배포에서 지정된 사용자로 마이그레이션하는 데 도움이 필요한 경우, 다음과 같은 몇 가지 옵션을 사용할 수 있습니다.
 * Adobe Enterprise 온보딩 팀으로 전자 메일 보내기 - **entonb@adobe.com**
 * [Admin Console](https://adminconsole.adobe.com/support/?locale=ko)에서 지원 티켓 열기
 * Adobe 계정 팀에 문의

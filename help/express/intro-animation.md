@@ -6,25 +6,29 @@ role: User
 level: Beginner
 jira: KT-14831
 exl-id: 1a90ddca-f374-403f-a3ed-a589e8d7c870
-TQID: https://experienceleague.adobe.com/LIwmBiMxcSZ9L1gPOgrBsM7Hu2vMhU9rg-BgBlI2v6k
+TQID: 'https://experienceleague.adobe.com/LIwmBiMxcSZ9L1gPOgrBsM7Hu2vMhU9rg-BgBlI2v6k'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: '91'
 ht-degree: 0%
-
 ---
-
 # 애니메이션 소개
 
 소셜 미디어 게시물에 애니메이션을 추가하여 몰입도를 높이는 방법을 알아봅니다. 애니메이션 패널은 페이지에서 이미지와 같은 요소를 선택하고 다양한 유형의 애니메이션을 적용하여 액세스할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436592?captions=kor&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 
