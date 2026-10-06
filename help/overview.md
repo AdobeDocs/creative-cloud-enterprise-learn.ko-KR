@@ -5,27 +5,45 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-TQID: https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g
+TQID: 'https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 7827e1a6f74707ab792f72ab9ff692f756831313
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 512
-ht-degree: 5%
-
+source-wordcount: '799'
+ht-degree: 3%
 ---
-
 # 기업용 Creative Cloud Tutorials
 
 기업 학습 허브에 대한 Creative Cloud을 시작합니다. 여기서는 기업용 Creative Cloud에 중점을 둔 다양한 학습 경험을 찾을 수 있습니다. 튜토리얼, 웨비나 및 사용 사례는 초보자와 관리자 모두가 기업 제품에 대한 Creative Cloud을 빠르게 최신 상태로 만들 수 있도록 설계되었습니다.
@@ -106,7 +124,7 @@ ht-degree: 5%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" title="기업 튜토리얼에 대한 Creative Cloud">기업 튜토리얼 Creative Cloud</a>
                     </p>
-                    <p class="is-size-6">엔터프라이즈 관점에서 최신 Creative Cloud 릴리스의 새로운 기능에 대해 알아봅니다.</p>
+                    <p class="is-size-6">기업 원근감에서 최신 Creative Cloud 릴리스의 새로운 기능에 대해 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">튜토리얼 찾아보기</span>

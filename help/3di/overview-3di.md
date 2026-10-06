@@ -6,21 +6,26 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-TQID: https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0
+TQID: 'https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 0%
-
 ---
-
 # 3D 및 VR 튜토리얼 Adobe
 
 고품질 모델, 재질 및 조명을 사용하여 3D에서 매력적인 콘텐츠를 더 빠르게 제작할 수 있습니다. [!DNL Dimension]을(를) 사용하면 브랜드 시각화, 일러스트레이션, 제품 목업, 패키징 디자인 및 기타 크리에이티브 작업을 쉽게 빌드할 수 있습니다. 튜토리얼을 볼 이미지를 선택합니다.
@@ -34,7 +39,7 @@ ht-degree: 0%
     <div>
    <a href="substance-3d-stager.md"><strong>3D 디자인 및 렌더링</strong></a>
     </div>
-    <em>콘텐츠 가져오기, 장면 정렬, 재질과 텍스처 적용, 이미지 기반 및 실제 조명 조정, 다양한 해상도로 카메라 저장, 사실적인 이미지 렌더링</em>
+    <em>콘텐츠를 가져오고, 장면을 정렬하고, 재질과 텍스처를 적용하고, 이미지 기반 및 실제 조명을 조정하고, 다양한 해상도로 카메라를 저장하고, 사실적인 이미지를 렌더링합니다</em>
     <br>
   </td>
   <td>

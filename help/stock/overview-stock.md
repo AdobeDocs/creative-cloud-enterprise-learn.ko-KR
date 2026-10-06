@@ -1,32 +1,40 @@
 ---
 title: Adobe [!DNL Stock] 자습서
-description: ' [!DNL Stock] Adobe에 대한 최신 정보를 얻는 데 도움이 되는 Tutorials'
+description: '[!DNL Stock] Adobe에 대한 최신 정보를 얻는 데 도움이 되는 Tutorials'
 feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-TQID: https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk
+TQID: 'https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1257
+source-wordcount: '1258'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Stock] 자습서
 
 크리에이터들은 매력적인 시각적 컨텐츠를 신속하게 제공해야 한다는 압박을 받고 있습니다. Adobe Stock은 크리에이티브 팀이 매일 사용하는 Creative Cloud 앱 내에서 3억 개 이상의 로열티 프리 이미지, 비디오, 오디오 파일, 템플릿, 일러스트레이션 및 3D 에셋을 이용할 수 있도록 해 줍니다. Creative Cloud Pro 에디션으로 Adobe Stock 표준 에셋을 무제한으로 이용하세요. stock.adobe.com에서 최신 컬렉션을 살펴보십시오. 튜토리얼을 볼 이미지를 선택합니다.
@@ -60,7 +68,7 @@ ht-degree: 0%
       <div>
       <a href="handdrawn.md"><strong>Adobe [!DNL Stock]개의 이미지에 손으로 그린 미적 요소 추가</strong></a>
       </div>
-      <em>iPad용 Photoshop을 사용하여 이미지에 깊이와 차원을 더하는 고유한 기술로 창의적인 마케팅을 강화하세요.</em>
+      <em>iPad용 Photoshop을 사용하여 이미지에 깊이와 차원을 추가하는 고유한 기술로 창의적인 마케팅을 강화하세요.</em>
       <br>
   </td>
   <td>
@@ -102,7 +110,7 @@ ht-degree: 0%
       <div>
       <a href="customanimations.md"><strong>[!DNL Stock]</strong></a> Adobe의 사용자 지정 애니메이션으로 창의력 발휘
       </div>
-      <em>Photoshop에서 Adobe [!DNL Stock] 이미지, 텍스처, 패턴을 사용하여 맞춤 애니메이션 만들기</em>
+      <em>Photoshop에서 [!DNL Stock] Adobe 이미지, 텍스처, 패턴을 사용하여 맞춤 애니메이션 만들기</em>
       <br>
   </td>
   <td>
@@ -354,7 +362,7 @@ ht-degree: 0%
       <div>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Adobe Illustrator으로 Adobe [!DNL Stock] 벡터 아트웍 색상을 변경하여 원하는 모습(PDF)을 연출하세요.</strong></a>
       </div>
-      <em>Adobe [!DNL Stock]을(를) 사용하면 고유한 벡터 그래픽을 쉽게 찾을 수 있으며 Adobe Illustrator을 사용하면 창의적인 시각에 맞게 빠르게 수정할 수 있습니다</em>
+      <em>Adobe [!DNL Stock]을(를) 사용하면 고유한 벡터 그래픽을 쉽게 찾을 수 있으며, Adobe Illustrator을 사용하면 창의적인 비전에 맞게 빠르게 수정할 수 있습니다</em>
       <br>
    </td>
    <td>

@@ -6,13 +6,25 @@ role: User
 level: Beginner
 jira: KT-22126
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
-
 ---
-
 # 에디토리얼 사진
 
 모델 참조를 입력하고 각각의 새 모양에 대한 의복 입력을 바꾸는 방법을 알아봅니다. 포즈 및 조명 노드는 일관된 편집 느낌을 위해 세트 전체에서 잠겨 있습니다. [사진 편집 템플릿 열기](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:cfd7b810-2f86-5cdf-af80-dd2e31b8b84b).
@@ -29,4 +41,4 @@ ht-degree: 0%
 
 ![에디토리얼 사진 촬영](../../assets/editorial-photoshoot.png){align="center"}
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly Graph 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

@@ -1,29 +1,34 @@
 ---
-title: Adobe [!DNL Firefly] 크리에이티브 프로덕션 개요
-description: Adobe [!DNL Firefly] 크리에이티브 제작 정보
+title: Adobe [!DNL Firefly] Creative Production 개요
+description: Adobe [!DNL Firefly] Creative Production에 대해 알아보기
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-18996
 exl-id: 19f51b11-4fc3-412e-a64d-3d653478fecb
-TQID: https://experienceleague.adobe.com/r0-k3OCq9E7suMulLTFGaRSHgAmlv1ATTTQJz61m-ww
+TQID: 'https://experienceleague.adobe.com/r0-k3OCq9E7suMulLTFGaRSHgAmlv1ATTTQJz61m-ww'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '163'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Firefly] Creative Production 개요
 
 Adobe Firefly 크리에이티브 프로덕션 노 코드 인터페이스는 일반적인 편집을 간편하게 합니다. 수천 개의 파일에서 배경, 이미지 자르기 및 색 보정을 한 번에 대체합니다.

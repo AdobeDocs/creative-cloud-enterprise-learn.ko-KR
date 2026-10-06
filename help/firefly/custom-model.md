@@ -6,23 +6,31 @@ role: User
 level: Beginner
 jira: KT-19197
 exl-id: a5719996-be82-4847-b5c2-2a5909ef43ea
-TQID: https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ
+TQID: 'https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Security
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '211'
 ht-degree: 0%
-
 ---
-
 # 사용자 정의 모델 만들기
 
 Firefly에서 사용자 정의 모델을 교육하여 조직 브랜드에 맞는 새로운 이미지를 만드는 방법을 알아봅니다. 맞춤형 모델을 사용하면 규모에 맞게 관련성 있고 개인 맞춤화된 브랜드 콘텐츠를 제작할 수 있습니다. 사용자 지정 모델 교육에 대한 자세한 내용은 [여기](https://helpx.adobe.com/kr/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)를 참조하세요.
@@ -43,7 +51,7 @@ Firefly에서 사용자 정의 모델을 교육하여 조직 브랜드에 맞는
 
 **캐릭터 테마** 장면, 조명, 포즈 등에서 캐릭터 기반 이미지에 대한 일관성을 유지합니다. 개발에 소요되는 시간을 단축합니다.
 
-**더 빠른 개념 반복** 브랜드 관련 아이디어와 개념을 더 빨리 소개하여 관련자들 간의 정렬을 가속화합니다.
+**더 빠른 개념 반복** 브랜드에 대한 아이디어와 개념을 더 빨리 소개하여 관련자들 간의 정렬을 가속화합니다.
 
 >[!IMPORTANT]
 >

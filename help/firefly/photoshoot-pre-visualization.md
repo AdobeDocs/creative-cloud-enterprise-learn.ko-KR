@@ -7,15 +7,34 @@ level: Beginner, Intermediate, Experienced
 jira: KT-22291
 hide: true
 hidefromtoc: true
-source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
-
 ---
-
 # 사진 촬영 사전 시각화
 
-Gen AI를 사용하여 전체 사진을 미리 시각화하고 원하는 환경에 제품을 배치하여 클라이언트 로그오프로 위치, 설정 및 문자를 잠그고 단일 프레임을 캡처하는 방법을 알아봅니다.
+Gen AI를 사용하여 전체 사진을 미리 시각화하고 원하는 환경에 제품을 배치하여 하나의 프레임이 캡처되기 전에 클라이언트 로그오프로 위치, 설정 및 캐릭터를 잠글 수 있는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497054?captions=kor&quality=12&learn=on&hidetitle=true)

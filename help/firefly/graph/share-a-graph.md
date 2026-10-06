@@ -1,5 +1,5 @@
 ---
-title: ​5. 그래프 공유
+title: 5. 그래프 공유
 description: 다른 사용자와 그래프를 공유하는 방법 알아보기
 feature: Image Editing, Gen AI
 role: User
@@ -7,13 +7,28 @@ level: Beginner
 jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 21ac1c37cd76408493eda8cfc8aa1f56f250ed26
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # &#x200B;5. 그래프 공유
 
 다른 사용자와 그래프를 공유하는 방법을 알아봅니다. 그래프를 공유하면 출력뿐만 아니라 라이브 워크플로우도 공유됩니다. 편집 권한이 있는 사용자는 누구나 편집 권한을 다시 실행하여 변경한 다음 다른 사용자에게 전달할 수 있습니다. 링크 수준 액세스 권한을 사용하여 조직 내부를 넓게 조회하고, 직접 액세스할 필요가 있는 모든 사용자에게 특정 역할의 이름이 지정된 초대를 제공할 수 있습니다.
@@ -56,4 +71,4 @@ ht-degree: 0%
 
 템플릿에서 시작하시겠습니까? [5로 이동합니다. 템플릿 &#x200B;](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)을(를) 사용자 정의하여 나만의 간단한 내용을 반영합니다.
 
-[Firefly 그래프 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.
+[Firefly Graph 시작하기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)&#x200B;(으)로 돌아갑니다.

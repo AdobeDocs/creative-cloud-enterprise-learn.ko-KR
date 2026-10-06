@@ -6,16 +6,31 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
-
+source-wordcount: '255'
+ht-degree: 2%
 ---
+# Firefly Graph 시작하기
 
-# Firefly 그래프 시작하기
-
-이전에 생성형 인공지능 도구를 사용한 적이 있다면, 아마도 프롬프트를 입력하고 하나의 결과를 얻은 다음 다음에 유사한 것이 필요할 때 처음부터 다시 시작하는 데 익숙할 것입니다. Firefly 그래프는 다르게 작동합니다. 단일 프롬프트 대신 모든 입력, 변환 및 출력이 함께 연결되고 저장되는 시각적 단계별 워크플로우와 같은 그래프를 작성합니다. 이 페이지에서는 첫 번째 그래프를 구성하는 데 필요한 모든 것, 즉 핵심 개념, 단계별 첫 번째 작업 과정 및 바로 열고 적용할 수 있는 준비된 템플릿의 라이브러리를 보여줍니다.
+이전에 생성형 인공지능 도구를 사용한 적이 있다면, 아마도 프롬프트를 입력하고 하나의 결과를 얻은 다음 다음에 유사한 것이 필요할 때 처음부터 다시 시작하는 데 익숙할 것입니다. Firefly Graph는 다르게 작동합니다. 단일 프롬프트 대신 모든 입력, 변환 및 출력이 함께 연결되고 저장되는 시각적 단계별 워크플로우와 같은 그래프를 작성합니다. 이 페이지에서는 첫 번째 그래프를 구성하는 데 필요한 모든 것, 즉 핵심 개념, 단계별 첫 번째 작업 과정 및 바로 열고 적용할 수 있는 준비된 템플릿의 라이브러리를 보여줍니다.
 
 >[!TIP]
 >
@@ -28,9 +43,9 @@ ht-degree: 0%
       <img alt="메이크업 단지" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>1. Firefly 그래프란?</strong></a>
+   <a href="what-is-firefly-graph.md"><strong>1. Firefly Graph란 무엇입니까?</strong></a>
     </div>
-    <em>Firefly 그래프가 무엇인지, 단일 프롬프트와 어떻게 비교되는지 알아보세요</em>
+    <em>Firefly Graph가 무엇인지, 단일 프롬프트와 어떻게 비교되는지 알아보세요</em>
     <br>
   </td>
   <td>
@@ -80,7 +95,7 @@ ht-degree: 0%
         <img alt="메이크업 항아리 다른 배경" src="../assets/graph-5.png" />
     </a>
       <div>
-    <a href="customize-template.md"><strong>6. 템플릿 사용자 정의</strong></a>
+    <a href="customize-template.md"><strong>6. 템플릿 사용자 지정</strong></a>
       </div>
       <em>템플릿을 나만의 시작 아이디어를 반영하도록 설정</em>
       <br>
@@ -90,7 +105,7 @@ ht-degree: 0%
       <img alt="초콜릿 상자" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Firefly 그래프 웨비나 소개</strong></a>
+   <a href="introducing-graph.md"><strong>반딧불 그래프 웨비나 소개</strong></a>
     </div>
     <em>이 웨비나에서 Firefly의 시각적 워크플로 시스템 그래프에 대해 자세히 알아보세요</em>
     <br>

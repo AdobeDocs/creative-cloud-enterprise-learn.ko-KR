@@ -7,21 +7,26 @@ level: Beginner, Intermediate
 jira: KT-10963
 thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
-TQID: https://experienceleague.adobe.com/UgBJx5HBqvNjlbDIiSqV7KtzqmccwpbxwnXAHR9s13U
+TQID: 'https://experienceleague.adobe.com/UgBJx5HBqvNjlbDIiSqV7KtzqmccwpbxwnXAHR9s13U'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '85'
 ht-degree: 0%
-
 ---
-
 # 길들이기 유형 불안
 
 Adobe Creative Cloud 구독을 통해 누릴 수 있는 다양한 혜택 중 하나는 Adobe Fonts에서 전문적으로 디자인 및 선별된 20,000개 이상의 글꼴을 무료로 이용할 수 있다는 것입니다. 원래 Typekit으로 알려진 Adobe Fonts은 단일 라이선싱 계약을 통해 사용할 수 있으며, 이를 통해 디자이너는 개인 또는 상업용 프로젝트를 무제한으로 창의적으로 사용할 수 있습니다.

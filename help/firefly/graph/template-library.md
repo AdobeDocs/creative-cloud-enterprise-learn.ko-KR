@@ -1,22 +1,37 @@
 ---
 title: 템플릿 라이브러리
-description: 직접 프로젝트를 열고 조정할 수 있는 준비된 Firefly 그래프 템플릿을 찾아보세요
+description: 프로젝트에 따라 열고 조정할 수 있는 기성 Firefly Graph 템플릿을 찾아보세요
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22134
 hide: true
-hidefromtoc: true
-source-git-commit: bf07a4d42a566cc2f415d36305b99e46f540e72a
+hidefromtoc: 'yes'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
-
 ---
-
 # &#x200B;5. 템플릿 라이브러리
 
-Firefly 그래프 템플릿의 빠른 참조 인덱스로, 각 템플릿의 제작 또는 작업에 따라 구성됩니다. 모든 예는 시작점입니다. 프로덕션 환경에서 템플릿을 사용하기 전에 자체 브랜드, 제품 및 프롬프트를 바꿉니다.
+Firefly Graph 템플릿의 빠른 참조 인덱스로, 각 템플릿의 제작 또는 작업에 따라 정렬됩니다. 모든 예는 시작점입니다. 프로덕션 환경에서 템플릿을 사용하기 전에 자체 브랜드, 제품 및 프롬프트를 바꿉니다.
 
 ## 이미지 생성 및 스타일
 
@@ -40,7 +55,7 @@ Firefly 그래프 템플릿의 빠른 참조 인덱스로, 각 템플릿의 제�
 | 그래프 템플릿 | 설명 | 사용 사례 |
 |---|---|---|
 | [**시작 - 비디오 생성**](/help/firefly/graph/templates/get-started-video-gen.md) | 승인된 스틸 키 아트와 짧은 모션 프롬프트를 피드합니다. | <ul><li>주요 아트를 비디오로</li><li>Launch 티저</li><li>비디오 잘라내기</li></ul> |
-| [**글머리 기호 시간 VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | 히어로 제품 또는 피사체 이미지를 공급하여 그 주위에 회전 각도 시퀀스를 생성한 다음 고정 프레임 스윕을 자동으로 스티치합니다. | <ul><li>글머리 기호 시간 샷</li><li>360 프레임 고정</li><li>회전하는 영웅 샷</li></ul> |
+| [**글머리 기호 시간 VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | 히어로 제품 또는 피사체 이미지를 피드하여 주위에 회전하는 각도 시퀀스를 생성한 다음 고정 프레임 스윕을 자동으로 스티치합니다. | <ul><li>글머리 기호 시간 샷</li><li>360 고정 프레임</li><li>회전하는 영웅 샷</li></ul> |
 
 ## 스토리보드 작성
 
@@ -53,7 +68,7 @@ Firefly 그래프 템플릿의 빠른 참조 인덱스로, 각 템플릿의 제�
 
 | 그래프 템플릿 | 설명 | 사용 사례 |
 |---|---|---|
-| [**실시간 셰이더**](/help/firefly/graph/templates/real-time-shaders.md) | 이미지를 사용하여 시작하고 서로 다른 세 가지 사용자 정의 셰이더를 적용하여 실시간으로 결과를 미리 볼 수 있습니다. | <ul><li>구성기 셰이더</li><li>페인트 재질 미리보기</li><li>제품 렌더링</li></ul> |
+| [**실시간 셰이더**](/help/firefly/graph/templates/real-time-shaders.md) | 이미지를 사용하여 시작하고 서로 다른 세 가지 사용자 정의 셰이더를 적용하여 실시간으로 결과를 미리 볼 수 있습니다. | <ul><li>구성기 셰이더</li><li>페인트 재질 미리 보기</li><li>제품 렌더링</li></ul> |
 | [**문자 모델 생성**](/help/firefly/graph/templates/character-model-generation.md) | 일러스트레이션의 3D 애니메이션 스타일을 만듭니다. | <ul><li>마스코트 모형</li><li>기본 3D 모델</li><li>강사 모델</li></ul> |
 | [**비닐 장난감 디자인**](/help/firefly/graph/templates/vinyl-toy-design.md) | 캐릭터 또는 마스코트 참조를 입력하고 스타일화된 비닐 장난감 형식으로 렌더링합니다. | <ul><li>수집 가능한 개념</li><li>마스코트 도형</li><li>라이선싱 피치</li></ul> |
 | [**3D 턴어라운드로 스케치**](/help/firefly/graph/templates/sketch-to-3d.md) | 스케치를 3D 캐릭터로 변환. | <ul><li>하드웨어 전환</li><li>차량 및 소품 교체</li><li>문자 전환</li></ul> |
