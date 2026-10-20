@@ -33,6 +33,6 @@ ht-degree: 3%
 
 이벤트 마케팅 팀이 온라인 이벤트에 대한 시청자를 끌어들이기 위해 고유한 콘텐츠를 만드는 방법을 알아봅니다. 이 워크플로에서 B2B 마케터는 Adobe Express 키트 및 라이브러리의 템플릿을 사용하여 브랜드에서 새 프로젝트를 시작합니다. B2B Marketer는 다양한 소셜 및 웹 채널에 대한 변형을 만들고 소셜 미디어 및 비디오 호스팅 플랫폼에서 콘텐츠를 공유합니다.
 
-이 자습서는 새 [Adobe Express](https://www.adobe.com/express/)를 사용합니다.
+이 자습서는 새 [Adobe Express](https://www.adobe.com/kr/express/)를 사용합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444986?captions=kor&quality=12&learn=on&hidetitle=true)
