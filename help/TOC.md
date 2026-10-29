@@ -9,19 +9,21 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '925'
 ht-degree: 3%
-
 ---
 
-
-# 기업 Tutorials Creative Cloud {#cce-learning-hub}
+# 기업 튜토리얼에 대한 Creative Cloud {#cce-learning-hub}
 
 + [개요](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
   + [개요](cce/overview-cce.md)
+  + {hide-from-toc}[AI 튜토리얼] {#cceaitutorials}
+    + {hide-from-toc}[개요](cce/ai-tutorials/overview-ai-tutorials.md)
+    + {hide-from-toc}[플랫 벡터 아트를 다시 그리지 않고 임의의 각도로 전환](cce/ai-tutorials/turn-flat-vector-art.md)
+    + {hide-from-toc}[매끄러운 벡터 패턴을 몇 시간이 아닌 몇 분 안에 제공](cce/ai-tutorials/seamless-vector.md)
   + 튜토리얼 {#ccetutorials}
     + [콘텐츠 크리에이터용 Acrobat](cce/acrobat-content-creators.md)
     + [CC Libraries으로 CC 워크플로우 개선](cce/cc-workflows-cc-libraries.md)
@@ -136,13 +138,13 @@ ht-degree: 3%
     + {hide-from-toc}[카메라 롤 앞에 정렬](firefly/align-camera-roll.md)
   + {hide-from-toc}그래프 자습서 개 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly 그래프 개요](firefly/graph/overview-firefly-graph.md)
-    + {hide-from-toc}[Firefly 그래프란?](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Firefly 그래프 주요 개념](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[반딧불 그래프란?](firefly/graph/what-is-firefly-graph.md)
+    + {hide-from-toc}[Firefly Graph 주요 개념](firefly/graph/key-concepts.md)
     + {hide-from-toc}[첫 번째 그래프 만들기](firefly/graph/create-your-first-graph.md)
     + {hide-from-toc}[그래프 공유](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[템플릿 라이브러리](firefly/graph/template-library.md)
     + {hide-from-toc}[템플릿 사용자 지정](firefly/graph/customize-template.md)
-    + {hide-from-toc}[Firefly 그래프 웨비나 소개](firefly/graph/introducing-graph.md)
+    + {hide-from-toc}[반딧불 그래프 웨비나 소개](firefly/graph/introducing-graph.md)
     + {hide-from-toc}그래프 템플릿 개 {#graph-templates}
       + {hide-from-toc}[시작하기 - 이미지 생성](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[일관된 문자 생성](firefly/graph/templates/character-gen.md)
@@ -207,7 +209,7 @@ ht-degree: 3%
   + [개요](dva/overview-dva.md)
   + 튜토리얼 {#videotutorials}
     + [전문적인 모션 그래픽 템플릿](dva/motion-graphics-templates.md)
-    + [Frame.io로 비디오 검토](dva/video-review-frame-io.md)
+    + [프레임.io로 비디오 검토](dva/video-review-frame-io.md)
   + 빠른 참조 안내선 {#videorefguides}
     + [비디오 안내선](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
