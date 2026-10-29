@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
+source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '193'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -84,4 +84,37 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
   </td>
 </tr>
 </table>
+
+## Photoshop 아티스트/재투처
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="retouch-faster.md">
+      <img alt="더 빠르게 재손질하고 원본 픽셀 유지" src="../../assets/retouch.png" />
+   </a>
+    <div>
+   <a href="retouch-faster.md"><strong>더 빠르게 수정하고 원래 픽셀을 유지합니다</strong></a>
+    </div>
+    <em>원본 픽셀을 그대로 유지하면서 Photoshop에서 제품 사진에 자연스러운 그림자를 추가하는 방법을 알아보세요</em>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 
