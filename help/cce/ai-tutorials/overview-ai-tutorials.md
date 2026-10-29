@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
+source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -105,8 +105,13 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="촬영 시 일관된 색상을 위한 사전 설정 작성" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>촬영 시 일관된 색상을 위한 사전 설정 작성</strong></a>
+    </div>
+    <em>각 이미지를 하나씩 편집하지 않고 전체 사진을 일관성 있게 보이게 하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
