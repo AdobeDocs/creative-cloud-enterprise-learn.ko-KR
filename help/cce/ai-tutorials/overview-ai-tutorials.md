@@ -3,11 +3,9 @@ title: 기업 AI Tutorials Creative Cloud
 description: 기업 AI 튜토리얼 Creative Cloud에 대해 알아보기
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-23021
-hide: true
-hidefromtoc: true
-source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
+source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
