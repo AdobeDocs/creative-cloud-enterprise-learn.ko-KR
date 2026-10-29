@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -141,9 +141,14 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <em>Premiere에서 생성형 확장을 사용하는 방법 알아보기</em>
     <br>
   </td>
-  <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="러프 컷에 더 빠르게 액세스하기" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>러프 컷에 더 빠르게 이동</strong></a>
+    </div>
+    <em>모든 클립을 스크러빙하지 않고 인터뷰로부터 러프 컷을 만들고 Premiere에서 더 빠르게 B-롤하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
