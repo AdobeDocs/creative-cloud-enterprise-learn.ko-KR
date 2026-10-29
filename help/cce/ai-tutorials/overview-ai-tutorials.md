@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -31,8 +31,13 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="몇 시간이 아닌 몇 분 만에 원활한 벡터 패턴" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>매끄러운 벡터 패턴을 몇 시간이 아닌 몇 분 안에 제공</strong></a>
+    </div>
+    <em>모든 반복 가장자리를 일일이 확인하지 않고 Illustrator에서 매끄러운 브랜드 패턴을 만드는 방법을 배워보세요</em>
     <br>
   </td>
   <td>
