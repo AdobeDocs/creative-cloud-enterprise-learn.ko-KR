@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
 
-Creative Cloud 전반에서 아이디어를 검색하고, 콘텐츠를 제작하고, 크리에이티브 워크플로우를 간소화하는 데 도움이 되는 튜토리얼을 살펴보세요. 그래픽 Designer, 크리에이티브/아트 Director, Photoshop 아티스트/리투처, 비디오 편집기 등의 역할별 자습서가 제공됩니다.
+Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠를 제작하고, 크리에이티브 워크플로우를 간소화하는 데 도움이 되는 튜토리얼을 살펴보세요. 튜토리얼은 그래픽 Designer, 크리에이티브/아트 Director, Photoshop 아티스트/리투처, 비디오 편집기 등의 역할별로 그룹화되어 있습니다.
 
 ## 그래픽 Designer
 
@@ -31,17 +31,17 @@ Creative Cloud 전반에서 아이디어를 검색하고, 콘텐츠를 제작하
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
