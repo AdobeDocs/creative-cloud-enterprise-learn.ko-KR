@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
 workflow-type: tm+mt
-source-wordcount: '925'
+source-wordcount: '976'
 ht-degree: 3%
 ---
 
@@ -20,10 +20,16 @@ ht-degree: 3%
 + [개요](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
   + [개요](cce/overview-cce.md)
-  + {hide-from-toc}[AI 튜토리얼] {#cceaitutorials}
-    + {hide-from-toc}[개요](cce/ai-tutorials/overview-ai-tutorials.md)
-    + {hide-from-toc}[플랫 벡터 아트를 다시 그리지 않고 임의의 각도로 전환](cce/ai-tutorials/turn-flat-vector-art.md)
-    + {hide-from-toc}[매끄러운 벡터 패턴을 몇 시간이 아닌 몇 분 안에 제공](cce/ai-tutorials/seamless-vector.md)
+  + AI 튜토리얼 {#cceaitutorials}
+    + [개요](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [플랫 벡터 아트를 다시 그리지 않고 임의의 각도로 변경](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [몇 시간이 아닌 몇 분 만에 원활한 벡터 패턴](cce/ai-tutorials/seamless-vector.md)
+    + [점심 전에 간단한 것부터 20가지 방법](cce/ai-tutorials/one-brief.md)
+    + [간략한 스토리보드까지: 제작하기 전에 비디오 방향 살펴보기](cce/ai-tutorials/brief-to-storyboard.md)
+    + [더 빠르게 재손질하고 원본 픽셀 유지](cce/ai-tutorials/retouch-faster.md)
+    + [촬영 시 일관된 색상을 위한 사전 설정 작성](cce/ai-tutorials/build-presets.md)
+    + [컷의 간격 채우기: B-롤, 오디오, 너무 빨리 끝나는 클립](cce/ai-tutorials/fill-gaps.md)
+    + [러프 컷에 더 빠르게 액세스하기](cce/ai-tutorials/rough-cut.md)
   + 튜토리얼 {#ccetutorials}
     + [콘텐츠 크리에이터용 Acrobat](cce/acrobat-content-creators.md)
     + [CC Libraries으로 CC 워크플로우 개선](cce/cc-workflows-cc-libraries.md)
