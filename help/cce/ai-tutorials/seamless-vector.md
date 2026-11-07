@@ -14,4 +14,4 @@ ht-degree: 0%
 
 모든 반복 가장자리를 일일이 확인하지 않고 Illustrator에서 매끄러운 브랜드 패턴을 만드는 방법을 살펴보세요. 패턴 생성이 시작점을 만드는 방법, 나만의 로고 아이콘을 타일에 드롭하는 방법 및 패키징, 토트 및 이벤트 배경에 대한 반복 범위의 크기를 조정하는 방법을 알아봅니다. 또한 [생성형 색상 변경]이 완전히 편집 가능한 하나의 디자인에서 세 개의 컬러웨이를 만드는 방법을 살펴보겠습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505942?captions=kor&quality=12&learn=on&hidetitle=true)

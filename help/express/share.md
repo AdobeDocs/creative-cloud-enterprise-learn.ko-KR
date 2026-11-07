@@ -28,7 +28,7 @@ ht-degree: 0%
 
 PNG, JPEG 또는 PDF과 같은 다양한 파일 포맷으로 프로젝트를 다운로드하고 공유하는 옵션을 살펴보세요. Publish은 웹에 프로젝트를 제공하고 간편하게 액세스할 수 있도록 링크를 생성하거나, 각 플랫폼에 맞게 게시물을 맞춤화하는 옵션을 사용하여 소셜 미디어 플랫폼에 직접 미디어를 예약하고 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506167?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

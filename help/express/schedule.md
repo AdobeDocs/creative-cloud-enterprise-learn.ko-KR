@@ -30,7 +30,7 @@ ht-degree: 0%
 
 instagram, Facebook, Twitter, Pinterest 및 LinkedIn에 대한 소셜 게시물을 예약합니다. 각 플랫폼에 대해 특정 속성을 선택할 수 있습니다. 예를 들어 Instagram에서 게시물, 스토리 또는 릴 중 원하는 콘텐츠를 선택할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506302?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

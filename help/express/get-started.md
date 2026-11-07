@@ -28,7 +28,7 @@ ht-degree: 0%
 
 앱에서 쉽게 탐색할 수 있도록 홈 페이지를 탐색합니다. 빠른 작업, 템플릿, 시즌 디자인, 브랜드, 라이브러리, 스케줄러, 튜토리얼 등에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506356?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

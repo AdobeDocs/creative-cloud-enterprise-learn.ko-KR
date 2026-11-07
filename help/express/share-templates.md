@@ -28,7 +28,7 @@ ht-degree: 0%
 
 팀의 브랜드 키트 또는 라이브러리에 템플릿을 저장하고 공유하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427098?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506266?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

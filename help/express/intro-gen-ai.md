@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Adobe Express의 새로운 Gen AI 기능에 대해 알아봅니다. 텍스트 프롬프트를 사용하여 디자인 및 템플릿을 쉽게 만들고, 이미지에 요소를 추가하고, 텍스트에 특수 효과를 적용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427018?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506218?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

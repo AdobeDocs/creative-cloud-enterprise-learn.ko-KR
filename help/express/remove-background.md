@@ -33,7 +33,7 @@ ht-degree: 0%
 
 빠른 작업을 사용하여 클릭 한 번으로 이미지에서 배경을 제거하는 방법을 살펴봅니다. 배경을 제거한 후 이미지를 다운로드하여 여러 용도로 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506215?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 이미지의 특정 영역을 지우는 방법을 살펴봅니다. 또는 복원 도구를 사용하여 이미지의 일부를 다시 가져올 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506185?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 
