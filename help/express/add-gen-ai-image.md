@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Adobe Firefly 기반의 생성형 인공지능 이미지를 크리에이티브 프로젝트에 추가하는 방법을 알아봅니다. 다양한 스타일 및 콘텐츠 유형에 대한 옵션을 사용하여 텍스트 프롬프트에 따라 이미지를 생성하여 콘텐츠를 개인 맞춤화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426933?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506251?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

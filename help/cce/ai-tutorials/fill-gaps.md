@@ -14,4 +14,4 @@ ht-degree: 0%
 
 B롤이 몇 초 짧아지고 촬영이 끝났습니다. 이제 어쩌지? Premiere에서 [생성형 확장]을 사용하여 이미 가지고 있는 클립에서 추가 푸티지를 생성하여 정확히 필요한 위치에 잘라내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505972?captions=kor&quality=12&learn=on&hidetitle=true)

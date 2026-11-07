@@ -33,7 +33,7 @@ ht-degree: 0%
 
 소셜 미디어 비디오 템플릿을 사용하는 방법을 포함하여 비디오 프로젝트를 시작하는 다양한 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506122?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 

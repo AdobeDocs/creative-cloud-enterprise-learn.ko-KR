@@ -33,7 +33,7 @@ ht-degree: 0%
 
 타임라인에 새 비디오 클립을 추가하고 길이를 조정하고 전환을 추가하고 클립을 분할하여 새 장면을 만드는 방법을 살펴보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506275?captions=kor&quality=12&learn=on&hidetitle=true)
 
 ## 이 시리즈의 추가 비디오
 
