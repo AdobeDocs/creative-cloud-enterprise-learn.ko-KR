@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -49,8 +49,13 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="벡터 아트를 InDesign 레이아웃으로 이동하고 전달을 위해 패키지화" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>벡터 아트를 InDesign 레이아웃으로 이동하고 전달을 위해 패키지화</strong></a>
+    </div>
+    <em>InDesign의 AI 도우미에 문의하여 인쇄 레이아웃을 확인하는 방법</em>
     <br>
   </td>
 </tr>
@@ -118,8 +123,13 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="생성형 도구를 사용하여 이미지 정리 및 조정" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>생성 도구를 사용하여 이미지 정리 및 조정</strong></a>
+    </div>
+    <em>생성형 확장 및 생성형 채우기 확장을 사용하여 아이디어를 개선하는 방법에 대해 알아보세요</em>
     <br>
   </td>
   <td>
