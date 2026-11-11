@@ -14,4 +14,4 @@ ht-degree: 0%
 
 바람 부는 옥상에서 하는 인터뷰는 듣기 힘들다. 이때 잘라내지 않아도 됩니다. Premiere의 [기본 사운드] 패널에서 AI 향상 도구를 사용하여 바람에 녹음된 인터뷰 오디오를 구하는 방법을 알아봅니다. 음성을 앞으로 당겨 배경 노이즈를 줄이고 음성 트랙을 개선한 다음 클립으로 편집을 마무리합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508147?captions=kor&quality=12&learn=on&hidetitle=true)
