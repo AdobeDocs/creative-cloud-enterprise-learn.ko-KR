@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
+source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '412'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -164,12 +164,18 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <em>같은 편집에 속한 것처럼 다르게 조명을 비추는 방법에 대해 알아보세요</em>
     <br>
   </td>
-  <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Adobe Premiere의 새로운 기능: 대화, 분위기 및 노이즈를 분리하기" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Adobe Premiere의 새로운 기능: 대화, 분위기 및 노이즈를 분리하기</strong></a>
+    </div>
+    <em>오디오를 분리하여 대화 상자를 복구하는 방법</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 
