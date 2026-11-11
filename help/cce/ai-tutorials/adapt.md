@@ -16,4 +16,4 @@ ht-degree: 0%
 
 이 튜토리얼에서는 [생성형 확장] 및 [생성형 채우기]를 사용하여 장면을 확장하고 차단된 사람을 보기로 가져오는 방법과 레이어 마스크가 원래 픽셀을 필요한 위치에 복원하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508142?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508166?captions=kor&quality=12&learn=on&hidetitle=true)
