@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
+source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '383'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -149,14 +149,19 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
       <img alt="러프 컷에 더 빠르게 액세스하기" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>러프 컷에 더 빠르게 이동</strong></a>
+   <a href="rough-cut.md"><strong>러프 컷에 더 빠르게 이동</strong></a>
     </div>
     <em>모든 클립을 스크러빙하지 않고 인터뷰로부터 러프 컷을 만들고 Premiere에서 더 빠르게 B-롤하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="여러 샷에 색상을 일치시킵니다. 색상 휠이 필요하지 않습니다." src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>여러 샷에서 색상을 일치시킵니다. 색상 휠이 필요하지 않습니다.</strong></a>
+    </div>
+    <em>같은 편집에 속한 것처럼 다르게 조명을 비추는 방법에 대해 알아보세요</em>
     <br>
   </td>
   <td>
