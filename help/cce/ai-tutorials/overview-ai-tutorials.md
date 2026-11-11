@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '353'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -39,8 +39,13 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="스케치에서 깔끔하고 편집 가능한 벡터" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>스케치에서 정리되고 편집 가능한 벡터</strong></a>
+    </div>
+    <em>Illustrator에서 러프 스케치를 편집 가능한 벡터 아트워크로 변환하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
