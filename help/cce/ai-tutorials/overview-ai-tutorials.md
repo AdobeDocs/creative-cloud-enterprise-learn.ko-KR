@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # 기업 AI 튜토리얼 Creative Cloud
@@ -39,13 +39,23 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="스케치에서 깔끔하고 편집 가능한 벡터" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>스케치에서 정리되고 편집 가능한 벡터</strong></a>
+    </div>
+    <em>Illustrator에서 러프 스케치를 편집 가능한 벡터 아트워크로 변환하는 방법에 대해 알아봅니다.</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="벡터 아트를 InDesign 레이아웃으로 이동하고 전달을 위해 패키지화" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>벡터 아트를 InDesign 레이아웃으로 이동하고 전달을 위해 패키지화</strong></a>
+    </div>
+    <em>InDesign의 AI 도우미에 문의하여 인쇄 레이아웃을 확인하는 방법</em>
     <br>
   </td>
 </tr>
@@ -113,8 +123,13 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="생성형 도구를 사용하여 이미지 정리 및 조정" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>생성 도구를 사용하여 이미지 정리 및 조정</strong></a>
+    </div>
+    <em>생성형 확장 및 생성형 채우기 확장을 사용하여 아이디어를 개선하는 방법에 대해 알아보세요</em>
     <br>
   </td>
   <td>
@@ -144,22 +159,33 @@ Creative Cloud에서 AI를 사용하여 아이디어를 발굴하고, 콘텐츠�
       <img alt="러프 컷에 더 빠르게 액세스하기" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>러프 컷에 더 빠르게 이동</strong></a>
+   <a href="rough-cut.md"><strong>러프 컷에 더 빠르게 이동</strong></a>
     </div>
     <em>모든 클립을 스크러빙하지 않고 인터뷰로부터 러프 컷을 만들고 Premiere에서 더 빠르게 B-롤하는 방법을 알아보세요</em>
     <br>
   </td>
   <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="여러 샷에 색상을 일치시킵니다. 색상 휠이 필요하지 않습니다." src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>여러 샷에서 색상을 일치시킵니다. 색상 휠이 필요하지 않습니다.</strong></a>
+    </div>
+    <em>같은 편집에 속한 것처럼 다르게 조명을 비추는 방법에 대해 알아보세요</em>
     <br>
   </td>
-  <td>
-    <img alt="스페이서" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Adobe Premiere의 새로운 기능: 대화, 분위기 및 노이즈를 분리하기" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Adobe Premiere의 새로운 기능: 대화, 분위기 및 노이즈를 분리하기</strong></a>
+    </div>
+    <em>오디오를 분리하여 대화 상자를 복구하는 방법</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 

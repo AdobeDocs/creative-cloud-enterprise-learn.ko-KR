@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -24,12 +24,17 @@ ht-degree: 3%
     + [개요](cce/ai-tutorials/overview-ai-tutorials.md)
     + [플랫 벡터 아트를 다시 그리지 않고 임의의 각도로 변경](cce/ai-tutorials/turn-flat-vector-art.md)
     + [몇 시간이 아닌 몇 분 만에 원활한 벡터 패턴](cce/ai-tutorials/seamless-vector.md)
+    + [스케치에서 깔끔하고 편집 가능한 벡터](cce/ai-tutorials/sketch-to-clean.md)
     + [점심 전에 간단한 것부터 20가지 방법](cce/ai-tutorials/one-brief.md)
     + [간략한 스토리보드까지: 제작하기 전에 비디오 방향 살펴보기](cce/ai-tutorials/brief-to-storyboard.md)
     + [더 빠르게 재손질하고 원본 픽셀 유지](cce/ai-tutorials/retouch-faster.md)
     + [촬영 시 일관된 색상을 위한 사전 설정 작성](cce/ai-tutorials/build-presets.md)
+    + [생성형 도구를 사용하여 이미지 정리 및 조정](cce/ai-tutorials/adapt.md)
+    + [벡터 아트를 InDesign 레이아웃으로 이동하고 전달을 위해 패키지화](cce/ai-tutorials/vector-to-layout.md)
     + [컷의 간격 채우기: B-롤, 오디오, 너무 빨리 끝나는 클립](cce/ai-tutorials/fill-gaps.md)
     + [러프 컷에 더 빠르게 액세스하기](cce/ai-tutorials/rough-cut.md)
+    + [여러 샷에 색상을 일치시킵니다. 색상 휠이 필요하지 않습니다.](cce/ai-tutorials/match-color.md)
+    + [Adobe Premiere의 새로운 기능: 대화, 분위기 및 노이즈를 분리하기](cce/ai-tutorials/pull-noise.md)
   + 튜토리얼 {#ccetutorials}
     + [콘텐츠 크리에이터용 Acrobat](cce/acrobat-content-creators.md)
     + [CC Libraries으로 CC 워크플로우 개선](cce/cc-workflows-cc-libraries.md)
